@@ -1,0 +1,3264 @@
+a2ps	4.14	Any-to-PostScript filter
+a52dec	0.7.4	Library for decoding ATSC A/52 streams (AKA 'AC-3')
+aacgain	1.8	AAC-supporting version of mp3gain
+aalib	1.4rc5.	Portable ASCII art graphics library
+aamath	0.3	Renders mathematical expressions as ASCII art
+aap	1.094	Aap is a make-like tool to download, build, and install software
+aardvark_shell_utils	1.0	Utilities to aid shell scripts or command-line users
+abcde	2.7	Better CD Encoder
+abcl	1.3.2	Armed Bear Common Lisp: a full implementation of Common Lisp
+abcm2ps	7.8.14	ABC music notation software
+abcmidi	2015-08-06	Converts abc music notation files to MIDI files
+abduco	0.4	Provides session management: i.e. separate programs from terminals
+abi-compliance-checker	1.99.9	Check binary and source compatibility for C/C++
+abnfgen	0.16	Quickly generate random documents that match an ABFN grammar
+abook	0.5.6	Address book with mutt support
+ace	6.3.3	ADAPTIVE Communication Environment: OO network programming in C++
+aces_container	v1.0	Reference implementation of SMPTE S2065-4
+ack	2.14	Search tool like grep, but optimized for programmers
+acme	0.91	Crossassembler for multiple environments
+acpica	20150717	OS-independent implementation of the ACPI specification
+activemq	5.11.2	Apache ActiveMQ: powerful open source messaging server
+activemq-cpp	3.8.4	C++ API for message brokers such as Apache ActiveMQ
+admesh	0.98.2	Processes triangulated solid meshes
+adns	1.5.0	C/C++ resolver library and DNS resolver utilities
+adplug	2.2.1	Free, hardware independent AdLib sound player library
+advancecomp	1.20	Recompression utilities for .PNG, .MNG, .ZIP, and .GZ files
+aescrypt	0.7	Program for encryption/decryption
+aescrypt-packetizer	3.10	Encrypt and decrypt using 256-bit AES encryption
+aeskeyfind	1.0	Program for automatic key-finding
+aespipe	v2.4c	AES encryption or decryption for pipes
+afflib	V3.7.6	Advanced Forensic Format
+afio	2.5.1	Creates cpio-format archives
+afl-fuzz	1.88	American fuzzy lop: Security-oriented fuzzer
+afsctool	1.6.4	Utility for manipulating HFS+ compressed files
+aften	0.0.8	Audio encoder which generates ATSC A/52 compressed audio streams
+agda	2.4.2.3	Dependently typed functional programming language
+aget	0.4.1	Multithreaded HTTP download accelerator
+aggregate	1.6	Optimizes lists of prefixes to reduce list lengths
+aha	0.4.8	ANSI HTML adapter
+ahcpd	0.53	Autoconfiguration protocol for IPv6 and IPv6/IPv4 networks
+aiccu	20070115	AICCU (Automatic IPv6 Connectivity Client Utility)
+aide	0.15.1	File and directory integrity checker
+aircrack-ng	1.1	Next-generation aircrack with lots of new features
+akka	2.11-2.3.11	Toolkit for building concurrent, distributed, and fault tolerant apps
+alac	0.2.0	Basic decoder for Apple Lossless Audio Codec files (ALAC)
+aldo	0.7.7	Morse code learning tool released under GPL
+algernon	0.85	HTTP/2 web server with Lua support
+algol68g	2.8.1	Algol 68 compiler-interpreter
+align	1.7.4	Text column alignment filter
+allegro	5.0.11	C/C++ multimedia library for cross-platform game development
+alpine	2.20	News and email agent
+alure	1.2	Manage common tasks with OpenAL applications
+amap	5.4	Perform application protocol detection
+amtterm	1.4	Serial-over-LAN (sol) client for Intel AMT
+analog	6.0	Logfile analyzer
+android-ndk	r10e	Android native-code language toolset
+android-platform-tools	23.0.0	Tools for the Android SDK
+android-sdk	24.4	Android API libraries and developer tools
+anjuta	3.18.0	GNOME Integrated Development Environment
+ansible	1.9.3	Automate deployment, configuration, and upgrading
+ansifilter	1.12	Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode
+ansiweather	1.04	Weather in your terminal, with ANSI colors and Unicode symbols
+ant	1.9.6	Java build tool
+ant-contrib	1.0b3	Collection of tasks for Apache Ant
+antigen	v1	Plugin manager for zsh, inspired by oh-my-zsh and vundle.
+antiword	0.37	Utility to read Word (.doc) files
+antlr	4.5.1	ANTLR: ANother Tool for Language Recognition
+anttweakbar	1.16	C/C++ library for adding GUIs to OpenGL apps
+aoeui	1.6	Lightweight text editor optimized for Dvorak and QWERTY keyboards
+apache-archiva	2.2.0	The Build Artifact Repository Manager
+apache-drill	1.1.0	Schema-free SQL query engine for Hadoop and NoSQL
+apache-forrest	0.9	Publishing framework providing multiple output formats
+apache-opennlp	1.6.0	Machine learning toolkit for processing natural language text
+apache-spark	1.5.0	Engine for large-scale data processing
+apachetop	0.12.6	Top-like display of Apache log
+ape	v1.1.2	Ajax Push Engine
+apel	10.8	Emacs Lisp library to help write portable Emacs programs
+apg	2.2.3	Tool set for random password generation
+apgdiff	2.4	Another PostgreSQL diff tool
+apib	1_0	HTTP performance-testing tool
+apktool	2.0.1	Tool for reverse engineering 3rd party, closed, binary Android apps
+apngasm	3.1.6	Next generation of apngasm, the APNG assembler
+apollo	1.7.1	Multi-protocol messaging broker based on ActiveMQ
+app-engine-go-32	386-1.9.23	Google App Engine SDK for Go!
+app-engine-go-64	64-1.9.26	Google App Engine SDK for Go!
+app-engine-java	1.9.23	Google App Engine for Java
+app-engine-python	1.9.23	Google App Engine
+apparix	11-062	File system navigation via bookmarking directories
+apple-gcc42	4.2.1-5553
+appscale-tools	2.4.0	Command-line tools for working with AppScale
+appswitch	1.1
+apr	1.5.2	Apache Portable Runtime library
+apr-util	1.5.4	Companion library to apr, the Apache Portable Runtime library
+apt-cacher-ng	0.8.5	Caching proxy
+apt-dater	0.9.0	Manage package updates on remote hosts using SSH
+aptly	v0.9.5	Swiss army knife for Debian repository management
+aqbanking	5.5.1	Generic online banking interface
+arabica	20121126	XML toolkit written in C++
+arangodb	2.6.8	Universal open-source database with a flexible data model
+archey	1.4	Archey script for OS X
+argp-standalone	1.3	Standalone version of arguments parsing functions from GLIBC
+argtable	2-13	ANSI C library for parsing GNU-style command-line options
+argus	3.0.8.1	Audit Record Generation and Utilization System server
+argus-clients	3.0.8	Audit Record Generation and Utilization System clients
+argyll-cms	V1.8.2	ICC compatible color management system
+aria2	1.19.0	Download with resuming and segmented downloading
+arm	1.4.5.0	Terminal status monitor for Tor
+arp-scan	1.9	ARP scanning and fingerprinting tool
+arp-sk	0.0.16	ARP traffic generation tool
+arping	2.15	Utility to check whether MAC addresses are already taken on a LAN
+arpoison	0.7	UNIX arp cache update utility
+arpon	2.7.2	Handler daemon to secure the ARP protocol from MITM attacks
+arss	0.2.3	Analyze a sound file into a spectrogram
+artifactory	4.0.2	Manages binaries
+ascii	3.15	List ASCII idiomatic names and octal/decimal code-point forms
+asciidoc	8.6.9	Formatter/translator for text files to numerous formats
+asciinema	v1.1.1	Record and share terminal sessions
+asciitex	0.21	Generate ASCII-art representations of mathematical equations
+asm6	1.6	6502 assembler
+asn1c	0.9.27.	Compile ASN.1 specifications into C source code
+aspcud	1.9.1	Package dependency solver
+aspell	0.60.6.1	Spell checker with better logic than ispell
+assimp	3.1.1	Portable library for importing many well-known 3D model formats
+astyle	2.05.1	Source code beautifier for C, C++, C#, and Java
+at-spi2-atk	2.14.1	Accessibility Toolkit GTK+ module
+at-spi2-core	2.14.1	Protocol definitions and daemon for D-Bus at-spi
+atdtool	1.3	Command-line interface for After the Deadline language checker
+aterm	2.8	AfterStep terminal emulator
+atf	0.21	ATF: Automated Testing Framework
+atk	2.18.0	GNOME accessibility toolkit
+atkmm	2.22.7	Official C++ interface for the ATK accessibility toolkit library
+atomicparsley	0.9.6	MPEG-4 command-line tool
+atool	0.39.0	Archival front-end
+ats2-postiats	0.2.3	ATS programming language implementation
+aubio	0.4.2	Extract annotations from audio signals
+audiofile	0.3.6	Reads and writes many common audio file formats
+augeas	1.4.0	Configuration editing tool and API
+auto-scaling	1.0.61.6	Client interface to the Amazon Auto Scaling web service
+autobench	2.1.2	Automatic webserver benchmark tool
+autoconf	2.69	Automatic configure script builder
+autoconf-archive	2015.02.24	Collection of over 500 reusable autoconf macros
+autoenv	v0.1.0	Per-project, per-directory shell environments
+autogen	5.18.4	Automated text file generator
+autojump	V22.2.4	Shell extension to jump to frequently used directories
+automake	1.15	Tool for generating GNU Standards-compliant Makefiles
+automoc4	0.9.88	Tool to add rules for generating Qt moc files
+automysqlbackup	v3.0-rc6	Automate MySQL backups
+autopano-sift-c	2.5.1	Find control points in overlapping image pairs
+autopsy	2.24	Graphical interface to Sleuth Kit investigation tools
+autossh	1.4e	Automatically restart SSH sessions and tunnels
+autotrace	0.31.1	Convert bitmap to vector graphics
+avce00	2.0.0	Make Arc/Info (binary) Vector Coverages appear as E00
+avian	v1.2.0	Lightweight VM and class library for a subset of Java features
+avidemux	2.6.8	Multiformat video editor that cuts, filters, and encodes
+aview	1.3.0rc1	ASCII-art image browser and animation viewer
+avra	1.3.0	Assember for the Atmel AVR microcontroller family
+avrdude	6.1	Atmel AVR MCU programmer
+avro-c	1.7.7	Data serialization system
+avro-cpp	1.7.7	Data serialization system
+avro-tools	1.7.7	Avro command-line tools and utilities
+awf	v1.3.0	awf (A Widget Factory) is a theme preview application for gtk2 and gtk3
+aws-cfn-tools	1.0.12	Client for Amazon CloudFormation web service
+aws-cloudsearch	2-2.0.1.0-2014.10.27	Client for Amazon CloudSearch web service
+aws-elasticache	1.12.000	Client for Amazon ElastiCache web service
+aws-elasticbeanstalk	3.5.4	Client for Amazon Elastic Beanstalk web service
+aws-sns-cli	2013-09-27	Client for Amazon Simple Notification web service
+awscli	1.8.8	Official Amazon AWS command-line interface
+axel	2.4	Light UNIX download accelerator
+b43-fwcutter	019	Extract firmware from Braodcom 43xx driver files
+babeld	1.6.2	Loop-avoiding distance-vector routing protocol
+babl	0.1.12	Dynamic, any-to-any, pixel format translation library
+backupninja	1.0.1	Backup automation tool
+bacula-fd	7.0.5	Network backup solution
+bagit	4.9.0	Library for creation, manipulation, and validation of bags
+balance	3.57	Software load balancer
+bam	0.4.0	Build system that uses Lua to describe the build process
+baobab	3.16.1	Gnome disk usage analyzer
+bar	1.4	Provide progress bars for shell scripts
+baresip	0.4.13	Modular SIP useragent
+base64	1.5	Encode and decode base64 files
+basex	8.3	Light-weight XML database and XPath/XQuery processor
+bash	4.4	Bourne-Again SHell, a UNIX command interpreter
+bash-completion	1.3	Programmable bash completion
+bash-git-prompt	2.3.5	Informative, fancy bash prompt for Git users
+bashdb	4.3-0.91	Bash shell debugger
+bashish	2.2.4	Theme environment for text terminals
+batik	1.8	Java-based toolkit for SVG images
+bats	v0.4.0	TAP-compliant test framework for Bash scripts
+bazaar	2.6.0	Human-friendly source code management (or 'version control')
+bbcolors	1.0.1	Save and load color schemes for BBEdit and TextWrangler
+bbe	0.2.2	Sed-like editor for binary files
+bbftp-client	3.2.1	Secure file transfer software, optimized for large files
+bchunk	1.2.0	Convert CD images from .bin/.cue to .iso/.cdr
+bcpp	20131209	C(++) beautifier
+bcrypt	1.1	Cross platform file encryption utility using blowfish
+bdw-gc	7.4.2	Garbage collector for C and C++
+beansdb	v0.6	Yet another distributed key-value storage system
+beanstalk	v1.10	Generic work queue originally designed to reduce web latency
+bear	2.0.4	Generate compilation database for clang tooling
+beecrypt	4.2.1	C/C++ cryptography library
+berkeley-db	6.1.26	High performance key/value database
+berkeley-db4	4.8.30	High performance key/value database
+betty	V0.1.7	English-like interface for the command-line
+bfg	1.12.5	Removes large files or passwords from Git history like git-filter-branch does, but faster.
+bgpdump	1.4.99.15	A  C library for analyzing MRT/Zebra/Quagga dump files
+bgpq3	v0.1.31	bgp filtering automation for Cisco and Juniper routers
+bgrep	0.2	Like grep but for binary strings
+bib-tool	2.61	Manipulates BibTeX databases
+bibclean	2.16	BibTeX bibliography file pretty printer and syntax checker
+bibtex2html	1.98	BibTeX to HTML converter
+bibtexconv	1.1.3	BibTeX file converter
+bibutils	5.6	Bibliography conversion utilities
+bigdata	1.5.1	Graph database supporting RDF data model, Sesame, and Blueprint APIs
+bigloo	4.1a-2	Scheme implementation with object system, C, and Java interfaces
+bind	9.10.3	Implementation of the DNS protocols
+binutils	2.25.1	FSF Binutils for native development
+binwalk	v2.0.1	Searches a binary image for embedded files and executable code
+bip	0.8.9	IRC proxy
+bison	3.0.4	Parser generator
+bitchx	1.2.1	BitchX IRC client
+bitlbee	3.4.1	IRC to other chat networks gateway
+bitrise	1.1.2	Command-line automation tool
+bittwist	2.0	Libcap-based Ethernet packet generator
+blahtexml	0.9	Converts equations into Math ML
+blazeblogger	1.2.0	CMS for the command-line
+blink1	v1.97	Control blink(1) indicator light
+blitz	0.10	C++ class library for scientific computing
+blitzwave	v0.8.0	C++ wavelet library
+blockhash	0.1	Perceptual image hash calculation tool
+bltool	0.2.1	Tool for command-line interaction with backloggery.com
+blucat	0.9	netcat for Bluetooth
+blueutil	v1.0.0	Get/set bluetooth power and discoverable state
+bmake	20150606	Portable version of NetBSD make(1)
+bmon	3.8	Interface bandwidth monitor
+bogofilter	1.2.4	Mail filter via statistical analysis
+bokken	1.6	GUI for the Pyew and Radare projects
+bonnie++	1.97	Benchmark suite for file systems and hard drives
+boost	1_58_0	Collection of portable C++ source libraries
+boost-bcp	1_58_0	Utility for extracting subsets of the Boost library
+boost-build	2014.10	C++ build system
+boost-python	1_58_0	C++ library for C++/Python interoperability
+boot-clj	2.2.0	Build tooling for Clojure
+boot2docker	v1.8.0	Lightweight Linux for Docker
+botan	1.10.10	Cryptographic algorithms and formats library in C++
+box2d	v2.3.1	2D physics engine for games
+boxes	v1.1.2	Draw boxes around text
+bpm-tools	0.3	Detect tempo of audio files using beats-per-minute (BPM)
+brag	1.4.3	Download and assemble multipart binaries from newsgroups
+brew-gem	v0.5.2	Install rubygems as homebrew formulas
+brew-pip	0.4.1	Install pip packages as homebrew formulas
+briss	0.9	Crop PDF files
+bro	2.4	Network security monitor
+browser	7	Pipe HTML to a browser
+bsdconv	11.3.1	Charset/encoding converter library
+bsdiff	4.3	Generate and apply patches to binary files
+bsdmake	24	BSD make (build tool)
+bsdsfv	1.18	SFV utility tools
+bsponmpi	0.3	Implements the BSPlib standard on top of MPI
+btparse	0.34	BibTeX utility libraries
+btpd	0.16	BitTorrent protocol daemon
+buildapp	1.5.5	Creates executables with SBCL
+bulk_extractor	1.5.5	Stream-based forensics tool
+bullet	2.83.6	Physics SDK
+bup	0.27	Backup tool
+burl	1.0.1	Shell script wrapper that offers helpful shortcuts for curl(1)
+burp	1.4.28	Network backup and restore
+bvi	1.4.0	Vi-like binary file (hex) editor
+bwctl	1.5.4	Command-line tool and daemon for network measuring tools
+bwm-ng	0.6.1	Console-based live network and disk I/O bandwidth monitor
+byacc	20141128	(Arguably) the best yacc variant
+byobu	5.94	Text-based window manager and terminal multiplexer
+bzr-fastimport	0.13.0	Bazaar plugin for fast loading of revision control
+c-ares	1.10.0	Asynchronous DNS library
+c-kermit	9.0.302	Scriptable network and serial communication for UNIX and VMS
+cabal-install	1.22.6.0	Command-line interface for Cabal and Hackage
+cabextract	1.6	Extract files from Microsoft cabinet files
+cabocha	0.69	Yet Another Japanese Dependency Structure Analyzer
+cadaver	0.23.3	Command-line client for DAV
+caddy	v0.7.5	Alternative general-purpose HTTP/2 web server
+cadubi	1.3	Creative ASCII drawing utility
+caf	0.14.2	Implementation of the Actor Model for C++
+cairo	1.14.8	Vector graphics library with cross-device output support
+cairomm	1.11.2	Vector graphics library with cross-device output support
+cake	v0.5.4	Cake (C# Make) is a build automation system with a C# DSL.
+calabash	1.1.4-96	XProc (XML Pipeline Language) implementation
+calc	2.12.5.0	Arbitrary precision calculator
+calcurse	4.0.0	Text-based personal organizer
+camellia	2.7.0	Image Processing & Computer Vision library written in C
+camlistore	0.8	Content-addressable multi-layer indexed storage
+camlp4	4.02+6	Tool to write extensible parsers in OCaml
+camlp5	6.14	Camlp5 is a preprocessor and pretty-printer for OCaml
+capnp	0.5.3	Data interchange format and capability-based RPC system
+capstone	3.0.4	Multi-platform, multi-architecture disassembly framework
+carthage	0.8	Decentralized dependency manager for Cocoa
+cask	v0.7.2	Emacs dependency management
+casperjs	1.0.4	Navigation scripting and testing tool for PhantomJS
+cassandra	2.2.0	Eventually consistent, distributed key-value store
+cattle	1.2.0	Brainfuck language toolkit
+caudec	1.7.5	Covert audio files from one format to another
+cayley	v0.4.1	Graph database inspired by Freebase and Knowledge Graph
+cbmbasic	1.0	Commodore BASIC V2 as a scripting language
+cc65	2.13.3	6502 C compiler
+ccache	3.2.3	Object-file caching compiler wrapper
+ccal	2.5.3	Create Chinese calendars for print or browsing
+ccat	v1.0.0	Like cat but displays content with syntax highlighting
+ccd2iso	0.3	Convert CloneCD images to ISO images
+ccextractor	0.75	Free, GPL licensed closed caption tool
+cclive	0.7.16	Command-line video extraction utility
+ccm	2.0.3	Create and destroy an Apache Cassandra cluster on localhost
+cconv	0.6.2	Iconv based simplified-traditional Chinese conversion tool
+ccrypt	1.10	Encrypt and decrypt files and streams
+cctools	855	Binary and cross-compilation tools for Apple
+cctools-headers	855	cctools-headers via Apple
+ccze	0.2.1	Robust and modular log colorizer
+cd-discid	1.4	Read CD and get CDDB discid information
+cdargs	1.35	Bookmarks for the shell
+cdb	0.75	Create and read constant databases
+cdecl	2.5	Turn English phrases to C or C++ declarations
+cdk	5.0.20141106	Curses development kit provides predefined curses widget for apps
+cdlabelgen	4.3.0	CD/DVD inserts and envelopes
+cdparanoia	10.2	Audio extraction tool for sampling CDs
+cdpr	2.4	Cisco Discovery Protocol Reporter
+cdrdao	1.2.3	Record CDs in Disk-At-Once mode
+cdrtools	3.01	CD/DVD/Blu-ray premastering and recording software
+center-im	4.22.10	Text-mode multi-protocol instant messaging client
+cereal	v1.1.2	C++11 library for serialization
+ceylon	1_1_0	Programming language for writing large programs in teams
+cf	1.2.5	Filter to replace numeric timestamps with a formated date time
+cfengine	3.7.0	Help manage and understand IT infrastructure
+cfitsio	3.370	C access to FITS data files with optional Fortran wrappers
+cflow	1.4	Generate call graphs from C code
+cfr-decompiler	0_102	Yet Another Java Decompiler.
+cfv	1.18.3	Test and create various files (e.g., .sfv, .csv, .crc., .torrent)
+cgal	4.6.3	CGAL: Computational Geometry Algorithm Library
+cgdb	0.6.8	Curses-based interface to the GNU Debugger
+cgrep	v6.4.12	Context-aware grep for source code
+cgvg	1.6.3	Command-line source browsing tool
+chadwick	0.6.4	Chadwick tools for parsing Retrosheet MLB play-by-play files.
+chapel	1.11.0	Emerging programming language designed for parallel computing
+charm-tools	1.7.0	Tools for authoring and maintaining juju charms
+chcase	2.0	Perl file-renaming script
+cheat	2.1.14	Create and view interactive cheat sheets for *nix commands
+check	0.10.0	C unit testing framework
+check_postgres	2.22.0	Monitor Postgres databases
+checkbashisms	2.15.8	Checks for bashisms in shell scripts
+checkstyle	6.9	Check Java source against a coding standard
+cherokee	1.2.103	Cherokee web server
+chgems	v0.3.2	chroot for Ruby gems
+chibi-scheme	0.7.3	Small footprint Scheme for use as a C Extension Language
+chicken	4.10.0	Compiler for the Scheme programming language
+chinadns-c	1.3.2	Port of ChinaDNS to C: fix irregularities with DNS in China
+chipmunk	7.0.1	2D rigid body physics library written in C
+chisel	1.2.0	Collection of LLDB commands to assist debugging iOS apps
+chkrootkit	0.50	Rootkit detector
+chmlib	0.40	Library for dealing with Microsoft ITSS/CHM files
+chordii	4.5.1	Text file to music sheet converter
+chromaprint	1.2	Core component of the AcoustID project (Audio fingerprinting)
+chrome-cli	1.5.0	Control Google Chrome from the command-line
+chromedriver	2.19	Tool for automated testing of webapps across many browsers
+chruby	v0.3.9	Ruby environment tool
+chruby-fish	v0.6.0	Thin wrapper around chruby to make it work with the Fish shell
+chuck	1.3.5.1	Concurrent, on-the-fly audio programming language
+cidrmerge	1.5.3	CIDR merging with white listing (network exclusion)
+cifer	1.2.0	Work on automating classical cipher cracking in C
+cig	v0.1.5	CLI app for checking the state of your git repositories
+cimg	1.6.3	C++ toolkit for image processing
+cityhash	1.1.1	Hash functions for strings
+cjdns	v16.1	Advanced mesh routing system with cryptographic addressing
+cksfv	1.3.14	File verification utility
+clamav	0.98.7	Anti-virus software
+clamz	0.5	Download MP3 files from Amazon's music store
+clang-format	2015-07-31	C, C++, Obj-C, Java, JavaScript, TypeScript formatting tools and editor plugins
+clang-omp	2015-04-01	OpenMP C/C++ language extensions in Clang/LLVM compiler
+clasp	3.1.3	Answer set solver for (extended) normal logic programs
+class-dump	3.5	Utility for examining the Objective-C segment of Mach-O files
+classads	1.0.10	Classified Advertisements (used by HTCondor Central Manager)
+clean	3.4	Search for files matching a regex and delete them
+clearlooks-phenix	6.0.3	GTK+3 port of the Clearlooks Theme
+clens	0_7_0	Library to help port code from OpenBSD to other operating systems
+cless	0.3.0.0	Display file contents with colorized syntax highlighting
+clhep	2.2.0.8	Class Library for High Energy Physics
+clib	1.4.2	Package manager for C programming
+cliclick	3.1	Tool for automating emulated mouse clicks
+clipper	0.2	Share OS X clipboard with tmux and other local and remote apps
+clipsafe	1.1	Command-line interface to Password Safe
+clisp	2.49	GNU CLISP, a Common Lisp implementation
+cln	1.3.4	CLN: Class Library for Numbers
+cloc	1.64	Statistics utility to count lines of code
+clockywock	0.3.1a	Ncurses analog clock
+clojurescript	1.7.48	Clojure to JS compiler
+cloog	0.18.3	Generate code for scanning Z-polyhedra
+cloog-ppl015	0.15.11
+cloog018	0.18.0	Generate code for scanning Z-polyhedra
+closure-compiler	v20150901	JavaScript optimizing compiler
+closure-linter	v2.3.19	Check JavaScript files for style and documentation
+cloud-watch	1.0.20.0	Amazon CloudWatch command-line Tool
+cloudbees-sdk	1.5.2	Command-line tools to make use of the CloudBees Platform
+clozure-cl	1.10	Common Lisp implementation with a long history
+clpbar	1.11.1	Command-line progress bar
+clucene	2.3.3.4	C++ port of Lucene: high-performance, full-featured text search engine
+clutter	1.24.0	Generic high-level canvas library
+clutter-gst	3.0.10	ClutterMedia interface using GStreamer for video and audio
+clutter-gtk	1.6.4	GTK+ integration library for Clutter
+cmake	3.6.3	Cross-platform make
+cmatrix	1.2a	Console Matrix
+cmigemo	20110227	Migemo is a tool that supports Japanese incremental search with Romaji
+cmocka	1.0.1	Unit testing framework for C
+cmockery	0.1.2	Unit testing and mocking library for C
+cmockery2	v1.3.9	Reviving cmockery unit test framework from Google
+cmu-pocketsphinx	0.8	Lightweight speech recognition engine for mobile devices
+cmu-sphinxbase	0.8	Lightweight speech recognition engine for mobile devices
+cmuclmtk	0.7	Language model tools (from CMU Sphinx)
+cmus	v2.7.1	Music player with an ncurses based interface
+cntlm	0.92.3	NTLM authentication proxy with tunneling
+coccinelle	1.0.0-rc21	Program matching and transformation engine for C code
+cocot	1.1-20120313	Code converter on tty
+coda-cli	v1.0.5	Shell integration for Panic's Coda
+codequery	v0.16.0	Index, query, or search C, C++, Java, Python, Ruby, or Go code
+cogl	1.22.0	Low level OpenGL abstraction library developed for Clutter
+coin	3.1.3	Retained-mode toolkit for 3D graphics development
+collada-dom	2.4.0	C++ library for loading and saving COLLADA data
+collectd	5.5.0	Statistics collection and monitoring daemon
+colordiff	1.0.15	Color-highlighted diff(1) output
+colormake	0.9.20140503	Wrapper around make to colorize the output
+colorsvn	0.3.3	Subversion output colorizer
+colortail	0.3.4	Like tail(1), but with various colors for specified output
+commonmark	0.22.0	Strongly specified, highly compatible implementation of Markdown
+compcert	v2.5	CompCert C verified compiler
+compface	1.5.2	Convert to and from the X-Face format
+concurrencykit	0.4.5	Aid design and implementation of concurrent systems
+confuse	2.7	Configuration file parser library written in C
+conserver	8.2.1	Allows multiple users to watch a serial console at the same time
+consul	v0.5.2	Tool for service discovery, monitoring and configuration
+contacts	1.1a-3	Command-line tool to access OS X's Contacts (formerly 'Address Book')
+convertlit	1.8	Convert Microsoft Reader format eBooks into open format
+convmv	2.0	Filename encoding conversion tool
+cookiecutter	1.0.0	Utility that creates projects from templates
+coq	8.4pl6	Proof assistant for higher-order logic
+corelocationcli	2.0.0	Prints location information from CoreLocation
+coreutils	8.30	GNU File, Shell, and Text utilities
+corkscrew	2.0	Tunnel SSH through HTTP proxies
+couchdb	1.6.1	CouchDB is a document database server
+couchdb-lucene	v1.0.2	Full-text search of CouchDB documents using Lucene
+couchpotatoserver	2.6.3	Download movies automatically
+cowpatty	4.6	Offline dictionary attack for WPA-PSK, WPA2-PSK networks
+cowsay	3.03	Configurable talking characters in ASCII art
+cpanminus	1.7039	Get, unpack, build, and install modules from CPAN
+cpansearch	0.2	CPAN module search written in C
+cpmtools	2.20	Tools to access CP/M file systems
+cpp-netlib	0.11.2	C++ libraries for high level network programming
+cppcheck	1.70	Static analysis of C and C++ code
+cppcms	1.0.5	Free High Performance Web Development Framework
+cppformat	1.1.0	Open-source formatting library for C++
+cppi	1.18	Indent C preprocessor directives to reflect their nesting
+cpptest	1.1.2	Unit testing framework handling automated tests in C++
+cppunit	1.13.2	Unit testing framework for C++
+cpputest	3.7.2	C /C++ based unit xUnit test framework
+cproto	4.7m	Generate function prototypes for functions in input files
+cpulimit	v0.1	CPU usage limiter
+cputhrottle	20100515	Limit the CPU usage of a process
+cracklib	2.9.5	LibCrack password checking library
+crash	1.3.1	Kernel debugging shell for Java that allows gdb-like syntax
+creduce	2.3.0	Reduce a C/C++ program while keeping a property of interest
+crf++	0.58	Conditional random fields for segmenting/labeling sequential data
+crm114	20100106	Examine, sort, filter or alter logs or data streams
+cronolog	1.6.2	Web log rotation
+crosstool-ng	1.21.0	Tool for building toolchains
+crunch	3.6	Wordlist generator
+crush-tools	20150716	Command-line tools for processing delimited text data
+cryptol	v2.2.4	Domain-specific language for specifying cryptographic algorithms
+cryptopp	5.6.2	Free C++ class library of cryptographic schemes
+crystal	v0.5.1	Code generator for every language, library and framework
+crystax-ndk	10.2.1	Drop-in replacement for Google's Android NDK
+cscope	15.8a	Tool for browsing source code
+csfml	2.3	SMFL bindings for C
+csmith	2.2.0	Generates random C programs conforming to the C99 standard
+cspice	65	Observation geometry system for robotic space science missions
+css-crush	v2.4.0	Extensible PHP based CSS preprocessor
+cssembed	0.4.5	Automatic data URI embedding in CSS files
+csshx	0.74	Cluster ssh tool for Terminal.app
+csup	20120305	Rewrite of CVSup in C
+csv-fix	1.6	CSVfix is a tool for manipulating CSV data
+csvprintf	1.0.3	Command-line utility for parsing CSV files
+csync	0.50.0	File synchronizer especially designed for normal users
+ctags	5.8	Reimplementation of ctags(1)
+ctail	0.1.0	Tool for operating tail across large clusters of machines
+ctemplate	2.3	Template language for C++
+ctl	1.5.2	Programming language for digital color management
+ctorrent	dnh3.3.2	BitTorrent command-line client
+ctunnel	0.7	Cryptographic or plain tunnels for TCP/UDP connections
+cuetools	1.4.1	Utilities for .cue and .toc files
+cunit	2.1-3	Lightweight unit testing framework for C
+cups-pdf	2.6.1	Print-to-PDF feature through CUPS
+curaengine	15.04	C++ 3D printing GCode generator
+curl	7.50.3	Get a file from an HTTP, HTTPS or FTP server
+curl-ca-bundle	2021-09-30
+curlish	1.22	Curl wrapper that adds support for OAuth 2.0
+curlpp	v0.7.3	C++ wrapper for libcURL
+cutter	1.2.5	Unit Testing Framework for C and C++
+cuty_capt	0.0.6	Converts web pages to vector/bitmap images using WebKit
+cvc4	1.4	Open-source automatic theorem prover for SMT 
+cvs	1.12.13	Version control system
+cvs2svn	2.4.0	Tool for converting from CVS to Subversion
+cvsps	3.13	Create patchset information from CVS
+cvsutils	0.2.6	CVS utilities for use in working directories
+cvsync	0.24.19	Portable CVS repository synchronization utility
+cweb	3.64ad	Literate documentation system for C, C++, and Java
+cxxtest	4.4	CxxTest Unit Testing Framework
+cyassl	v3.4.8	Embedded SSL Library written in C
+cyrus-sasl	2.1.22
+czmq	3.0.2	High-level C binding for ZeroMQ
+d-bus	1.10.0	Message bus system, providing inter-application communication
+daemon	0.6.4	Turn other processes into daemons
+daemonize	1.7.6	Run a command as a UNIX daemon
+daemonlogger	1.2.1	Network packet logger and soft tap daemon
+daemontools	0.76	Collection of tools for managing UNIX services
+dante	1.4.1	SOCKS server and client, implementing RFC 1928 and related standards
+daq	2.0.6	Network intrusion prevention and detection system
+dar	2.4.17	Backup directory tree and files
+darcs	2.10.0	Distributed version control system that tracks changes, via Haskell
+dark-mode	1.0.1	Toggle the Dark Mode (in OS X 10.10) from the command-line
+darkhttpd	1.10	Small static webserver without CGI
+darkice	1.2	Live audio streamer
+darkstat	3.0.719.	Network traffic analyzer
+dash	0.5.8	POSIX-compliant descendant of NetBSD's ash (the Almquist SHell)
+dasm	2.20.11-2014.03.04	Macro assembler with support for several 8-bit microprocessors
+dateutils	0.3.3	Tools to manipulate dates with a focus on financial data
+datomic	0.9.5302	Database separating transactions, storage and queries
+davix	0.5.0	Library and tools for advanced file I/O with HTTP-based protocols
+davmail	4.5.1-2303	POP/IMAP/SMTP/Caldav/Carddav/LDAP exchange gateway
+dbacl	1.14.1	Digramic Bayesian classifier
+dbus-glib	0.104	GLib bindings for the D-Bus message bus system
+dc3dd	7.1.614	Patched GNU dd that is intended for forensic acquisition of data
+dcal	0.1.0	dcal(1) is to cal(1) what ddate(1) is to date(1)
+dcd	v0.7.0	Auto-complete program for the D programming language
+dcfldd	1.3.4-1	Enhanced version of dd for forensics and security
+dcled	2.2	Linux driver for dream cheeky USB message board
+dcmtk	3.6.1_20150629	OFFIS DICOM toolkit command-line utilities
+dcraw	9.26.0	Digital camera RAW photo decoding software
+ddar	v1.0	De-duplicating archiver
+ddate	v0.2.2	Converts boring normal dates to fun Discordian Date
+ddclient	3.8.3	Update dynamic DNS entries
+ddrescue	1.20	GNU data recovery tool
+debianutils	4.5.1	Miscellaneous utilities specific to Debian
+deheader	1.2	Analyze C/C++ files for unnecessary headers
+deis	v1.10.0	Deploy and manage applications on your own servers
+deisctl	v1.10.0	Deis Control Utility
+deja-gnu	1.5.3	Framework for testing other programs
+delta	2006.08.03	Programatically minimize files to isolate features of interest
+denominator	4.7.1	Portable Java library for manipulating DNS clouds
+dependency-check	1.3.1	OWASP Dependency Check
+depqbf	4.01	Solver for quantified boolean formulae (QBF)
+desktop-file-utils	0.22	Command-line utilities for working with desktop entries
+detox	1.2.0	Utility to replace problematic characters in filenames
+devil	1.7.8	Cross-platform image library
+devtodo	0.1.20	Command-line task lists
+dex	v1.0	Dextrous text editor
+dex2jar	2.0	Tools to work with and reverse-engineer Android .dex and Java .class files
+dfc	3.0.5	Display graphs and colors of file system space/usage
+dfix	v0.2.2	Auto-upgrade tool for D source code
+dfu-programmer	0.7.2	Device firmware update based USB programmer for Atmel chips
+dfu-util	0.8	USB programmer
+dhcpdump	1.8	Monitor DHCP traffic for debugging purposes
+dhcping	1.2	Perform a dhcp-request to check whether a dhcp-server is running
+dhex	0.68	Ncurses based advanced hex editor featuring diff mode and more
+di	4.36	Advanced df-like disk information utility
+dialog	1.2-20150528	Display user-friendly dialog boxes from shell scripts
+dict	1.12.1	Dictionary Server Protocol (RFC2229) client
+diction	1.11	GNU diction and style
+dieharder	3.31.1	Random number test suite
+diff-pdf	v0.2	Visually compare two PDF files
+diffuse	0.4.8	Graphical tool for merging and comparing text files
+dirac	1.0.2	General-purpose video codec aimed at a range of resolutions
+dircproxy	1.2.0	IRC proxy server (AKA 'bouncer')
+direnv	v2.7.0	Load/unload environment variables based on $PWD
+dirmngr	1.1.1	Server for managing certificate revocation lists
+dirt	1.0	Experimental sample playback
+disco	0.5.4	Distributed computing framework based on the MapReduce paradigm
+discodex	2012-01-10	Distributed indices for disco
+discount	2.1.8a	C implementation of Markdown
+disktype	9	Detect content format of a disk or disk image
+distcc	3.2rc1	Distributed compiler client and server
+distribution	v1.2.1	Create ASCII graphical histograms in the terminal
+ditaa	0.9	Convert ASCII diagrams into proper bitmap graphics
+djbdns	1.05	D.J. Bernstein's DNS tools
+djview4	4.10.3	Viewer for the DjVu image format
+djvu2pdf	0.9.2	Small tool to convert Djvu files to PDF files
+djvulibre	3.5.27	DjVu viewer
+dmalloc	5.5.2	Debug versions of system memory management routines
+dmd	v2.068.2	D programming language compiler for OS X
+dmtx-utils	0.7.4	Read and write data matrix barcodes
+dns2tcp	0.5.2	TCP over DNS tunnel
+dnscrypt-proxy	1.6.0	Secure communications between a client and a DNS resolver
+dnscrypt-wrapper	v0.2	Server-side proxy that adds dnscrypt support to name resolvers
+dnsmap	0.30	Passive DNS network mapper (a.k.a. subdomains bruteforcer)
+dnsmasq	2.75	Lightweight DNS forwarder and DHCP server
+dnsperf	2.0.0.0	Measure DNS performance by simulating network conditions
+dnsrend	0.08	DNS message dissector
+dnstop	20140915	Console tool to analyze DNS traffic
+dnstracer	1.9	Trace a chain of DNS servers to the source
+docbook	5.0	Standard SGML representation system for technical documents
+docbook-xsl	1.78.1	XML vocabulary to create presentation-neutral documents
+docbook2x	0.8.8	Convert DocBook to UNIX manpages and GNU TeXinfo
+docker	v1.8.2	Pack, ship and run any application as a lightweight container
+docker-compose	1.4.2	Isolated development environments using Docker
+docker-machine	v0.4.1	Create Docker hosts locally and on cloud providers
+docker-swarm	v0.4.0	Turn a pool of Docker hosts into a single, virtual host
+dockutil	2.0.2	Tool for managing dock items
+doitlive	2.3.1	Replay stored shell commands for live presentations
+dos2unix	7.3	Convert text between DOS, UNIX, and Mac formats
+double-conversion	v1.1.5	Binary-decimal and decimal-binary routines for IEEE doubles
+doublecpp	0.6.3	Double dispatch in C++
+doubledown	v0.0.2	Sync local changes to a remote directory
+dovecot	2.2.18	IMAP/POP3 server
+doxygen	1.8.10	Generate documentation for several programming languages
+doxymacs	1.8.0	Elisp package for using doxygen under Emacs
+dpkg	1.18.2	Debian package management system
+drake	1.0.1	Data workflow tool meant to be 'make for data'
+drip	0.2.4	JVM launching without the hassle of persistent JVMs
+dropbear	2015.68	Small SSH server/client for POSIX-based system
+dsd	v1.6.0	Decoder for several digital speech formats
+dsh	0.25.9	Dancer's shell, or distributed shell
+dsocks	1.8	SOCKS client wrapper for *BSD/OS X
+dspdfviewer	v1.13.1	Dual-Screen PDF Viewer for latex-beamer
+dtach	0.8	Emulates the detach feature of screen
+dtc	1.4.0	Device tree compiler
+dterm	0.3	Terminal emulator for use with xterm and friends
+dtrx	7.1	Intelligent archive extraction
+dub	v0.9.24	Build tool for D projects
+duck	4.7.2.18007	Command-line interface for Cyberduck (a multi-protocol file transfer tool)
+duff	0.5.2	Quickly find duplicates in a set of files from the command-line
+duo_unix	1.9.13	Two-factor authentication for SSH
+duplicity	0.6.26	Bandwidth-efficient encrypted backup
+duply	1.9.1	Frontend to the duplicity backup system
+duti	1.5.3	Select default apps for documents and URL schemes on OS X
+dvd+rw-tools	7.1	DVD+-RW/R tools
+dvdauthor	0.7.1	DVD-authoring toolset
+dvdbackup	0.4.2	Rip DVD's from the command-line
+dvdrtools	0.2.1	Fork of cdrtools DVD writer support
+dvorak7min	1.6.1	Dvorak (simplified keyboard layout) typing tutor
+dvtm	0.14	Dynamic Virtual Terminal Manager
+dwarf	0.3.0	Object file manipulation tool
+dwarf-fortress	0.28.181.40d	Open-ended rogelike game
+dwarfutils	20150507	lib and utility to dump and produce DWARF debug info in ELF objects
+dwatch	0.1.1	Watch programs and perform actions based on a configuration file
+dwdiff	2.1.0	Diff that operates at the word level
+dxflib	2.5.0.0-1	C++ library for parsing DXF files
+dyld-headers	239.4	Header files for the dynamic linker
+dylibbundler	0.4.4	Utility to bundle libraries into executables for OS X
+dynamips	v0.2.15	Cisco 7200/3600/3725/3745/2600/1700 Router Emulator
+dynamodb-local	2015-07-16_1.0	Cient-side database and server imitating DynamoDB
+e2fsprogs	1.42.13	Utilities for the ext2, ext3, and ext4 file systems
+easy-git	1.7.5.2	Wrapper to simplify learning and using git
+ebook-tools	0.2.2	Access and convert several ebook formats
+ec2-ami-tools	1.5.7	Amazon EC2 AMI Tools (helps bundle Amazon Machine Images)
+ec2-api-tools	1.7.4.0	Client interface to the Amazon EC2 web service
+ecasound	2.9.1	Multitrack-capable audio recorder and effect processor
+echoprint-codegen	v4.12	Codegen for Echoprint
+ecj	4.9	Standalone version of the Eclipse Java compiler
+ecl	16.0.0	Embeddable Common Lisp
+ecm	1.0	Prepare CD image files so they compress better
+edelta	0.10b	XDelta-style binary differ
+editorconfig	0.12.0	Maintain consistent coding style between multiple editors
+ee	1.4.6	Terminal (curses-based) text editor with pop-up menus
+eet	1.7.10	Library for writing arbitrary chunks of data to a file using compression
+efl	1.14.2	Libraries for the Enlightenment window manager
+eigen	3.2.5	C++ template library for linear algebra
+eina	1.7.10	Eina is a core data structure and common utility library
+ejabberd	15.07	XMPP application server
+ejdb	v1.2.10	C library based on modified version of Tokyo Cabinet
+ekg2	0.3.1	Multiplatform, multiprotocol, plugin-based instant messenger
+ekhtml	0.3.2	Forgiving SAX-style HTML parser
+elasticsearch	1.7.2	Distributed real-time search & analytics engine for the cloud
+elb-tools	1.0.35.0	Client interface to the Amazon Elastic Load Balancing web service
+elementary	1.14.0	Widgets and high level abstractions from the Enlightenment window manager
+elinks	0.11.7	Text mode web browser
+elixir	v1.1.1	Functional metaprogramming aware language built on Erlang VM
+elixir-build	v20141001	Elixir version of ruby-build
+emacs	24.5	GNU Emacs text editor
+emacs-clang-complete-async	v0.5	Emacs plugin using libclang to complete C and C++ code
+embryo	1.7.10	Version of the original Small abstract machine
+embulk	0.7.4	Data transfer between various databases, file formats and services
+emscripten	1.34.6	LLVM bytecode to JavaScript compiler
+enca	1.16	Charset analyzer and converter
+enchant	1.6.0	Spellchecker wrapping library
+enet	1.3.13	Provides a network communication layer on top of UDP
+engine_pkcs11	0.1.8	Implementation of OpenSSL engine interface
+enscript	1.6.6	Convert text to Postscript, HTML, or RTF, with syntax highlighting
+ent	1.0	Pseudorandom number sequence test program
+entr	3.2	Run arbitrary commands when files change
+envchain	v0.2.0	Secure your credentials in environment variables
+envv	v1.7	Shell-independent handling of environment variables
+eot-utils	1.1	Tools to convert fonts from OTF/TTF to EOT format
+epeg	v0.9.1.042	JPEG/JPG thumbnail scaling
+epic5	1.2.0	Enhanced, programmable IRC client
+eprover	1.8	Theorem prover for full first-order logic with equality
+epsilon	0.9.2	Powerful wavelet image compressor
+epstool	3.08	Edit preview images and fix bounding boxes in EPS files
+epubcheck	3.0.1	Validate IDPF EPUB files, version 2.0 and later
+erlang	18.1	Erlang Programming Language
+es	0.9	Extensible shell with first class functions, lexical scoping, and more
+esniper	2.31	Snipe eBay auctions from the command-line
+esound	0.2.41	Enlightened sound daemon
+espeak	1.48.04	Text to speech, software speech synthesizer
+etcd	v2.1.2	Key value store for shared configuration and service discovery
+etl	0.04.18	Extensible Template Library
+ettercap	v0.8.2	Multipurpose sniffer/interceptor/logger for switched LAN
+euca2ools	v3.2.1	Eucalyptus client API tools-works with Amazon EC2 and IAM
+euler-py	v1.2.3	Project Euler command-line tool written in Python
+evas	1.7.10	Display canvas API that implements a scene graph
+evas-generic-loaders	1.14.0	Extra image loaders for complex image types for Enlightenment
+eventlog	0.2.13	Replacement for syslog API providing structure to messages
+evince	3.18.0	GNOME document viewer
+ex-vi	050325	UTF8-friendly version of tradition vi
+exact-image	0.9.1	Image processing library
+exempi	2.2.2	Library to parse XMP metadata
+exenv	v0.1.0	Elixir versions management tool
+exercism	v2.2.1	command-line tool to interact with exercism.io
+exif	0.6.21	Read, write, modify, and display EXIF data on the command-line
+exiftags	1.01	Utility to read EXIF tags from a digital camera JPEG file
+exiftool	10.01	Perl lib for reading and writing EXIF metadata
+exim	4.85	Complete replacement for sendmail
+exiv2	0.25	EXIF and IPTC metadata manipulation library and tools
+exodriver	v2.5.3	Thin interface to LabJack devices
+expat	2.1.0	XML 1.0 parser
+extract_url	 	Perl script to extracts URLs from emails or plain text.
+eye-d3	0.7.8	Work with ID3 metadata in .mp3 files
+ezlupdate	v2015.01.3	Create .ts files for eZ publish
+ezstream	0.6.0	Client for Icecast streaming servers
+f3	v5.0	Test various flash cards
+faac	1.28	ISO AAC audio encoder
+faad2	2.7	ISO AAC audio decoder
+fabric	1.10.2	Library and command-line tool for SSH
+fail2ban	0.8.14	Scan log files and ban IPs showing malicious signs
+fakeroot	1.20.2	Provide a fake root environment
+falcon	0.9.6.8	Multi-paradigm programming language and scripting engine
+fantom	1.0.67	Object oriented, portable programming language
+fasd	1.0.1	CLI tool for quick access to files and directories
+fastbit	2.0.2	Open-source data processing library in NoSQL spirit
+fastjar	0.94	Implementation of Sun's jar tool
+fatsort	1.3.365	Sorts FAT16 and FAT32 partitions
+fb-adb	1.4.4	Shell for Android devices that does much of what adb does and more
+fb-client	1.5.0	Shell-script client for http://paste.xinu.at
+fbida	2.10	View and edit photo images
+fcgi	2.4.0	Protocol for interfacing interactive programs with a web server
+fcgiwrap	1.1.0	CGI support for Nginx
+fcrackzip	1.0	Zip password cracker
+fdclone	3.01b	Console-based file manager
+fdk-aac	0.1.4	Standalone library of the Fraunhofer FDK AAC code from Android
+fdk-aac-encoder	0.6.2	Command-line encoder frontend for libfdk-aac
+fdupes	1.51	Identify or delete duplicate files
+fetch-crl	3.0.16	Retrieve certificate revocation lists (CRLs)
+fetchmail	6.3.26	fetch mail from a POP, IMAP, ETRN, or ODMR-capable server
+fex	2.0.0	Powerful field extraction tool
+ffe	0.3.5	Parse flat file structures and print them in different formats
+ffind	v0.3.2	Friendlier find
+ffmbc	0.7.2	FFmpeg customized for broadcast and professional usage
+ffmpeg	2.8	Play, record, convert, and stream audio and video
+ffmpeg2theora	0.29	Convert video files to Ogg Theora format
+ffmpegthumbnailer	2.0.10	Create thumbnails for your video files
+ffms2	2.21	Libav/ffmpeg based source library and Avisynth plugin
+ffts	0.7	C library that computes the discrete Fourier transform
+fftw	3.3.4	C routines to compute the Discrete Fourier Transform
+fibjs	0.1.6	JavaScript on Fiber
+ficy	1.0.19	Icecast/Shoutcast stream grabber suite
+figlet	2.2.5	Banner-like program prints strings as ASCII art
+file-roller	3.16.4	GNOME archive manager
+finatra	1.5.3	Scala web framework inspired by Sinatra
+findbugs	3.0.1	Find bugs in Java programs through static analysis
+findutils	4.4.2	Collection of GNU find, xargs, and locate
+fio	2.2.9	I/O benchmark and stress test
+fish	2.7.1	User-friendly command-line shell for UNIX-like operating systems
+fits	0.8.6-1	File Information Tool Set
+fizsh	1.0.8	Fish-like front end for ZSH
+flac	1.3.1	Free lossless audio codec
+flac123	123-0.0.12	Command-line program for playing FLAC audio files
+flactag	2.0.4	Tag single album FLAC files with MusicBrainz CUE sheets
+flake	0.11	FLAC audio encoder
+flashrom	0.9.8	Identify, read, write, verify, and erase flash chips
+flasm	1.62	Flash command-line assembler and disassembler
+flatbuffers	v1.1.0	Serialization library for C++, supporting Java, C#, and Go
+flawfinder	1.31	Examines code and reports possible security weaknesses
+fleet-db	0.2.0	Schema-free database optimized for agile development
+fleetctl	v0.11.5	Distributed init system
+flex	2.5.39	Fast Lexical Analyzer, generates Scanners (tokenizers)
+flickcurl	1.26	Library for the Flickr API
+flow	v0.16.0	Static type checker for JavaScript
+flow-tools	0.68.5.1	Collect, send, process, and generate NetFlow data reports
+flowgrind	0.7.5	TCP measurement tool, similar to iperf or netperf
+fltk	1.3.3	Cross-platform C++ GUI toolkit
+fluid-synth	1.1.6	Real-time software synthesizer based on the SoundFont 2 specs
+flvmeta	v1.1.2	Manipulate Adobe flash video files (FLV)
+flvstreamer	2.1c1	Stream audio and video from flash & RTMP Servers
+flyway	3.2.1	Database version control to control migrations
+fmdiff	20150915	Use FileMerge as a diff command for Subversion and Mercurial
+fobis	1.7.4	KISS build tool for automaticaly building modern Fortran projects.
+folly	v0.48.0	Collection of reusable C++ library artifacts developed at Facebook
+fon-flash-cli	1.8.0	Flash La Fonera and Atheros chipset compatible devices
+fondu	060102	Tools to convert between different font formats
+fontconfig	2.11.1	XML-based font configuration API for X Windows
+fontforge	20150824	Command-line outline and bitmap font editor/converter
+fonttools	3.0	FontTools is a library for manipulating fonts
+fop	2.0	XSL-FO print formatter for making PDF or PS documents
+ford	4.2.3	Automatic documentation generator for modern Fortran programs
+forego	v0.16.1	Foreman in Go
+foremost	1.5.7	Console program to recover files based on their headers and footers
+fortune	9708	Infamous electronic fortune-cookie generator
+fossil	1.33	Distributed software configuration management
+fourstore	v1.1.5	Efficient, stable RDF database
+fpc	2.6.4	Free Pascal: multi-architecture Pascal compiler
+fping	3.10	Scriptable ping program for checking if multiple hosts are up
+fpp	0.6.2	CLI program that accepts piped input and presents files for selection
+fq	v0.9.2	Brokered message queue optimized for performance
+frag_find	1.0.0	Hash-based carver tool (formerly 'NPS Bloom Filter package')
+fragroute	1.2	Intercepts, modifies and rewrites egress traffic for a specified host
+freealut	1.1.0	Implementation of OpenAL's ALUT standard
+freediameter	1.2.0	Open source Diameter (Authentication) protocol implementation
+freeimage	3.17.0	Library for FreeImage, a dependency-free graphics library
+freeipmi	1.4.9	In-band and out-of-band IPMI (v1.5/2.0) software
+freeling	3.1	Suite of language analyzers
+freeradius-server	3.0.9	High-performance and highly configurable RADIUS server
+freeswitch	v1.4.21	Telephony platform to route various communication protocols
+freetds	0.95.19	Libraries to talk to Microsoft SQL Server and Sybase databases
+freetype	2.6	Software library to render fonts
+freexl	1.0.2	Library to extract data from Excel .xls files
+frege	3.22.524-gcc99d7e	Non-strict, functional programming language in the spirit of Haskell
+frei0r	1.4	Minimalistic plugin API for video effects
+frescobaldi	2.18.1	LilyPond sheet music text editor
+fribidi	0.19.7	Implementation of the Unicode BiDi algorithm
+fsevent_watch	v0.1	OS X FSEvents client
+fsh	1.2	Provides remote command execution
+fsharp	v3.1.2.4	F#, a functional-first programming language
+fsw	1.3.9	File change monitor with multiple backends
+fswatch	1.5.1	Monitor a directory for changes and run a shell command
+ftgl	2.1.3rc5	Freetype / OpenGL bridge
+ftimes	3.11.0	System baselining and evidence collection tool
+ftjam	2.5.2	Build tool that can be used as a replacement for Make
+fugu	v1.1.1	Docker command wrapper.
+funcoeszz	15.5	Dozens of command-line mini-applications (Portuguese)
+fuseki	1.1.2	SPARQL server
+fuzzy-find	v0.6	Fuzzy filename finder matching across directories as well as files
+fwknop	2.6.7	Single Packet Authorization and Port Knocking
+fzf	0.10.5	Fuzzy finder for your shell
+g2	v1.1	Friendly git client
+gabedit	2.4.8	GUI to computational chemistry packages like Gamess-US, Gaussian, etc.
+gaffitter	1.0.0	Efficiently fit files/folders to fixed size volumes (like DVDs)
+galen	2.1.2	Automated testing of look and feel for responsive websites
+gambit-scheme	v4_7_9	Complete, portable implementation of Scheme
+game-music-emu	0.6.0	Videogame music file emulator collection
+gammaray	2.3.0	Examine and manipulate Qt application internals at runtime
+gammu	1.36.5	Command-line utility to control a phone
+ganglia	3.7.1	Ganglia monitoring client
+garmintools	0.10	Interface to the Garmin Forerunner GPS units
+gauche	0.9.4	R5RS Scheme implementation, developed to be a handy script interpreter
+gauge	v0.1.8	Test automation tool that supports executable documentation
+gaul	0.1850-0	Genetic Algorithm Utility Library
+gawk	4.1.3	GNU awk utility
+gbdfed	1.6	Bitmap Font Editor
+gcab	0.4	Windows installer (.MSI) tool
+gcal	4	Gcal is a program for calculating and printing calendars
+gcc	7.3.0	GNU compiler collection
+gcc44	4.4.7	GNU compiler collection
+gcc45	4.5.4	GNU compiler collection
+gcc46	4.6.4	GNU compiler collection
+gcc47	4.7.4	GNU compiler collection
+gcc48	4.8.5	GNU compiler collection
+gcc49	4.9.3	The GNU Compiler Collection
+gcc5	5.4.0	The GNU Compiler Collection
+gcc6	6.2.0	The GNU Compiler Collection
+gconf	3.2.6	GConf is a system for storing user application preferences
+gcore	1.3	Produce a snapshot (core dump) of a running process
+gcovr	3.2	Reports from gcov test coverage program
+gcutil	1.16.1	Manage your Google Compute Engine resources
+gd	2.1.1	Graphics library to dynamically manipulate images
+gdal	1.11.2	GDAL: Geospatial Data Abstraction Library
+gdal-grass	1.4.3	Geospatial Data Abstraction Library
+gdbm	1.11	GNU database manager
+gdk-pixbuf	2.32.1	Toolkit for image loading and pixel buffer manipulation
+gdl	3.18.0	GNOME Docking Library provides docking features for GTK+ 3
+gdmap	0.8.1	Tool to inspect the used space of folders
+gdnsd	2.2.1	Authoritative-only DNS server
+gdrive	1.6.1	Google Drive CLI Client
+gearman	1.1.12	Application framework to farm out work to other machines or processes
+gecode	4.4.0	Toolkit for developing constraint-based systems and applications
+gedit	3.16.3	The GNOME text editor
+gegl	0.3.0	Graph based image processing framework
+genders	1.20	Static cluster configuration database for cluster management
+gengetopt	2.22.6	Generate C code to parse command-line arguments via getopt_long
+genstats	1.2	Generate statistics about stdin or textfiles
+geocode-glib	3.18.0	GNOME library for gecoding and reverse geocoding
+geocouch	1.3.0	Spatial index for CouchDB
+geogit	0.10.0	Distributed version control for geospatial data
+geographiclib	1.45	C++ geography library
+geoip	v1.6.6	GeoIP databases in a number of formats
+geoipupdate	2.2.1	Automatic updates of GeoIP2 and GeoIP Legacy databases
+geos	3.4.2	GEOS Geometry Engine
+geoserver	2.7.1.1	Java server to share and edit geospatial data
+get-flash-videos	1.24	Download or play videos from various Flash-based websites
+getdns	0.3.1	Modern asynchronous DNS API
+getmail	4.48.0	Extensible mail retrieval system with POP3, IMAP4, SSL support
+gettext	0.19.8.1	GNU internationalization (i18n) and localization (l10n) library
+getxbook	1.2	Tools to download ebooks from various sources
+gexiv2	0.10.3	GObject wrapper around the Exiv2 photo metadata library
+gflags	v2.1.2	Library for processing command-line flags
+gforth	0.7.3	Implementation of the ANS Forth language
+gh	v2.1.0	GitHub command-line client
+ghc	7.10.2	Glorious Glasgow Haskell Compilation System
+ghex	3.10.1	GNOME hex editor
+ghi	0.9.3	Work on GitHub issues on the command-line
+ghostscript	9.19	Interpreter for PostScript and PDF
+ghq	v0.7.1	Remote repository management made easy
+gibbslda	0.2	Library wrapping imlib2's context API
+gibo	1.0.4	Access GitHub's .gitignore boilerplates
+gif2png	2.5.10	Convert GIFs to PNGs.
+gifify	v3.0	Turn movies into GIFs
+giflib	4.2.3	GIF library using patented LZW algorithm
+giflossy	1.82.1	Lossy LZW compression, reduces GIF file sizes by 30-50%
+gifsicle	1.88	GIF image/animation creator/editor
+gimme	v0.2.4	Shell script to install any Go version
+ginac	1.6.4	GiNaC is Not a Computer algebra system
+gist	v4.4.2	Command-line utility for uploading Gists
+gistit	v0.1.3	Command-line utility for creating Gists
+git	2.10.2	Distributed revision control system
+git-annex	5.20150916	Manage files with git without checking in file contents
+git-archive-all	1.12	Archive a project and its submodules
+git-cal	v0.9.1	GitHub-like contributions calendar but on the command-line
+git-cola	v2.3	Highly caffeinated git GUI
+git-crypt	0.5.0	Enable transparent encryption/decryption of files in a git repo
+git-encrypt	0.3.2	Transparent git encryption
+git-extras	3.0.0	Small git utilities
+git-fixup	v1.0.1	Alias for git commit --fixup <ref>
+git-flow	0.4.1	Extensions to follow Vincent Driessen's branching model
+git-flow-avh	1.8.0	AVH edition of git-flow
+git-ftp	1.0.2	Git-powered FTP client
+git-gerrit	v0.3.0	Gerrit code review helper scripts
+git-hooks	1.00.0	Manage project, user, and global Git hooks
+git-imerge	0.7.0	Incremental merge for git
+git-integration	v0.3	Manage git integration branches
+git-lfs	v0.6.0	Git extension for versioning large files
+git-multipush	2.3	Push a branch to multiple remotes in one command
+git-now	v0.1.1.0	Light, temporary commits for git
+git-number	1.0.0a	Use numbers for dealing with files in git
+git-octopus	v1.1	Extends git-merge with branch naming patterns
+git-open	v1.1	Open GitHub webpages from a terminal
+git-plus	v0.1.0	Three git utilities: git multi, git relation, git old-branches
+git-review	1.25.0	Submit git branches to gerrit for review
+git-sh	1.3	Customized Bash environment for git work
+git-ssh	v0.2.0	Proxy for serving git repositories over SSH
+git-stree	0.4.5	Git subtree helper command
+git-subrepo	0.2.3	Git Submodule Alternative
+git-test	v1.0.1	Run tests on each distinct tree in a revision list
+git-tf	2.0.3.20131219	Share changes between TFS and git
+git-town	v0.7.3	High-level command-line interface for Git
+git-tracker	v1.6.3	Integrate Pivotal Tracker into git use
+git-url-sub	1.0.1	Recursively substitute remote URLs for multiple repos
+gitbucket	3.6	GitHub clone
+giter8	0.6.8	Generate files and directories from templates in a git repo
+github-release	v0.5.3	Create and edit releases on Github (and upload artifacts)
+gitslave	2.0.2	Create group of related repos with one as superproject
+gitup	v0.3	Update multiple git repositories at once
+gjstest	v1.0.1	Fast javascript unit testing framework that runs on the V8 engine.
+gl2ps	1.3.8	OpenGL to PostScript printing library
+glassfish	4.1	Java EE application server
+glbinding	v1.0.4	C++ binding for the OpenGL API
+glew	1.12.0	OpenGL Extension Wrangler Library
+glib	2.50.1	Core application library for C
+glib-networking	2.46.0	Network related modules for glib
+glibmm	2.44.0	C++ interface to glib
+glide	0.6.1	Simplified Go project management, dependency management, and vendoring
+glm	0.9.7.1	C++ mathematics library for graphics software
+global	6.5.1	Source code tag system
+globe	0.0.20140814	Prints ASCII graphic of currently-lit side of the Earth
+globus-toolkit	6.0	Toolkit used for building grids
+glog	v0.3.4	Application-level logging library
+gloox	1.0.12	C++ Jabber/XMPP library that handles the low-level protocol
+glui	2.36	C++ user interface library
+gmail-backup	20110307	Backup and restore the content of your Gmail account
+gmediaserver	0.13.0	UPnP Mediaserver
+gmime	2.6.20	MIME mail utilities
+gmp	6.1.2	GNU multiple precision arithmetic library
+gmp4	4.3.2	GNU multiple precision arithmetic library
+gmtl	0.6.1	Lightweight math library
+gnatsd	v0.6.0	Lightweight cloud messaging system
+gnome-common	3.14.0	Core files for GNOME
+gnome-doc-utils	0.20.10	Documentation utilities for the GNOME project
+gnome-icon-theme	3.16.2.1	Icons for the GNOME project
+gnome-themes-standard	3.16.2	Default themes for the GNOME desktop environment
+gnu-apl	1.4	GNU implementation of the programming language APL
+gnu-barcode	0.99	Convert text strings to printed bars
+gnu-cobol	1.1	Implements much of the COBOL 85 and COBOL 2002 standards
+gnu-getopt	1.1.6	Command-line option parsing library
+gnu-indent	2.2.10	C code prettifier
+gnu-prolog	1.4.4	Prolog compiler with constraint solving
+gnu-sed	4.2.2	GNU implementation of the famous stream editor
+gnu-smalltalk	3.2.5	GNU Smalltalk interpreter and image
+gnu-tar	1.28	GNU version of the tar archiving utility
+gnu-time	1.7	GNU implementation of time utility
+gnu-typist	2.9.5	GNU typing tutor
+gnu-units	2.02	GNU unit conversion tool
+gnu-which	2.21	GNU implementation of which utility
+gnupg	1.4.19	GNU Pretty Good Privacy (PGP) package
+gnupg-pkcs11-scd	0.7.3	Enable the use of PKCS#11 tokens with GnuPG
+gnupg2	2.0.29	GNU Privacy Guard: a free PGP replacement
+gnuplot	5.0.1	Command-driven, interactive function plotting
+gnuradio	3.7.8	SDK providing the signal processing runtime and processing blocks
+gnustep-make	2.6.6	Basic GNUstep Makefiles
+gnutls	3.3.18	GNU Transport Layer Security (TLS) Library
+go	1.5.1	Go programming environment
+goaccess	0.9.4	Log analyzer and interactive viewer for the Apache Webserver
+gobject-introspection	1.44.0	Generate interface introspection data for GObject libraries
+gocr	0.50	Optical Character Recognition (OCR), converts images back to text
+goffice	0.10.23	Gnumeric spreadsheet program
+gollum	v0.3.2	n:m message multiplexer written in Go
+golo	2.1.0	Lightweight dynamic language for the JVM
+goocanvas	2.0.2	Canvas widget for GTK+ using the Cairo 2D library for drawing
+google-benchmark	v0.1.0	C++ microbenchmark support library
+google-sparsehash	2.0.2	Extremely memory-efficient hash_map implementation
+google-sql-tool	r10	Command-line tool for executing common SQL statements
+goolabs	0.2.2	Command-line tool for morphologically analyzing Japanese language
+gor	0.9.8	Real-time HTTP traffic replay tool written in Go
+gost	1.1.1	Simple command-line utility for easily creating Gists for Github.
+gosu	0.10.3	Pragmatic language for the JVM
+gotags	v1.3.0	ctags-compatible tag generator for Go
+gource	0.43	Version Control Visualization Tool
+gpac	v0.5.2	Multimedia framework for research and academic purposes
+gperftools	2.4	Multi-threaded malloc() and performance analysis tools
+gpg-agent	2.0.29	GPG key agent
+gpgme	1.6.0	Library access to GnuPG
+gphoto2	2.5.1	Command-line interface to libgphoto2
+gplcver	2.12a	Pragmatic C Software GPL Cver 2001
+gpm	v1.3.2	Barebones dependency manager for Go
+gpp	2.24	General-purpose preprocessor with customizable syntax
+gprof2dot	2015.02.03.	Convert the output from many profilers into a Graphviz dot graph.
+gpsbabel	1.5.2	GPSBabel converts/uploads GPS waypoints, tracks, and routes
+gpsd	3.9	Global Positioning System (GPS) daemon
+gpsim	0.28.1	Simulator for Microchip's PIC microcontrollers
+gptfdisk	1.0.0	Text-mode partitioning tools
+gptsync	0.14	GPT and MBR partition tables synchronization tool
+gputils	1.4.0-1	GNU PIC Utilities
+gqlplus	1.15	Drop-in replacement for sqlplus, an Oracle SQL client
+gqview	2.0.4	GQview image browser
+gradle	2.7	Build system based on the Groovy language
+grails	3.0.7	Web application framework for the Groovy language
+grap	1.45	Language for typesetting graphs
+graphene	1.2.10	Thin layer of graphic data types
+graphicsmagick	1.3.21	Image processing tools collection
+graphite2	1.3.2	Smart font renderer for non-Roman scripts
+graphviz	2.38.0	Graph visualization software from AT&T and Bell Labs
+grass	6.4.4	Geographic Resources Analysis Support System
+grc	1.9	Colorize logfiles and command output
+grep	3.0	GNU grep, egrep and fgrep
+grepcidr	2.0	Filter IP addresses matching IPv4 CIDR/network specification
+grib-api	1.14.0	Encode and decode grib messages (editions 1 and 2)
+griffon	1.5.0	Application framework for desktop applications in the JVM
+gringo	4.5.2	Grounder to translate user-provided logic programs
+grip	4.5.2	GitHub Markdown previewer
+grok	v0.9.2	Powerful pattern-matching/reacting too
+groonga	5.0.8	Fulltext search engine and column store
+groonga-normalizer-mysql	1.1.0	MySQL compatible normalizer plugin for Groonga
+groovy	2.4.4	Groovy: a Java-based scripting language
+groovysdk	2.4.4	SDK for Groovy: a Java-based scripting language
+groovyserv	1.0.0	Speed up Groovy startup time
+growly	v0.2.0	Redirect command output to a growl notification
+grsync	1.2.5	GUI for rsync
+gsasl	1.8.0	SASL library command-line interface
+gsettings-desktop-schemas	3.18.0	GSettings schemas for desktop components
+gsl	1.16	Numerical library for C and C++
+gsoap	2.8.18	SOAP stub and skeleton compiler for C and C++
+gssdp	0.14.11	GUPnP library for resource discovery and announcement over SSDP
+gssh	1.1.5	SSH automation tool based on Groovy DSL
+gst-libav	1.6.0	GStreamer plugins for Libav (a fork of FFmpeg)
+gst-plugins-bad	1.6.0	GStreamer plugins (less supported, missing docs, not fully tested)
+gst-plugins-base	1.6.0	GStreamer plugins (well-supported, basic set)
+gst-plugins-good	1.6.0	GStreamer plugins (well-supported, under the LGPL)
+gst-plugins-ugly	1.6.0	GStreamer plugins (well-supported, possibly problematic for distributors)
+gst-python	1.6.0	GStreamer Python overrides for gobject-introspection-based pygst bindings
+gst-validate	1.6.0	Tools to validate GstElements from GStreamer
+gstreamer	1.6.0	GStreamer is a development framework for multimedia applications
+gstreamermm	1.4.3	GStreamer C++ bindings
+gti	v1.2.0	ASCII-art displaying typo-corrector for commands
+gtk+	2.24.28	GUI toolkit
+gtk+3	3.16.7	Toolkit for creating graphical user interfaces
+gtk-doc	1.24	GTK+ documentation tool
+gtk-engines	2.20.2	Themes for GTK+
+gtk-gnutella	1.1.3	Share files in a peer-to-peer (P2P) network
+gtk-mac-integration	2.0.8	API to integrate GTK OS X applications with the Mac desktop
+gtk-murrine-engine	0.98.2	Murrine GTK+ engine
+gtkdatabox	0.9.2.0	Widget for live display of large amounts of changing data
+gtkextra	3.1.5	Widgets for creating GUIs for GTK+
+gtkglext	1.2.0	OpenGL extension to GTK+
+gtkmm	2.24.4	C++ interfaces for GTK+ and GNOME
+gtkmm3	3.16.0	C++ interfaces for GTK+ and GNOME
+gtksourceview	2.10.5	Text view with syntax, undo/redo, and text marks
+gtksourceview3	3.18.0	Text view with syntax, undo/redo, and text marks
+gtkspell3	3.0.7	Gtk widget for highlighting and replacing misspelled words
+gtmess	0.97	Console MSN messenger client
+gts	0.7.6	GNU triangulated surface library
+gucharmap	3.18.0	GNOME Character Map, based on the Unicode Character Database
+guile	2.0.11	GUILE: GNU Ubiquitous Intelligent Language for Extensions
+gumbo-parser	v0.9.3	C99 library for parsing HTML5
+gupnp	0.20.14	Framework for creating UPnP devices and control points
+gupnp-av	0.12.7	Library to help implement UPnP A/V profiles
+gupnp-tools	0.8.10	Free replacements of Intel's UPnP tools.
+gvp	v0.2.0	Go versioning packager
+gwenhywfar	4.13.1	Utility library required by aqbanking and related software
+gws	0.1.7	Manage workspaces composed of git repositories
+gwt	2.7.0	Google web toolkit
+gwyddion	2.41	Scanning Probe Microscopy visualization and analysis tool
+gxml	0.6.0	GObject-based XML DOM API
+gzrt	0.8	Gzip recovery toolkit
+h2	1.4.187	Java SQL database
+h264bitstream	0.1.9	Library for reading and writing H264 video streams
+h2o	v1.4.5	HTTP server with support for HTTP/1.x and HTTP/2
+hachoir-metadata	1.3.3	Extract metadata from video, music and other files
+hackrf	v2015.07.2	Low cost software radio platform
+hadoop	2.7.1	Framework for distributed processing of large data sets
+halibut	1.1	Yet another free document preparation system
+hamlib	1.2.15.3	Ham radio control libraries
+hamsterdb	2.1.10	Database for embedded devices
+haproxy	1.5.14	Reliable, high performance TCP/HTTP load balancer
+harbour	3.0.0	Portable, xBase-compatible programming language and environment
+hardlink	0.3.0	Replace file copies using hardlinks
+hardlink-osx	v0.1.1	Command-line utility that implements hardlinks on OS X
+harfbuzz	1.0.3	OpenType text shaping engine
+hashcash	1.22	Proof-of-work algorithm to counter denial-of-service (DoS) attacks
+hashpump	v1.2.0	Tool to exploit hash length extension attack
+haskell-stack	v0.1.5.0	The Haskell Tool Stack
+haxe	3.2.0	Multi-platform programming language
+hayai	v1.0.1	C++ benchmarking framework inspired by the googletest framework
+hbase	1.0.1.1	Hadoop database: a distributed, scalable, big data store
+headphones	v0.5.2	Automatic music downloader for SABnzbd
+hebcal	v3.18	Perpetual Jewish calendar for the command-line
+hello	2.10	Program providing model for GNU coding standards and practices
+help2man	1.47.2	Automatically generate simple man pages
+henplus	0.9.8	SQL shell that can handle multiple sessions in parallel
+hercules	3.10	System/370, ESA/390 and z/Architecture Emulator
+heroku-toolbelt	3.42.22	Everything you need to get started with Heroku
+herrie	2.2	Minimalistic audio player built upon Ncurses
+hevea	2.23	LaTeX-to-HTML translator
+hexcurse	1.58	Ncurses-based console hex editor
+hexedit	1.2.13	View and edit files in hexadecimal or ASCII
+hfsutils	3.2.6	Tools for reading and writing Macintosh volumes
+hg-flow	v0.9.8	Development model for mercurial inspired by git-flow
+hh	1.17	Bash and zsh history suggest box
+hicolor-icon-theme	0.15	Fallback theme for FreeDesktop.org icon themes
+hidapi	0.8.0	Library for communicating with USB and Bluetooth HID devices
+highlight	3.23	Convert source code to formatted text with syntax highlighting
+highlighting-kate	0.5.15	Haskell syntax highlighting library, based on the Kate editor
+hilite	1.5	CLI tool that runs a command and highlights STDERR output
+hiredis	v0.13.3	Minimalistic client for Redis
+hive	1.2.1	Hadoop-based data summarization, query, and analysis
+hoedown	3.0.1	Secure Markdown processing (a revived fork of Sundown)
+homebank	5.0.5	Manage your personal accounts at home
+honcho	v0.6.6	Python clone of Foreman, for managing Procfile-based applications
+horndis	rel7	USB tethering driver for OS X
+hornetq	2.4.0	Multi-protocol, embeddable, clustered, asynchronous messaging system
+hostdb	1.004	Generate DNS zones and DHCP configuration from hostlist.txt
+hping	3.20051105	Command-line oriented TCP/IP packet assembler/analyzer
+hqx	1.1	Magnification filter designed for pixel art
+hr	1.1	<hr />, for your terminal window
+ht	2.1.0	Viewer/editor/analyzer for executables
+html-xml-utils	6.7	Tools for manipulating HTML and XML files
+html2text	1.3.2a	Advanced HTML-to-text converter
+htmlcleaner	2.10	HTML parser written in Java
+htmlcompressor	1.5.3	Minify HTML or XML
+htmlcxx	0.85	Non-validating CSS1 and HTML parser for C++
+htmldoc	1.8.28	Convert HTML to PDF or PostScript
+htop-osx	0.8.2.7	Improved top (interactive process viewer) for OS X
+htpdate	0.9.1	Synchronize time with remote web servers
+http-parser	v2.5.0	HTTP request/response parser for c
+http_load	20140814	Test throughput of a web server by running parallel fetches
+httperf	0.9.0	Tool for measuring webserver performance
+httpie	0.9.2	User-friendly cURL replacement (command-line HTTP client)
+httping	2.4	Ping-like tool for HTTP requests
+httpry	0.1.8	Packet sniffer for displaying and logging HTTP traffic
+httptunnel	3.3	Tunnels a data stream in HTTP requests
+httrack	3.48.21	Website copier/offline browser
+hub	v2.2.1	Add GitHub support to git on the command-line
+hubflow	1.5.2	GitFlow for GitHub
+hugo	v0.14	Configurable static site generator
+hunspell	1.3.3	Spell checker and morphological analyzer
+hydra	8.1	Network logon cracker which supports many services
+hyperestraier	1.4.13	Full-text search system for communities
+hyperspec	7.0	Common Lisp ANSI-standard Hyperspec
+i2p	0.9.21	I2P is an anonymous overlay network - a network within a network
+i2util	1.2	Internet2 utility tools
+iat	0.1.7	Converts many CD-ROM image formats to ISO9660
+ibex	2.1.16	C++ library for constraint processing over real numbers.
+ical-buddy	v1.8.10	Get events and tasks from the OS X calendar database
+icarus-verilog	0.9.7	Verilog simulation and synthesis tool
+icbirc	2.0	Proxy IRC client and ICB server
+icdiff	1.7.3	Improved colored diff
+ice	v3.6.0.	Comprehensive RPC framework
+icecast	2.4.2	Streaming MP3 audio server
+icecream	1.0.1	Distributed compiler with a central scheduler to share build load
+icon	9.5.1	General-purpose programming language
+icon-naming-utils	0.8.90	Script to handle icon names in desktop icon themes
+icoutils	0.31.0	Create and extract MS Windows icons and cursors
+icu4c	55.1	C/C++ and Java libraries for Unicode and globalization
+id3ed	1.10.4	ID3 tag editor for MP3 files
+id3lib	3.8.3	ID3 tag manipulation
+id3tool	1.2a	ID3 editing tool
+id3v2	2-0.1.12	ID3v2 editing tool
+idcomments	0.18	Extract comments from an internet-draft
+ideviceinstaller	1.1.0	Cross-platform library and tools for communicating with iOS devices
+idnits	2.13.02	Looks for problems in internet draft formatting
+idris	v0.9.19	Pure functional programming language with dependent types
+idutils	4.6	ID database and query tools
+ievms	v0.3.1	Automated installation of Microsoft IE AppCompat virtual machines
+ifstat	1.1	Tool to report network interface bandwidth
+iftop	1.0pre4	Display an interface's bandwidth usage
+ii	1.7	Minimalist IRC client
+ike-scan	1.9	Discover and fingerprint IKE hosts
+ilmbase	2.2.0	OpenEXR ILM Base libraries (high dynamic-range image file format)
+imagejs	0.7.1	Tool to hide JavaScript inside valid image files
+imagemagick	6.9.6-8	Tools and libraries to manipulate images in many formats
+imagesnap	v0.2.5	Tool to capture still images from an iSight or other video source
+imageworsener	1.2.0	Utility and library for image scaling and processing
+imap-uw	2007f	University of Washington IMAP toolkit
+imapfilter	v2.6.1	IMAP message processor/filter
+imapsync	1.607	Migrate or backup IMAP mail accounts
+imessage-ruby	v0.3.1	Command-line tool to send iMessage
+imgur-screenshot	v1.5.4	Take screenshot selection, upload to imgur. + more cool things
+imlib2	1.4.7	Image loading and rendering library
+influxdb	v0.9.4.1	Time series, events, and metrics database
+iniparser	3.1	Library for parsing ini files
+innoextract	1.4	Tool to unpack installers created by Inno Setup
+innotop	1.9.1	Top clone for MySQL
+ino	0.3.6	Command-line toolkit for working with Arduino hardware
+inspircd	v2.0.20	Modular C++ Internet Relay Chat daemon
+intercal	0.30	Esoteric, parody programming language
+internetarchive	0.8.5	Python wrapper for the various Internet Archive APIs
+intltool	0.51.0	String tool
+io	2013.12.04	Small prototype-based programming language
+iodine	0.7.0	Tool for tunneling IPv4 data through a DNS server
+ioke	0.4.0	Dynamic language targeted at virtual machines
+ioping	0.9	Tool to monitor I/O latency in real time
+ios-class-guard	0.6	Objective-C obfuscator for Mach-O executables
+ios-sim	3.1.1	Command-line application launcher for the iOS Simulator
+ios-webkit-debug-proxy	1.5	DevTools proxy for iOS devices
+iozone	3_430	File system benchmark tool
+ip_relay	0.71	TCP traffic shaping relay application
+ipbt	20141026.2197432	Program for recording a UNIX terminal session
+ipcalc	0.41	Calculate various network masks, etc. from a given IP address
+ipe	7.1.8	Drawing editor for creating figures in PDF or PS formats
+iperf	2.0.5	Tool to measure maximum TCP and UDP bandwidth
+iperf3	3.0.11	Update of iperf: measures TCP, UDP, and SCTP bandwidth
+ipfs	v0.3.7	IPFS is The Permanent Web - A new peer-to-peer hypermedia protocol
+iphotoexport	1.6.4	Export and synchronize iPhoto library to a folder tree
+ipinfo	1.1	Tool for calculation of IP networks
+ipmitool	1.8.15	Utility for IPMI control with kernel driver or LAN interface
+ipmiutil	2.9.5	IPMI server management utility
+iprint	1.3	Provides a print_one function
+ipsumdump	1.85	Summarizes TCP/IP dump files into a self-describing ASCII format easily readable
+ipv6calc	0.94.1	Small utility for manipulating IPv6 addresses
+ipv6toolkit	v2.0	Security assessment and troubleshooting tool for IPv6
+ircd-hybrid	8.2.8	High-performance secure IRC server
+ircd-irc2	2.11.2p3	Original IRC server daemon
+ircii	20150903	IRC and ICB client
+irods	3.3.1	Integrated data grid software solution
+irrlicht	1.8.1	Realtime 3D engine
+irrtoolset	5.0.1	Tools to work with Internet routing policies
+irssi	0.8.17	Modular IRC client
+isc-dhcp	4.3.3	Production-grade DHCP solution
+isl	0.18	Integer Set Library for the polyhedral model
+isl011	0.11.1	Integer Set Library for the polyhedral model
+isl014	0.14	Integer Set Library for the polyhedral model
+iso-codes	3.61	ISO language, territory, currency, script codes, and their translations
+ispc	v1.8.0	Compiler for SIMD programming on the CPU
+ispell	3.4.00	International Ispell
+isync	1.2.0	Synchronize a maildir with an IMAP server
+itex2mml	1.5.1	Text filter to convert itex equations to MathML
+itpp	4.3.1	Library of math, signal, and communication classes and functions
+itstool	2.0.2	Make XML documents translatable through PO files
+ivy	2.4.0	Agile dependency manager
+jack	0.124.1	Jack Audio Connection Kit (JACK)
+jags	3.4.0	Just Another Gibbs Sampler for Bayesian MCMC simulation
+jailkit	2.17	Utilities to create limited user accounts in a chroot jail
+jam	2.6	Make-like build tool
+jansson	2.7	C library for encoding, decoding, and manipulating JSON
+jasmin	2.4	Assembler for the Java Virtual Machine
+jasper	1.900.1	Library for manipulating JPEG-2000 images
+javarepl	282	Read Eval Print Loop (REPL) for Java
+jbake	2.4.0	Java based static site/blog generator
+jbig2dec	0.12	JBIG2 decoder and library (for monochrome documents)
+jbig2enc	0.28	JBIG2 encoder (for monochrome documents)
+jbigkit	2.1	JBIG1 data compression standard implementation
+jboss-as	7.1.1	JBoss Application Server
+jboss-forge	2.19.2	Tools to help set up and configure a project
+jcal	0.4.1	UNIX-cal-like tool to display Jalali calendar
+jdnssec-tools	0.12	Java command-line tools for DNSSEC
+jed	0.99-19	JED is a powerful editor for programmers
+jemalloc	3.6.0	malloc implementation emphasizing fragmentation avoidance
+jena	2.12.1	Framework for building semantic web and linked data apps
+jenkins	1.631	Extendable open source continuous integration server
+jenkins-job-builder	1.3.0	Configure Jenkins jobs with YAML files stored in Git
+jenv	0.4.3	Manage your Java environment
+jerm	0.8096	Communication terminal through serial and TCP/IP interfaces
+jetty	9.3.3	Java servlet engine and webserver
+jetty-runner	9.2.2	Use Jetty without an installed distribution
+jhead	3.00	Extract Digicam setting info from EXIF JPEG headers
+jhiccup	1.3.7	Measure pauses and stalls of an app's Java runtime platform
+jigdo	0.7.3	Tool to distribute very large files over the internet
+jing	20091111	RELAX NG validator
+jless	382+iso262+ext03	Jless file pager supporting ISO2022
+jlog	2.0.1	Pure C simple durable message queue with subscribers and publishers for logs
+jmeter	2.13	Load testing and performance measurement application
+jmxtrans	249	Tool to connect to JVMs and query their attributes
+jnettop	0.13.0	View hosts/ports taking up the most network traffic
+joe	4.0	Joe's Own Editor (JOE)
+john	1.8.0	Featureful UNIX password cracker
+john-jumbo	1.8.0	Enhanced version of john, a UNIX password cracker
+jooby-bootstrap	0.2.2	Script to simplify the creation of jooby apps
+jove	4.16.0.73	Emacs-style editor with vi-like memory, CPU, and size requirements
+jp2a	1.0.6	Convert JPG images to ASCII
+jpeg	v9d	JPEG image manipulation library
+jpeg-archive	2.1.1	Utilities for archiving JPEGs for long term storage
+jpeg-turbo	1.4.1	JPEG image codec that aids compression and decompression
+jpeginfo	1.6.1	Prints information and tests integrity of JPEG/JFIF files
+jpegoptim	1.4.3	Utility to optimize JPEG files
+jpegrescan	1.0.0	Losslessly shrink any JPEG file
+jq	1.5	Lightweight and flexible command-line JSON processor
+jrnl	1.9.7	Command-line note taker
+jruby	9.0.1.0	Ruby implementation in pure Java
+js-test-driver	1.3.5	JavaScript test runner
+jsawk	1.4	Like awk, but for JSON, using JavaScript objects and arrays
+jsdoc-toolkit	2.4.0	Generate documentation from JavaScript source code
+jsdoc3	v3.2.2	Inline API documentation processor for JavaScript
+jshon	8	Parse, read, and create JSON from the shell
+jsl	0.3.0
+jslint4java	2.0.5	Java wrapper for JavaScript Lint (jsl)
+jsmin	2013-03-29	Minify JavaScript code
+json-c	0.12	JSON parser for C
+json-fortran	4.2.0	Fortran 2008 JSON API
+json-glib	1.0.4	Library for JSON, based on GLib
+json_spirit	4.07	C++ JSON parser/generator
+jsoncpp	0.10.5	Library for interacting with JSON
+jsonnet	v0.8.1	Domain specific configuration language for defining JSON data.
+jsonpp	1.2.0	Command-line JSON pretty-printer
+jsvc	1.0.15	Wrapper to launch Java applications as daemons
+judy	1.0.5	C library that implements a sparse dynamic array
+juise	0.6.1	JUNOS user interface scripting environment
+juju	1.24.6	DevOps management tool
+juju-quickstart	2.2.1	Opinionated command-line tool for quickly starting Juju
+julius	4.3.1	Two-pass large vocabulary continuous speech recognition engine
+juman	7.01	Japanese morphological analysis system
+jvgrep	v4.2	Grep for Japanese users of Vim
+jvmtop	0.8.0	Console application for monitoring all running JVMs on a machine
+jython	2.7.0	Python implementation written in Java (successor to JPython)
+kafka	0.8.2.1	Publish-subscribe messaging rethought as a distributed commit log
+kafkacat	1.1.0	Generic command-line non-JVM Apache Kafka producer and consumer
+kakasi	2.3.6	Convert Kanji characters to Hiragana, Katakana, or Romaji
+kanif	1.2.2	Cluster management and administration tool
+karn	v0.0.2	Manage multiple Git identities
+kawa	2.0	Programming language for Java (implementation of Scheme)
+kbtin	1.0.14	Heavily extended clone of TinTin++
+kdiff3	0.9.98	Compare and merge 2 or 3 files or directories
+keepassc	1.7.0	Curses-based password manager for KeePass v.1.x and KeePassX
+kes	v0.9	Fork of the es shell based on the rc command interpreter
+kestrel	2.4.1	Distributed message queue
+kettle	5.0.1	Pentaho Data Integration software
+keybase	v0.8.19	Command-line interface to Keybase.io
+keychain	2.8.1	User-friendly front-end to ssh-agent(1)
+khal	0.6.0	CLI calendar application.
+khard	0.5.0	Console carddav client.
+kibana	v4.1.1	Visualization tool for elasticsearch
+kimwitu++	2.3.13	Tool for processing trees (i.e. terms)
+kitchen-sync	0.44	Fast efficiently sync database without dumping & reloading
+kite	1.0.4	Programming language designed to minimize programmer experience
+kjell	0.2.6	Erlang shell
+knock	0.7	Port-knock server
+knot	1.6.3	High-performance authoritative-only DNS server
+known_hosts	0.0.4	Command-line manager for known hosts
+konoha	v0.1	Static scripting language with extensible syntax
+kore	1.2.3	Web application framework for writing web APIs in C
+kotlin-compiler	0.1.1513	Statically typed programming language for the JVM
+kqwait	v1.0.3	Wait for events on files or directories on OS X
+ksh	2012-08-01	ksh93, the KornShell
+kstart	4.1	Modified version of kinit that can use keytabs to authenticate
+ktoblzcheck	1.48	Library for German banks
+kubernetes-cli	v1.0.6	Command-line tool for kubernetes, a cluster manager for Docker
+kvazaar	v0.5.0	HEVC encoder
+kyoto-cabinet	1.2.76	Library of routines for managing a database
+kyoto-tycoon	0.9.56	Database server with interface to Kyoto Cabinet
+kytea	0.4.7	Toolkit for analyzing text, especially Japanese and Chinese
+kyua	0.11	Testing framework for infrastructure software
+l-smash	v2.9.1	Tool for working with MP4 files
+lablgtk	2.18.3	Objective Caml interface to gtk+
+lame	3.99.5	Lame Aint an MP3 Encoder (LAME)
+languagetool	3.0	Style and grammar checker
+lasi	1.1.2	C++ stream output interface for creating Postscript documents
+lastfmfpclient	1.6	Last.fm fingerprint library
+lastfmlib	0.4.0	Implements Last.fm v1.2 submissions protocol for scrobbling
+lastpass-cli	v0.6.0	LastPass command-line interface tool
+laszip	v2.2.0	Lossless LiDAR compression
+latex2html	2012	LaTeX-to-HTML translator
+latex2rtf	2.3.8	Translate LaTeX to RTF
+launch	1.2.2	Command-line launcher for OS X, in the spirit of `open`
+launch4j	3.5	Cross-platform Java executable wrapper
+launchdns	v1.0.3	Mini DNS server designed soely to route queries to localhost
+lbdb	v0.38.2	Little brother's database for the mutt mail reader
+lbzip2	2.2	Parallel bzip2 utility
+lcab	1.0b12	Cabinet file creation tool
+lcdf-typetools	2.104	Manipulate OpenType and multiple-master fonts
+lcdproc	0.5.6	Display real-time system information on a LCD
+lci	0.6	Interpreter for the lambda calculus
+lcov	1.11	Graphical front-end for GCC's coverage testing tool (gcov)
+lcrack	20040914	Generic password cracker
+ld64	97.17	Updated version of the ld shipped by Apple
+ldapvi	1.7	Update LDAP entries with a text editor
+ldc	0.15.2-beta2	Portable D programming language compiler
+ldns	1.6.17	DNS library written in C
+le	1.15.1	Text editor with block and binary operations
+leafnode	1.11.10	Leafnode is a store and forward NNTP proxy
+ledger	v3.1	Command-line, double-entry accounting tool
+ledit	2.03	Line editor for interactive commands
+legit	v0.2.0	Command-line interface for Git, optimized for workflow simplicity
+leiningen	2.5.3	Build tool for Clojure
+lemon	1.69	LALR(1) parser generator like yacc or bison
+lensfun	0.3.1	Remove defects from digital images
+leptonica	1.72	Image processing and image analysis library
+less	481	Pager program similar to more
+lesspipe	1.82	Input filter for the pager less
+lesstif	0.95.2	Open source implementation of OSF/Motif
+leveldb	v1.18	Key-value storage library with ordered mapping
+lfe	v0.9.2	A Concurrent Lisp for the Erlang VM
+lft	3.73	Layer Four Traceroute (LFT), an advanced traceroute tool
+lftp	4.6.4	Sophisticated file transfer program
+lha	1.14i-ac20050924p1	Utility for creating and opening lzh archives
+lhasa	v0.3.0	LHA implementation to decompress .lzh and .lzs archives
+lib3ds	1.3.0	Library for managing 3D-Studio Release 3 and 4 '.3DS' files
+libaacs	0.8.1	Implements the Advanced Access Content System specification
+libagar	1.4.1	Cross-platform GUI toolkit
+libagg	2.5	High fidelity 2D graphics library for C++
+libantlr3c	3.4	ANTLRv3 parsing library for C
+libao	1.2.0	Cross-platform Audio Library
+libarchive	3.1.2	Multi-format archive and compression library
+libart	2.3.20	Library for high-performance 2D graphics
+libass	0.12.3	Subtitle renderer for the ASS/SSA subtitle format
+libassuan	2.3.0	Assuan IPC Library
+libatomic_ops	7.4.2	Implementations for atomic memory update operations
+libav	11.4	Audio and video processing tools
+libb2	0.97	Secure hashing function
+libbind	6.0	Original resolver library from ISC
+libbinio	1.4	Binary I/O stream class library
+libbluray	0.8.1	Blu-Ray disc playback library for media players like VLC
+libbpg	0.9.5	Image format meant to improve on JPEG quality and file size
+libbs2b	3.1.0	Bauer stereophonic-to-binaural DSP
+libbson	1.1.7	BSON utility library
+libbtbb	2014-02-R4	Bluetooth baseband decoding library
+libcaca	0.99b19	Convert pixel information into colored ASCII art
+libcanberra	0.30	Implementation of XDG Sound Theme and Name Specifications
+libcapn	1.0.0	C library to send push notifications to Apple devices
+libcddb	1.3.2	CDDB server access library
+libcdio	0.93	Compact Disc Input and Control Library
+libcdr	0.1.1	C++ library to parse the file format of CorelDRAW documents
+libcec	3.0.1	Control devices with TV remote control and HDMI cabling
+libcello	1.1.7	Higher-level programming in C
+libchamplain	0.12.10	ClutterActor for displaying maps
+libcmph	2.0	C minimal perfect hashing library
+libcoap	4.1.1	Lightweight application-protocol for resource-constrained devices
+libconfig	v1.7.2	Configuration file processing library
+libcouchbase	2.5.3	C library for Couchbase
+libcroco	0.6.8	CSS parsing and manipulation toolkit for GNOME
+libcsv	3.0.3	CSV library in ANSI C89
+libcue	1.4.0	Cue sheet parser library for C
+libcuefile	r475	Library to work with CUE files
+libdaemon	0.14	C library that eases writing UNIX daemons
+libdap	3.12.1	Framework for scientific data networking
+libdbi	0.9.0	Database-independent abstraction layer in C, similar to DBI/DBD in Perl
+libdbusmenu-qt	0.9.2	C++ dbusmenu library for Qt
+libdc1394	2.2.2	Provides API for IEEE 1394 cameras
+libdca	0.0.5	Library for decoding DTS Coherent Acoustics streams
+libdiscid	0.6.1	C library for creating MusicBrainz and freedb disc IDs
+libdmtx	0.7.4	Data Matrix library
+libdnet	1.12	Portable low-level networking library
+libdrawtext	0.2.1	Library for anti-aliased text rendering in OpenGL
+libdshconfig	0.20.13	Distributed shell library
+libdsk	1.3.8	Library for accessing discs and disc image files
+libdv	1.0.0	Codec for DV video encoding format
+libdvbpsi	0.2.2	Library to decode/generate MPEG TS and DVB PSI tables
+libdvdcss	1.3.99	Access DVDs as block devices without the decryption
+libdvdnav	5.0.3	DVD navigation library
+libdvdread	5.0.2	C library for reading DVD-video images
+libebml	1.3.1	Sort of a sbinary version of XML
+libebur128	v1.0.2	Library implementing the EBU R128 loudness standard
+libechonest	2.3.1	Qt library for communicating with The Echo Nest
+libelf	0.8.13	ELF object file access library
+libepoxy	v1.3.1	Library for handling OpenGL function pointer management
+libestr	0.1.9	C library for string handling (and a bit more)
+libetonyek	0.1.2	Interpret and import Apple Keynote presentations
+libev	4.20	Asynchronous event library
+libevent	2.0.22	Asynchronous event library
+libewf	20140608	Library for support of the Expert Witness Compression Format
+libexif	0.6.21	EXIF parsing library
+libexosip	2-4.1.0	eXosip2 toolkit
+libextractor	1.3	Library to extract meta data from files
+libfaketime	0.9.5	Report faked system time to programs
+libffi	3.0.13	Portable Foreign Function Interface library
+libfishsound	1.0.0	Decode and encode audio data using the Xiph.org codecs
+libfixbuf	1.7.0	Implements the IPFIX Protocol as a C library
+libfixposix	v0.3.0	Thin wrapper over POSIX syscalls
+libflowmanager	2.0.4	Flow-based measurement tasks with packet-based inputs
+libforensic1394	0.2	Live memory forensics over IEEE 1394 (FireWire) interface
+libfreefare	0.4.0	API for MIFARE card manipulations
+libfreehand	0.1.1	Interpret and import Aldus/Macromedia/Adobe FreeHand documents
+libfreenect	v0.5.1	Drivers and libraries for the Xbox Kinect device
+libftdi	1-1.1	Library to talk to FTDI chips
+libftdi0	0.20	Library to talk to FTDI chips
+libgadu	1.12.1	Library for ICQ instant messenger protocol
+libgaiagraphics	0.5	Library supporting common-utility raster handling
+libgcrypt	1.7.3	Cryptographic library based on the code from GnuPG
+libgda	5.2.4	Provides unified data access to the GNOME project
+libgee	0.18.0	Collection library providing GObject-based interfaces
+libgeotiff	1.4.1	Library and tools for dealing with GeoTIFF
+libgetdata	0.8.6	Reference implementation of the Dirfile Standards
+libgfshare	2.0.0	Library for sharing secrets
+libghthash	0.6.2	Generic hash table for C++
+libgit2	v0.23.2	C library of Git core methods that is re-entrant and linkable
+libgit2-glib	0.23.6	Glib wrapper library around libgit2 git access library
+libglade	2.6.4	RAD tool to help build GTK+ interfaces
+libglademm	2.6.7	C++ wrapper around libglade
+libgnomecanvas	2.30.3	Highlevel, structured graphics library
+libgnomecanvasmm	2.26.0	C++ wrapper for libgnomecanvas
+libgpg-error	1.20	Common error values for all GnuPG components
+libgphoto2	2.5.8	Gphoto2 digital camera library
+libgroove	4.3.0	Streaming audio processing library
+libgsf	1.14.34	I/O abstraction library for dealing with structured file formats
+libgsm	1.0.13	Lossy speech compression library
+libgtop	2.32.0	Library for portably obtaining information about processes
+libgweather	3.18.0	GNOME library for weather, locations and timezones
+libgxps	0.2.3.2	GObject based library for handling and rendering XPS documents
+libharu	2_3_0	Library for generating PDF files
+libhdhomerun	20150406	C library for controlling SiliconDust HDHomeRun TV tuners
+libhid	0.2.16	Library to access and interact with USB HID devices
+libhttpserver	v0.9.0	C++ library of embedded Rest HTTP server
+libical	1.0.1	Implementation of iCalendar protocols and data formats
+libical-glib	1.0.3	Wrapper of libical with support of GObject Introspection
+libicns	0.8.1	Library for manipulation of the OS X .icns resource format
+libiconv	1.15	Conversion library
+libid3tag	0.15.1	ID3 tag manipulation library
+libident	0.32	Ident protocol library
+libidl	0.8.14	libIDL is a library for creating CORBA IDL files
+libidn	1.32	International domain name library
+libimobiledevice	1.2.0	Library to communicate with iOS devices natively
+libinfinity	0.6.6	GObject-based C implementation of the Infinote protocol
+libiodbc	3.52.10	Database connectivity layer based on ODBC. (alternative to unixodbc)
+libiomp	20150701	Manage multiple threads in an OpenMP program as it executes
+libiptcdata	1.0.4	Virtual package provided by libiptcdata0
+libiscsi	1.15.0	Client library and utilities for iscsi
+libjson-rpc-cpp	v0.5.0	C++ framework for json-rpc
+libkate	0.4.1	Overlay codec for multiplexed audio/video in Ogg
+libkml	1.2.0	Library to parse, generate and operate on KML
+libksba	1.3.3	X.509 and CMS library
+liblacewing	0.5.4	Cross-platform, high-level C/C++ networking library
+liblas	1.8.0	C/C++ library for reading and writing the LAS LiDAR format
+liblastfm	1.0.9	Libraries for Last.fm site services
+liblinear	2.01	Library for large linear classification
+liblo	0.28	Lightweight Open Sound Control implementation
+liblockfile	1.09	Library providing functions to lock standard mailboxes
+liblqr	1-0.4.2	C/C++ seam carving library
+libltc	1.1.4	POSIX-C Library for handling Linear/Logitudinal Time Code (LTC)
+liblunar	2.2.5	Lunar date calendar
+liblwgeom	2.1.5	Allows SpatiaLite to support ST_MakeValid() like PostGIS
+libmaa	1.3.2	Low-level data structures including hash tables, sets, lists
+libmagic	5.25	Implementation of the file(1) command
+libmarisa	0.2.4	Static and space-efficient trie data structure
+libmatroska	1.4.2	Extensible, open standard container format for audio/video
+libmaxminddb	1.1.1	C library for the MaxMind DB file format
+libmemcached	1.0.18	C and C++ client library to the memcached server
+libmetalink	0.1.2	C library to parse Metalink XML files
+libmicrohttpd	0.9.42	Light HTTP/1.1 server library
+libmikmod	3.3.7	Portable sound library
+libming	0.4.4	C library for generating Macromedia Flash files
+libmms	0.6.4	Library for parsing mms:// and mmsh:// network streams
+libmodbus	3.1.1	Portable modbus library
+libmodplug	0.8.8.5	Library from the Modplug-XMMS project
+libmongoclient	2.6.9	C and C++ driver for MongoDB
+libmonome	1.2	Interact with monome devices via C, Python, or FFI
+libmowgli	2.0.0	Core framework for Atheme applications
+libmp3splt	0.9.2	Utility library to split mp3, ogg, and FLAC files
+libmpc	1.0.3	C library for the arithmetic of high precision complex numbers
+libmpc08	0.8.1	C library for high precision complex numbers
+libmpd	11.8.17	Higher level access to MPD functions
+libmpdclient	2.10	Library for MPD in the C, C++, and Objective-C languages
+libmpeg2	0.5.1	Library to decode mpeg-2 and mpeg-1 video streams
+libmrss	0.19.2	C library for RSS files or streams
+libmspub	0.1.2	Interpret and import Microsoft Publisher content
+libmtp	1.1.9	Implementation of Microsoft's Media Transfer Protocol (MTP)
+libmusicbrainz	5.1.0	MusicBrainz Client Library
+libmxml	2.9	Mini-XML library
+libnatpmp	20130911	NAT port mapping protocol library
+libnet	1.1.6	C library for creating IP packets
+libnfc	1.7.0	Low level NFC SDK and Programmers API
+libnfs	1.9.7	C client library for NFS
+libnice	0.1.7	GLib ICE implementation
+libnids	1.24	Implements E-component of network intrusion detection system
+libntlm	1.4	Implements Microsoft's NTLM authentication
+libnxml	0.18.3	C library for parsing, writing, and creating XML files
+liboauth	1.0.3	C library for the OAuth Core RFC 5849 standard
+libodbc++	0.2.5	C++ development environment for SQL database access
+libodfgen	0.1.4	ODF export library for projects using librevenge
+libofx	0.9.9	Library to support OFX command responses
+libogg	1.3.2	Ogg Bitstream Library
+liboil	0.3.17	C library of simple functions optimized for various CPUs
+libopendkim	2.10.3	Implementation of Domain Keys Identified Mail authentication
+libopennet	0.9.9	open_net(), similar to open()
+liboping	1.8.0	C library to generate ICMP echo requests
+libopkele	2.0.4	C++ implementation of OpenID decentralized identity system
+libosip	2-4.1.0	Implementation of the eXosip2 stack
+libotr	4.1.0	Off-The-Record (OTR) messaging library
+libowfat	0.29	Reimplements libdjb
+libp11	0.2.8	PKCS#11 wrapper library in C
+libpagemaker	0.0.2	Imports file format of Aldus/Adobe PageMaker documents
+libpano	13-2.9.19	Build panoramic images from a set of overlapping images
+libpcap	1.8.1	Portable library for network traffic capture
+libpcl	1.12	C library and API for coroutines
+libpeas	1.14.0	GObject plugin library
+libpgm	5.2.122	Implements the PGM reliable multicast protocol
+libplist	1.12	Library for Apple Binary- and XML-Property Lists
+libpng	1.6.24	Library for manipulating PNG images
+libpointing	0.92	Provides direct access to HID pointing devices
+libpoker-eval	138.0	C library to evaluate poker hands
+libpqxx	4.0.1	C++ connector for PostgreSQL
+libprotoident	2.0.7	Libprotoident performs application layer protocol identification
+libpst	0.6.65	Utilities for the PST file format
+libpuzzle	0.11	Library to find visually similar images
+libqalculate	0.9.7	Library for Qalculate! program
+libqglviewer	2.6.1	C++ Qt library to create OpenGL 3D viewers
+libquantum	1.0.0	C library for the simulation of quantum mechanics
+libquicktime	1.2.4	Library for reading and writing quicktime files
+libquvi	0.4.1	C library to parse flash media stream properties
+librasterlite	1.1g	Library to store and retrieve huge raster coverages
+libraw	0.16.0	Library for reading RAW files from digital photo cameras
+librcsc	4.1.0	RoboCup Soccer Simulator library
+librdkafka	0.8.6	The Apache Kafka C/C++ library
+libre	0.4.12	Toolkit library for asynchronous network I/O with protocol stacks
+libreadline-java	0.8.0	Port of GNU readline for Java
+librem	0.4.6	Toolkit library for real-time audio and video processing
+libreplaygain	r475	Library to implement ReplayGain standard for audio
+libresample	0.1.3	Audio resampling C library
+libressl	2.2.3	Version of the SSL/TLS protocol forked from OpenSSL
+librevenge	0.0.2	Base library for writing document import filters
+librsvg	2.40.10	Library to render SVG files using Cairo
+librsync	0.9.7	Library that implements the rsync remote-delta algorithm
+librtlsdr	v0.5.3	Use Realtek DVT-T dongles as a cheap SDR
+libsamplerate	0.1.8	Library for sample rate conversion of audio data
+libsass	3.2.5	C implementation of a Sass compiler
+libscrypt	v1.20	Library for scrypt
+libsecret	0.18.3	Library for storing/retrieving passwords and other secrets
+libshout	2.3.1	Data and connectivity library for the icecast server
+libsigc++	2.4.1	Callback framework for C++
+libsigsegv	2.10	Library for handling page faults in user mode
+libslax	0.19.0	Implementation of the SLAX language (an XSLT alternative)
+libsmf	1.3	C library for handling SMF ('*.mid') files
+libsmi	0.4.8	Library to Access SMI MIB Information
+libsndfile	1.0.25	C library for files containing sampled sound
+libsodium	1.0.3	NaCl networking and cryptography library
+libsoup	2.52.0	HTTP client/server library for GNOME
+libsoxr	0.1.1	High quality, one-dimensional sample-rate conversion library
+libspatialite	4.3.0a	Adds spatial SQL capabilities to SQLite
+libspectre	0.2.7	Small library for rendering Postscript documents
+libspiro	20071029	Library to simplify the drawing of curves
+libspnav	0.2.3	Client library for connecting to 3Dconnexion's 3D input devices
+libssh	0.7.1	C library SSHv1/SSHv2 client and server protocols
+libssh2	1.8.0	C library implementing the SSH2 protocol
+libstfl	0.22	Library implementing a curses-based widget set for terminals
+libstrophe	0.8.6	XMPP library for C
+libstxxl	1.4.1	C++ implementation of STL for extra large data sets
+libsvg	0.1.4	Library for SVG files
+libsvg-cairo	0.1.6	SVG rendering library using Cairo
+libsvm	3.20	Library for support vector machines
+libswiften	2.0	C++ library for implementing XMPP applications
+libtar	v1.2.20	C library for manipulating POSIX tar files
+libtasn1	4.7	ASN.1 structure parser library
+libtecla	1.6.3	Command-line editing facilities similar to the tcsh shell
+libtermkey	0.17	Library for processing keyboard entry from the terminal
+libtess2	1.0	Refactored version of GLU tesselator
+libtextcat	2.2	N-gram-based text categorization library
+libtiff	4.0.6	TIFF library and utilities
+libtins	v3.1	C++ network packet sniffing and crafting library
+libtomcrypt	1.17	Modular and portable cryptographic toolkit
+libtommath	0.42.0	C library for number theoretic multiple-precision integers
+libtool	2.4.6	Generic library support script
+libtorrent	0.13.6	BitTorrent library
+libtorrent-rasterbar	1.0.6	C++ bittorrent library by Rasterbar Software
+libtrace	3.0.22	Library for trace processing supporting multiple inputs
+libunistring	0.9.6	C string library for manipulating Unicode strings
+libunwind-headers	35.1	C API for determining the call-chain of a program
+libupnp	1.6.19	Portable UPnP development kit
+libusb	1.0.20	Library for USB device access
+libusb-compat	0.1.5	Library for USB device access
+libusrsctp	0.9.1	User-land SCTP stack
+libutf	20110530	Port of Plan 9's support library for UTF-8 and Unicode
+libutil	11	FreeBSD utility library
+libuv	v1.7.4	Multi-platform support library with a focus on asynchronous I/O
+libuvc	v0.0.5	Cross-platform library for USB video devices
+libvbucket	1.8.0.4	Utility library providing mapping to virtual buckets
+libvidstab	0.98b	Transcode video stabilization plugin
+libvirt	1.2.19	C virtualization API
+libvisio	0.1.1	Interpret and import Visio diagrams
+libvo-aacenc	0.1.3	VisualOn AAC encoder library
+libvoikko	3.8	Linguistic software for Finnish
+libvorbis	1.3.5	Vorbis General Audio Compression Codec
+libvpx	v1.4.0	VP8 video codec
+libwandevent	3.0.1	Libwandevent provides an API for developing event-driven programs
+libwbxml	0.11.2	Library and tools to parse and encode WBXML documents
+libwebm	1.0.0.26	WebM container
+libwebsockets	v3.1.0	C websockets server library
+libwmf	0.2.8.4	Library for converting WMF (Window Metafile Format) files
+libwpd	0.10.0	General purpose library for reading WordPerfect files
+libwpg	0.3.0	Library for reading and parsing Word Perfect Graphics format
+libwps	0.3.0	Library to import files in MS Works format
+libxc	2.2.2	Library of exchange and correlation functionals for codes
+libxdg-basedir	1.2.0	C implementation of the XDG Base Directory specifications
+libxdiff	0.23	Implements diff functions for binary and text files
+libxmi	1.2	C/C++ function library for rasterizing 2D vector graphics
+libxml++	2.40.0	C++ wrapper for libxml
+libxml2	2.9.2	GNOME XML library
+libxmlsec1	1.2.20	XML security library
+libxmp	4.3.9	C library for playback of module music (MOD, S3M, IT, etc)
+libxmp-lite	4.3.5	Lite libxmp
+libxslt	1.1.28	C XSLT library for GNOME
+libxspf	1.2.0	C++ library for XSPF playlist reading and writing
+libyaml	0.1.6	YAML Parser
+libyubikey	1.13	C library for manipulating Yubico one-time passwords
+libzdb	3.1	Database connection pool library
+libzip	0.11.2	C library for reading, creating, and modifying zip archives
+libzzip	0.13.62	Library providing read access on ZIP-archives
+lifelines	3.0.62	Text-based genealogy software
+lightning	2.1.0	Generates assembly language code at run-time
+lighttpd	1.4.37	Small memory footprint, flexible web-server
+lilv	0.20.0	C library to use LV2 plugins
+link-grammar	4.7.14	Carnegie Mellon University's link grammar parser
+linklint	2.3.5	Link checker and web site maintenance tool
+links	2.11	Lynx-like WWW browser that supports tables, menus, etc.
+liquibase	3.4.1	Library for database change tracking
+liquidprompt	v1.9	Adaptive prompt for bash and zsh shells
+litmus	0.13	WebDAV server protocol compliance test suite
+little-cms	1.19	Version 1 of the Little CMS library
+little-cms2	2-2.7	Color management engine supporting ICC profiles
+lldpd	0.7.17	Implementation library for LLDP
+llvm	3.6.2	llvm (Low Level Virtual Machine): a next-gen compiler infrastructure
+lmdb	0.9.14	Lightning memory-mapped database: key-value data store
+lnav	0.7.3	Curses-based tool for viewing and analyzing log files
+lockrun	1.1.3	Run cron jobs with overrun protection
+log4c	1.2.4	Logging Framework for C
+log4cplus	1.1.2	Logging Framework for C++
+log4cpp	1.1.1	Configurable logging for C++
+log4cxx	0.10.0	Library of C++ classes for flexible logging
+log4shib	1.0.9	Forked version of log4cpp for the Shibboleth project
+logcheck	1.3.17	Mail anomalies in the system logfiles to the administrator
+logentries	v1.4.19	Utility for access to logentries logging infrastructure
+logrotate	3.9.1	Rotates, compresses, and mails system logs
+logstalgia	1.0.6	Web server access log visualizer
+logstash	1.5.4	Tool for managing events and logs
+logtalk	3.00.4	Object-oriented logic programming language
+lolcode	v0.11.2	LOLCODE interpreter
+lorem	0.6.1	Lorem Ipsum generator
+loudmouth	1.5.0-20121201	Lightweight C library for the Jabber protocol
+lout	3.40	Text formatting like TeX, but simpler
+lpc21isp	1.97	In-circuit programming (ISP) tool for several NXP microcontrollers
+lrdf	0.5.0	RDF library for accessing plugin metadata in the LADSPA plugin system
+lrzip	0.621	Compression program with a very high compression ratio
+lrzsz	0.12.20	Tools for zmodem/xmodem/ymodem file transfer
+lsdvd	0.16	Read the content info of a DVD
+lsh	2.1	GNU implementation of the Secure Shell (SSH) protocols
+lsof	4.89	Utility to list open files
+lsyncd	2.1.5	Synchronize local directories with remote targets
+ltc-tools	v0.6.4	Tools to deal with linear-timecode (LTC)
+ltl2ba	1.2b1	Translate LTL formulae to Buchi automata
+lua	5.2.4	Powerful, lightweight programming language
+lua51	5.1.5	Powerful, lightweight programming language (v5.1.5)
+luabind	0.9.1	Library for bindings between C++ and Lua
+luajit	2.0.4	Just-In-Time Compiler (JIT) for the Lua programming language
+luciddb	0.9.4	DBMS optimized for business intelligence
+lutok	0.4	Lightweight C++ API for Lua
+luvit	0.8.2	Asynchronous I/O for Lua
+luyten	0.4.4	Java decompiler GUI for Procyon
+lv	4.51	Powerful multi-lingual file viewer/grep
+lv2	1.12.0	Portable plugin standard for audio systems
+lwtools	4.9	Cross-development tools for Motorola 6809 and Hitachi 6309 microprocessors
+lxsplit	0.2.4	Tool for splitting or joining files
+lynis	2.1.1	Security and system auditing tool to harden systems
+lynx	2.8.8rel.2	Text-based web browser
+lysp	1.1	Small Lisp interpreter
+lz4	r131	Lossless compression algorithm
+lzip	1.17	LZMA-based compression program similar to gzip or bzip2
+lzlib	1.7	Data compression library
+lzo	2.09	Real-time data compression library
+lzop	1.03	File compressor
+m2c	0.7	Modula-2 to C compiler
+m4	1.4.18	Macro processing language
+mac-robber	1.02	Digital investigation tool
+mackup	0.8.11	Keep your Mac's application settings in sync
+macvim	7.4-77	GUI for vim, made for OS X
+mad	0.15.1	MPEG audio decoder
+madplay	0.15.2	MPEG Audio Decoder
+magit	2.2.2	Emacs interface for Git
+mahout	0.11.0	Library to help build scalable machine learning libraries
+mailcheck	1.91.2	Check multiple mailboxes/maildirs for mail
+mailutils	2.2	Swiss Army knife of email handling
+mairix	0.23	Email index and search tool
+make	4.2.1	Utility for directing compilation
+makedepend	1.0.5	Creates dependencies in makefiles
+makefile2graph	v1.5.0	Create a graph of dependencies from GNU-Make
+makeicns	1.4.10a	Create icns files from the command-line
+makensis	2.46	System to create Windows installers
+makepkg	v4.2.1	Compile and build packages suitable for installation with pacman
+makepp	2.0	Drop-in replacement for GNU make
+makeself	2.2.0	Make self-extractable archives on UNIX
+mal4s	1.2.8	Malicious host finder based on gource
+malaga	7.12	Grammar development environment for natural languages
+malbolge	0.1.0	Deliberately difficult to program esoteric programming language
+man2html	3.0.1	Convert nroff man pages to HTML
+mandoc	1.13.3	The mandoc UNIX manpage compiler toolset
+mapnik	v3.0.5	Toolkit for developing mapping applications
+mapserver	6.2.2	Publish spatial data and interactive mapping apps to the web
+mariadb	10.0.21	Drop-in replacement for MySQL
+markdown	1.0.1	Text-to-HTML conversion tool
+marst	2.7	Algol-to-C translator
+masscan	1.0.3	TCP port scanner, scans entire Internet in under 5 minutes
+matlab2tikz	1.0.0	Convert MATLAB(R) figures into TikZ/Pgfplots figures
+maven	3.3.3	Java-based project management
+maven-shell	1.1.0	Shell for Maven
+mawk	1.3.4-20141027	Interpreter for the AWK Programming Language
+mbelib	v1.2.5	P25 Phase 1 and ProVoice vocoder
+mboxgrep	0.7.9	Scan a mailbox for messages matching a regular expression
+mcabber	1.0.0	Console Jabber client
+mcpp	2.7.2	Alternative C/C++ preprocessor
+mcrypt	2.6.8	Replacement for the old crypt package and crypt(1) command
+md	147	Process raw dependency files produced by cpp
+md5deep	4.4	Recursively compute digests on files/directories
+md5sha1sum	0.9.5	Hash utilities
+mda-lv2	1.2.2	LV2 port of the MDA plugins
+mdbtools	0.7.1	Tools to facilitate the use of Microsoft Access databases
+mdf2iso	0.3.1	Tool to convert MDF (Alcohol 120% images) images to ISO images
+mdk	1.2.8	GNU MIX development kit
+mdp	1.0.1	Command-line based markdown presentation tool
+mdr	v1.0.1	Make diffs readable
+mdxmini	20140608	Plays music in X68000 MDX chiptune format
+mecab	0.996	Yet another part-of-speech and morphological analyzer
+mecab-ipadic	2.7.0-20070801	IPA dictionary compiled for MeCab
+mecab-jumandic	5.1-20070304	See mecab
+mecab-ko	0.996-ko-0.9.2	See mecab
+mecab-ko-dic	1.6.1-20140814	See mecab
+mecab-unidic	2.1.2	Morphological analyzer for MeCab
+media-info	0.7.77	Unified display of technical and tag data for audio/video
+mediatomb	0.12.1	Open source (GPL) UPnP MediaServer
+megacmd	0.012	Command-line client for mega.co.nz storage service
+megatools	1.9.95	Command-line client for Mega.co.nz
+memcache-top	v0.6	Grab real-time stats from memcache
+memcached	1.4.24	High performance, distributed memory object caching system
+memcacheq	0.2.0	Queue service for memcache
+memo	1.6	Note-taking and to-do software
+memtester	4.3.0	Utility for testing the memory subsystem
+menhir	20141215	LR(1) parser generator for the OCaml programming language
+mercurial	3.5.1	Scalable distributed version control system
+mercury	14.01.1	Logic/functional programming language
+mergelog	4.5	Merges httpd logs from web servers behind round-robin DNS
+mergepbx	v0.9	Merge XCode project files in git
+mesos	0.24.0	Apache cluster manager
+metaproxy	1.8.8	Z39.50 proxy and router utilizing Yaz toolkit
+metashell	v2.1.0	Metaprogramming shell for C++ templates
+mfcuk	0.3.8	MiFare Classic Universal toolKit
+mfoc	0.10.7	Implementation of 'offline nested' attack by Nethemba
+mftrace	1.2.18	Trace TeX bitmap font to PFA, PFB, or TTF font
+mg	20131118	Small Emacs-like editor
+mgba	0.6.3	Game Boy Advance emulator
+mhash	0.9.9.9	Uniform interface to a large number of hash algorithms
+midgard2	12.09	Generic content repository for web and desktop applications
+midicsv	1.1	Convert MIDI audio files to human-readable CSV format
+midnight-commander	4.8.14	Terminal-based visual file manager
+mighttpd2	3.2.7	HTTP server
+mikmod	3.2.6	Portable tracked music player
+miller	2.2.1	Like sed, awk, cut, join & sort for name-indexed data such as CSV
+mimms	3.2.1	Mms stream downloader
+minbif	1.0.5	IRC-to-other-IM-networks gateway using Pidgin library
+minicom	2.7	Menu-driven communications program
+minidjvu	0.8	DjVu multipage encoder, single page encoder/decoder
+minidlna	1.1.5	Media server software, compliant with DLNA/UPnP-AV clients
+minimodem	0.22.1	General-purpose software audio FSK modem
+minisat	2.2.0	Boolean satisfiability (SAT) problem solver
+minised	1.15	Smaller, cheaper, faster SED implementation
+minisign	0.4	Sign files & verify signatures. Works with signify in OpenBSD.
+miniupnpc	2.0.20170509	UpnP IGD client library and daemon
+minizinc	2.0.6	Medium-level constraint modeling language
+minizip	1.2.8	C library for zip/unzip via zLib
+minuit2	2-5.34.14	Physics analysis tool for function minimization
+miredo	1.2.6	Teredo IPv6 tunneling through NATs
+miruo	0.9.6a	Pretty-print TCP session monitor/analyzer
+mitie	v0.4	Library and tools for information extraction
+mitmproxy	0.13	Intercept, modify, replay, save HTTP/S traffic
+mjpegtools	2.1.0	Record and playback videos and perform simple edits
+mkclean	0.8.7	Optimizes Matroska and WebM files
+mkcue	1	Generate a CUE sheet from a CD
+mksh	R50F	MirBSD Korn Shell
+mktorrent	1.0	Create BitTorrent metainfo files
+mkvalidator	0.5.0	Tool to verify Matroska and WebM files for spec conformance
+mkvdts2ac3	1.6.0	Convert DTS audio to AC3 within a matroska file
+mkvtomp4	v1.3	Convert mkv files to mp4
+mkvtoolnix	8.3.0	Matroska media files manipulation tools
+mldonkey	3.1.5	OCaml/GTK client for the eDonkey P2P network
+mlogger	v1.1.2	Log to syslog from the command-line
+mlt	0.9.6	Author, manage, and run multitrack audio/video compositions
+mm-common	0.9.8	C++ interfaces for GTK+ and GNOME
+mmix	20131017	64-bit RISC architecture designed by Donald Knuth
+mmsrip	0.7.0	Client for the MMS:// protocol
+mmv	1.01b	Move, copy, append, and link multiple files
+mobile-shell	1.2.5	Remote terminal application
+mobiledevice	v2.0.0	CLI for Apple's Private (Closed) Mobile Device Framework
+moc	2.5.0	Terminal-based music player
+mockserver	3.9.17	Mock HTTP server and proxy
+moco	0.10.1	Stub server with Maven, Gradle, Scala, and shell integration
+modgit	v1.0.1	Tool for git repo deploy with filters. Used for magento development.
+modman	1.12	Module deployment script geared towards Magento development
+modules	3.2.10	Dynamic modification of a user's environment via modulefiles
+moe	1.7	Console text editor for ISO-8859 and ASCII
+mogenerator	1.29	Generate Objective-C code for Core Data custom classes
+mon	1.2.3	Monitor hosts/services/whatever and alert about problems
+monetdb	11.21.5	Column-store database
+mongo-c	1.1.6	Official C driver for MongoDB
+mongodb	r3.0.6	High-performance, schema-free, document-oriented database
+mongoose	5.6	Web server build on top of Libmongoose embedded library
+mongrel2	v1.9.3	Application, language, and network architecture agnostic web server
+mongroup	0.4.1	Monitor a group of processes with mon
+monit	5.14	Manage and monitor processes, files, directories, and devices
+monkeysphere	0.36	Use the OpenPGP web of trust to verify ssh connections
+mono	4.2.0.179	Cross platform, open source .NET development framework
+monotone	1.1	Distributed version control system (DVCS)
+montage	v3.3	Toolkit for assembling FITS images into custom mosaics
+moreutils	0.57	Collection of tools that nobody wrote when UNIX was young
+mosml	2.10.1	Moscow ML
+mosquitto	1.4.2	Message broker implementing MQ telemetry transport protocol
+most	5.0.0a	Powerful paging program
+movgrab	1.2.1	Downloader for youtube, dailymotion, and other video websites
+mozilla-addon-sdk	1.17	Create Firefox add-ons using JS, HTML, and CSS
+mozjpeg	3.1	Improved JPEG encoder
+mp3blaster	3.2.5	Text-based mp3 player
+mp3cat	0.4	Reads and writes mp3 files
+mp3check	0.8.7	Tool to check mp3 files for consistency
+mp3gain	1.5.2	Lossless mp3 normalizer with statistical analysis
+mp3info	0.8.5a	MP3 technical info viewer and ID3 1.x tag editor
+mp3splt	2.6.2	Command-line interface to split MP3 and Ogg Vorbis files
+mp3val	0.1.8	Program for MPEG audio stream validation
+mp3wrap	0.5	Wrap two or more mp3 files in a single large file
+mp4v2	2.0.0	Read, create, and modify MP4 files
+mpack	1.6	MIME mail packing and unpacking
+mpc	0.27	Command-line music player client for mpd
+mpck	0.19	Check MP3 files for errors
+mpd	0.19.10	Music Player Daemon
+mpdas	0.3.1	C++ client to submit tracks to audioscrobbler
+mpdscribble	0.22	Last.fm reporting client for mpd
+mpdviz	0.4.6	Standalone console MPD visualizer
+mpegdemux	0.1.4	MPEG1/2 system stream demultiplexer
+mpfi	1.5.1	Multiple precision interval arithmetic library
+mpfr	3.1.6	C library for multiple-precision floating-point computations
+mpfr2	2.4.2	Multiple-precision floating-point computations C lib
+mpg123	1.22.4	MP3 player for Linux and UNIX
+mpg321	0.3.2	Command-line MP3 player
+mpgtx	1.3.1	Toolbox to manipulate MPEG files
+mpich	3.1.4	Implementation of the MPI Message Passing Interface standard
+mplayer	1.2	UNIX movie player
+mplayershell	0.9.3	Improved visual experience for MPlayer on OS X
+mpop	1.2.0	POP3 client
+mpssh	1.3.3	Mass parallel ssh
+mpw	2.1-cli4	Master Password for the terminal
+mr	1.20150503	Multiple Repository management tool
+mrtg	2.17.4	Multi router traffic grapher
+mruby	1.1.0	Lightweight implementation of the Ruby language
+msdl	1.2.7r2	Downloader for various streaming protocols
+msgpack	1.2.0	Library for a binary-based efficient data interchange format
+msitools	0.94	Windows installer (.MSI) tool
+msktutil	0.5.1	Program for interoperability with Active Directory
+msmtp	1.6.2	SMTP client that can be used as an SMTP plugin for Mutt
+mspdebug	0.22	Debugger for use with MSP430 MCUs
+mtools	4.0.17	Tools for manipulating MSDOS files
+mtr	0.86	'traceroute' and 'ping' in a single tool
+mu	v0.9.13	Tool for searching e-mail messages stored in the maildir-format
+multimarkdown	4.7.1	Turn marked-up plain text into well-formatted documents
+multirust	0.0.6	Manage multiple Rust installations
+multitail	6.4.1	Tail multiple files in one terminal simultaneously
+muparser	2.2.4	C++ math expression parser library
+mupdf-tools	1.7a	Lightweight PDF and XPS viewer
+musepack	r475	Audio compression format and tools
+mussh	1.0	Multi-host SSH wrapper
+mutt	1.5.24	Mongrel of mail user agents (part elm, pine, mush, mh, etc.)
+muttils	1.3	Provides utilities for use with console mail clients, eg. Mutt.
+mvnvm	1.0.7	Maven version manager
+mvptree	1.0	Perceptual hash library
+mycli	1.4.0	CLI for MySQL with auto-completion and syntax highlighting
+mypy	v0.2.0	Experimental optional static type checker for Python
+mysql	5.6.35	Open source relational database management system
+mysql++	3.2.1	C++ wrapper for MySQL's C API
+mysql-cluster	7.3.8	Shared-nothing clustering and auto-sharding for MySQL
+mysql-connector-c	6.1.6	MySQL database connector for C applications
+mysql-connector-c++	1.1.6	MySQL database connector for C++ applications
+mysql-connector-odbc	5.3.4	Standardized database driver
+mysql-proxy	0.8.5	Proxy for MySQL-Server
+mysql-sandbox	3.0.50	Install one or more MySQL servers
+mysql-search-replace	3.0.0	Database search and replace script in PHP
+mysqltuner	v1.4.0	Increase performance and stability of a MySQL installation
+mytop	1.9.1	Top-like query monitor for MySQL
+n	2.0.2	Node version management
+nacl	20110221	Network communication, encryption, decryption, signatures library
+nagios	4.0.6	Network monitoring and management system
+nagios-plugins	2.0.3	Plugins for the nagios network monitoring system
+nailgun	0.9.1	Command-line client, protocol and server for Java programs
+namazu	2.0.21	Full-text search engine
+namebench	1.3.1	DNS benchmark utility
+nanomsg	0.6	Socket library in C
+nanopb-generator	0.3.4	ANSI C library for encoding and decoding Protocol Buffer messages
+nant	0.92	.NET build tool
+narwhal	v0.3.2	General purpose JavaScript platform for building applications
+nasm	2.11.08	Netwide Assembler (NASM) is an 80x86 assembler
+natalie	0.3	Storyboard Code Generator (for Swift)
+naturaldocs	1.52	Extensible, multi-language documentation generator
+nave	v0.5.1	Virtual environments for Node.js
+nbimg	v1.2.1	Smartphone boot splash screen converter for Android and winCE
+ncdc	1.19.1	NCurses direct connect
+ncdu	1.11	NCurses Disk Usage
+ncftp	3.2.5	FTP client with an advanced user interface
+ncmpc	0.24	Curses Music Player Daemon (MPD) client
+ncmpcpp	0.6.7	Ncurses-based client for the Music Player Daemon
+ncp	1.2.4	File copy tool for LANs
+ncrack	0.4	Network authentication cracking tool
+ncurses	6.0	Text-based UI library
+ndiff	2.00	Virtual package provided by nmap
+ndpi	1.7	Deep Packet Inspection (DPI) library
+negfix8	8.3	Turn scanned negative images into positives
+neko	2.0.0-22c49a8	High-level, dynamically typed programming language
+neo4j	2.2.5	Robust (fully ACID) transactional property graph database
+neon	0.30.1	HTTP and WebDAV client library with a C interface
+nesc	1.3.4	Programming language for deeply networked systems
+net-snmp	5.7.3	Implements SNMP v1, v2c, and v3, using IPv4 and IPv6
+net6	1.3.14	C++ library for network-based applications
+netcat	0.7.1	Utility for managing network connections
+netcat6	1.0	Rewrite of netcat that supports IPv6, plus other improvements
+netpbm	10.68	Image manipulation
+netperf	2.7.0	Benchmarks performance of many different types of networking
+nettle	2.7.1	Low-level cryptographic library
+newlisp	10.6.2	Lisp-like, general-purpose scripting language
+newsbeuter	2.9	RSS/Atom feed reader for text terminals
+newt	0.52.18	Library for color text mode, widget based user interfaces
+nexus	2.11.4-01	Repository manager for binary software components
+nfcutils	0.3.2	Near Field Communication (NFC) tools under POSIX systems
+nfdump	1.6.13	Tools to collect and process netflow data on the command line
+nghttp2	1.3.4	HTTP/2 C Library
+nginx	1.8.0	HTTP(S) server and reverse proxy, and IMAP/POP3 proxy server
+ngircd	22.1	Next generation IRC daemon
+ngrep	1.45	network grep
+ngrok	1.7.1	Expose localhost to the internet and capture traffic for replay
+ngspice	26	Spice circuit simulator
+nickle	2.77	Desk calculator language
+nicovideo-dl	0.0.20120212	Command-line program to download videos from www.nicovideo.jp
+nifi	0.3.0	Easy to use, powerful, and reliable system to process and distribute data.
+nikto	2.1.5	Web server scanner
+nimrod	0.11.2	Statically typed, imperative programming language
+ninja	v1.6.0	Small build system for use with gyp or CMake
+ninja-ide	v2.3	Cross-platform Python IDE
+nkf	2.1.3	Network Kanji code conversion Filter (NKF)
+nload	0.7.4	Realtime console network usage monitor
+nmap	6.47	Port scanning utility for large networks
+node	v4.1.1	Platform built on the V8 JavaScript runtime to build network applications
+nodebrew	v0.8.1	Node.js version manager
+nodenv	v0.3.4	NodeJS version management
+nordugrid-arc	5.0.0	Grid computing middleware
+norm	1.5r6	NACK-Oriented Reliable Multicast
+normalize	0.7.7	Adjust volume of audio files to a standard level
+notmuch	0.20.2	Thread-based email index, search, and tagging
+noweb	2.11b	WEB-like literate-programming tool
+npth	1.2	New GNU portable threads library
+nq	v0.1	Unix command-line queue utility
+nrg2iso	0.4	Extract ISO9660 data from Nero nrg files
+nrpe	2.15	Nagios remote plugin executor
+nsd	4.1.3	Name server daemon
+nspr	4.10.9	Platform-neutral API for system-level and libc-like functions
+nsq	v0.3.6	Realtime distributed messaging platform
+nss	3.20	Libraries for security-enabled client and server applications
+ntl	9.3.0	C++ number theory library
+ntopng	2.0	Next generation version of the original ntop
+nu	v2.1.1	Object-oriented, Lisp-like programming language
+num-utils	0.5	Programs for dealing with numbers from the command-line
+nut	2.7.3	Network UPS Tools: Support for various power devices
+nutcracker	v0.4.0	Proxy for memcached and redis
+nuttcp	6.1.2	Network performance measurement tool
+nvi	1.81.6	44BSD re-implementation of vi
+nvm	v0.27.1	Manage multiple Node.js versions
+nyancat	1.4.4	Nyancat in your terminal, rendered through ANSI escape sequences.
+nylon	1.21	Proxy server
+nzbget	15.0	Binary newsgrabber for nzb files
+oath-toolkit	2.6.1	Tools for one-time password authentication systems
+oauth2_proxy	v2.0.1	Reverse proxy for authenticating users via OAuth 2 providers
+objc-codegenutils	v1.0	Three small tools to help work with XCode
+objc-run	1.4	Use Objective-C files for shell script-like tasks
+ocaml	4.02.3	General purpose programming language in the ML family
+ocamlsdl	0.9.1	OCaml interface with the SDL C library
+ocp	0.1.21	UNIX port of the Open Cubic Player
+ocrad	0.25	Optical character recognition (OCR) program
+ode	0.13.1	Library for simulating articulated rigid body dynamics
+odo	v0.2.2	Atomic odometer for the command-line
+odt2txt	v0.5	Convert OpenDocument files to plain text
+offline-imap	v6.5.7	Synchronizes emails between two repositories
+oggz	1.1.1	Command-line tool for manipulating Ogg files
+ogmtools	1.5	OGG media streams manipulation tools
+ohcount	3.0.0	Source code line counter
+ola	0.9.7	Open Lighting Architecture for lighting control information
+olsrd	0.9.0.2	Implementation of the optimized link state routing protocol
+omega	1.2.18	Packaged search engine for websites, built on top of Xapian
+omniorb	4.2.0	IOR and naming service utilities for omniORB
+ondir	0.2.3	Automatically execute scripts as you traverse directories
+one-ml	0.1	Reboot of ML, unifying its core and (now first-class) module layers
+onepass	0.2.1	Command-line interface for 1Password
+onetime	1.81	Encryption with one-time pads
+oniguruma	5.9.6	Regular expressions library
+ooniprobe	1.3.1	Network interference detection tool
+opam	1.2.2	Package manager for OCaml
+open-babel	2.3.2	Chemical toolbox
+open-cobol	1.1	COBOL compiler
+open-mesh	4.1	Generic data structure to represent and manipulate polygonal meshes
+open-mpi	1.10.0	High performance message passing library
+open-ocd	0.9.0	On-chip debugging, in-system programming and boundary-scan testing
+open-scene-graph	3.4.0	3D graphics toolkit
+open-sp	1.5.2	SGML parser
+open-vcdiff	0.8.4	Encoder/decoder for the VCDIFF (RFC3284) format
+open-zwave	1.2.919	Library for selected Z-Wave PC controllers
+openal-soft	1.16.0	Implementation of the OpenAL 3D audio API
+opencbm	0.4.99.97	Provides access to various floppy drive formats
+opencc	1.0.3	Simplified-traditional Chinese conversion tool
+opencolorio	v1.0.9	Color management solution geared towards motion picture production
+openconnect	7.06	Open client for Cisco AnyConnect VPN
+opencore-amr	0.1.3	Audio codecs extracted from Android open source project
+opendbx	1.4.6	Lightweight but extensible database access library in C
+opendetex	2.8.1	Tool to strip TeX or LaTeX commands from documents
+openexr	2.2.0	OpenEXR Graphics Tools (high dynamic-range image file format)
+openh264	v1.3.1	H.264 codec from Cisco
+openhmd	0.1.0	Free and open source API and drivers for immersive technology
+openjpeg	1.5.2	Library for JPEG-2000 image manipulation
+openlitespeed	1.3.10	High-performance, lightweight HTTP server
+openrtsp	2015.08.07	Command-line RTSP client
+opensaml	2.5.3	Library for Security Assertion Markup Language
+opensc	0.15.0	Tools and libraries for smart cards
+openslide	3.4.1	C library to read whole-slide images (a.k.a. virtual slides)
+openslp	2.0.0	Implementation of Service Location Protocol
+openssl	1.0.2j	SSL/TLS cryptography library
+openvdb	v3.0.0	Sparse volume processing toolkit
+openvpn	2.3.8	SSL VPN implementing OSI layer 2 or 3 secure network extension
+openwsman	v2.6.0	Implementation of WS-Management, enabling in-band resource management
+ophcrack	3.6.0	Microsoft Windows password cracker using rainbow tables
+optipng	0.7.5	PNG file optimizer
+opus	1.1	Audio codec
+opus-tools	0.1.9	Utilities to encode, inspect, and decode .opus files
+opusfile	0.6	API for decoding and seeking in .opus files
+orbit	2-2.14.19	CORBA 2.4-compliant object request broker (ORB)
+orc	0.4.23	Oil Runtime Compiler (ORC)
+orfeo	3.20.0	Library of image processing algorithms
+orientdb	2.1.0	Graph database
+orpie	1.5.2	RPN calculator for the terminal
+ortp	0.24.2	Real-time transport protocol (RTP, RFC3550) library
+oscats	0.6	Computerized adaptive testing system
+osh	20150115	Two ports of /bin/sh from V6 UNIX (circa 1975)
+osm-pbf	v1.3.3	Tools related to PBF (an alternative to XML format)
+osm2pgrouting	v2.0.0	Import OSM data into pgRouting database
+osm2pgsql	0.88.1	OpenStreetMap data to PostgreSQL converter
+osmosis	0.43	Command-line OpenStreetMap data processor
+osquery	1.5.3	SQL powered operating system instrumentation and analytics
+osslsigncode	1.7.1	Authenticode signing of PE(EXE/SYS/DLL/etc), CAB and MSI files
+ossp-uuid	1.6.2	ISO-C API and CLI for generating UUIDs
+osxfuse	2.7.6	FUSE for OS X: extend native file handling via 3rd-party file systems
+osxutils	v1.8.1	CLI access of Mac-specific information, settings, and metadata
+owfs	3.1p0	Monitor and control physical environment using Dallas/Maxim 1-wire system
+p0f	3.08b	Versatile passive OS fingerprinting, masquerade detection tool
+p11-kit	0.18.4	Library to load and enumerate PKCS# 11 modules
+p7zip	9.20.1	7-Zip (high compression file archiver) implementation
+pacapt	v2.0.2	Package manager in the style or Arch's pacman
+packer	v0.8.6	Tool for creating identical machine images for multiple platforms
+pacvim	v1.1.1	Learn vim commands via a game
+pakchois	0.4	PKCS #11 wrapper library
+pam_yubico	2.19	Yubico pluggable authentication module
+pandoc	1.15.0.6	Swiss-army knife of markup format conversion
+pandoc-citeproc	0.7.4	Library and executable for using citeproc with pandoc
+pango	1.38.0	Framework for layout and rendering of i18n text
+pangomm	2.36.0	C++ interface to Pango
+pangox-compat	0.0.2	Library for laying out and rendering of text
+paperkey	1.3	Extract just secret information out of OpenPGP secret keys
+paps	0.6.8	Pango to PostScript converter
+paq8px	v69	Data compression archivers
+par	1.52	Paragraph reflow for email
+par2	0.4	Parchive: Parity Archive Volume Set for data recovery
+parallel	20150822	GNU parallel shell command
+parrot	6.9.0	Open source virtual machine (for Perl6, et al.)
+partio	v1.1.0	Particle library for 3D graphics
+pass	1.6.5	Password manager
+passenger	5.0.20	Server for Ruby, Python, and Node.js apps via Apache/NGINX
+passpie	0.3.2	Manage login credentials from the terminal
+pastebinit	1.4.1	Send things to pastebin from the command-line
+patchutils	0.3.4	Small collection of programs that operate on patch files
+pax-construct	1.5	Tools to setup and develop OSGi projects quickly
+pax-runner	1.8.6	Tool to provision OSGi bundles
+pazpar2	1.11.3	Metasearching middleware webservice
+pbc	0.5.14	Pairing-based cryptography
+pbc-sig	0.0.8	Signatures library
+pbrt	2.0.342	Physically based rendering
+pbzip2	1.1.12	Parallel bzip2
+pcal	4.11.0	Generate Postscript calendars without X
+pcap_dnsproxy	v0.4.4	Powerful DNS proxy designed to anti DNS spoofing
+pce	0.2.2	PC emulator
+pcre	8.39	Perl compatible regular expressions library
+pcre++	0.9.5	C++ wrapper for the Perl Compatible Regular Expressions
+pcre2	10.30	Perl compatible regular expressions library with a new API
+pcsc-lite	1.8.14	Middleware to access a smart card using SCard API
+pdal	0.9.9	Point data abstraction library
+pdf-redact-tools	v0.1	Securely redacting and stripping metadata
+pdf-tools	v0.60	Emacs support library for PDF files
+pdf2htmlex	v0.13.6	PDF to HTML converter
+pdf2json	0.68	PDF to JSON and XML converter
+pdf2svg	v0.2.3	PDF converter to SVG
+pdfcrack	0.14	PDF files password cracker
+pdfgrep	1.3.2	Search PDFs for strings matching a regular expression
+pdflib-lite	7.0.5p3	Subset of the functionality of PDFlib 7
+pdftohtml	0.40a	PDF to HTML converter (based on xpdf)
+pdksh	5.2.14	Public domain version of the Korn shell
+pdns	3.4.6	Authoritative nameserver
+pdnsd	1.2.9a-par	Proxy DNS server with permanent caching
+pdnsrec	3.7.3	Non-authoritative/recursing DNS server
+pdsh	2.31	Efficient rsh-like utility, for using hosts in parallel
+peco	v0.3.4	Simplistic interactive filtering tool
+peervpn	0-041	Peer-to-peer VPN
+peg	0.1.15	Program to perform pattern matching on text
+peg-markdown	0.4.14	Markdown implementation based on a PEG grammar
+pegtl	1.1.0	Parsing Expression Grammar Template Library
+perceptualdiff	1.1.1	Perceptual image comparison tool
+percona-server	5.6.25-73.1	Drop-in MySQL replacement
+percona-toolkit	2.2.14	Percona Toolkit for MySQL
+perl	5.22.0	Highly capable, feature-rich programming language
+perl-build	1.12	Perl builder
+perlmagick	6.89	Objected-oriented Perl interface to ImageMagick
+pev	0.70	PE analysis toolkit
+pex	1.20140409	Package manager for PostgreSQL
+pg_top	3.7.0	Monitor PostgreSQL processes
+pgbadger	6.4	Log analyzer for PostgreSQL
+pgbouncer	1.5.5	Lightweight connection pooler for PostgreSQL
+pgcli	0.19.1	CLI for Postgres with auto-completion and syntax highlighting
+pgdbf	0.6.2	Converter of XBase/FoxPro tables to PostgreSQL
+pgformatter	v1.4	PostgreSQL syntax beautifier
+pgloader	v3.2.0	Data loading tool for PostgreSQL
+pgpdump	0.29	PGP packet visualizer
+pgpool-ii	3.4.2	PostgreSQL connection pool server
+pgrouting	v2.0.0	Provides geospatial routing for PostGIS/PostgreSQL database
+pgtap	0.94.0	Unit testing framework for PostgreSQL
+pgtune	0.9.3	Tuning wizard for postgresql.conf
+phantomjs	2.0.0	Headless WebKit scriptable with a JavaScript API
+phash	0.9.6	Perceptual hash library
+phoon	04A	Displays current or specified phase of the moon via ASCII art
+phoronix-test-suite	5.2.1	Automated testing framework
+physfs	2.0.3	Library to provide abstract access to various archives
+pianobar	2014.09.28	Command-line player for http://pandora.com
+pianod	173	Pandora client with multiple control interfaces
+picoc	2.1	C interpreter for scripting
+picocom	1.7	Minimal dump-terminal emulation program
+picolisp	3.1.6	Minimal Lisp with integrated database
+pidcat	2.0.0	Colored logcat script to show entries only for specified app
+pidgin	2.10.11	Multi-protocol chat client
+pidof	0.1.4	Display the PID number for a given process name
+pig	0.15.0	Platform for analyzing large data sets
+pigz	2.3.3	Parallel gzip
+pike	v7.8.866	Dynamic programming language
+pillar	v2.0.1	Manage migrations for Cassandra data stores
+pincaster	0.6	Nosql database with a HTTP/JSON interface
+pinentry	0.9.5	Passphrase entry dialog utilizing the Assuan protocol
+pinentry-mac	v0.9.4	Pinentry for GPG on Mac
+pipebench	0.40	Measure the speed of STDIN/STDOUT communication
+pipemeter	1.1.3	Shows speed of data moving from input to output
+pipes-sh	v1.1.0	Animated pipes terminal screensaver
+pit	0.1.0	Project manager from hell (integrates with Git)
+pius	v2.1.1	PGP individual UID signer
+pixman	0.32.6	Low-level library for pixel manipulation
+pixz	1.0.4	Parallel, indexed, xz compressor
+pjproject	2.3	C library for multimedia protocols such as SIP, SDP, RTP and more
+pk	1.0.2	Field extractor command-line utility
+pkcrack	1.2.2	Implementation of an algorithm for breaking the PkZip cipher
+pkcs11-helper	1.11	Library to simplify the interaction with PKCS#11
+pkg-config	0.29.1	Manage compile and link flags for libraries
+pkgdiff	1.6.3	Tool for analyzing changes in software packages (e.g. RPM, DEB, TAR.GZ)
+pktanon	1.4.0	Packet trace anonymization
+pla	1.2	Tool for building Gantt charts in PNG, EPS, PDF or SVG format
+plan9port	20140306	Many Plan 9 programs ported to UNIX-like operating systems
+planck	1.6	A command-line ClojureScript REPL for OS X.
+plantuml	8029	Draw UML diagrams
+platypus	4.9	Create OS X applications from {Perl,Ruby,sh,Python} scripts
+plenv	2.1.1	Perl binary manager
+plod	1.9	Keep an online journal of what you're working on
+plotutils	2.6	GNU tools based on libplot, a multi-format 2-D vector graphics library
+plowshare	v2.1.1	Download/upload tool for popular file sharing websites
+plplot	5.11.1	Cross-platform software package for creating scientific plots
+plustache	v0.3.0	C++ port of Mustache templating system
+plzip	1.4	Data compressor
+pmccabe	2.6	Calculate McCabe-style cyclomatic complexity for C/C++ code
+pmd	5.3.3	Source code analyzer for Java, JavaScript, and more
+pmdmini	20120115	Plays music in PC-88/98 PMD chiptune format
+pms	0.42	Practical Music Search, an ncurses-based MPD client
+png++	0.2.5	C++ wrapper for libpng library
+png2ico	2002-12-08	PNG to icon converter
+pngcheck	2.3.0	Print info and check PNG, JNG, and MNG files
+pngcrush	1.7.86	Optimizer for PNG files
+pngnq	1.1	Tool for optimizing PNG images
+pngpaste	0.2.1	Paste PNG into files
+pngquant	2.5.0	PNG image optimizing utility
+poco	1.6.1	POCO C++ Libraries
+podiff	1.1	Compare textual information in two PO files
+podofo	0.9.3	Library to work with the PDF file format
+points2grid	1.3.0	Generate digital elevation models using local griding
+polarssl	2.1.0	Cryptographic & SSL/TLS library
+polipo	1.1.1	Web caching proxy
+polygen	1.0.6-20040628	Generate random sentences according to a given grammar
+polyml	5.5.2	Standard ML implementation
+ponyc	0.1.7	Object-oriented, actor-model, capabilities-secure programming language
+ponysay	3.0.2	Cowsay but with ponies
+poppler	0.36.0	PDF rendering library (based on the xpdf-3.0 code base)
+popt	1.16	Library like getopt(3) with a number of enhancements
+portaudio	v19_20140130	Cross-platform library for audio I/O
+portmidi	217	Cross-platform library for real-time MIDI I/O
+poster	1.0.0	Create large posters out of PostScript pages
+postgis	2.1.7	Adds support for geographic objects to PostgreSQL
+postgres-xc	v1.0.3	PostgreSQL cluster based on shared-nothing architecture
+postgresql	9.4.4	Object-relational database system
+postmark	1.51	File system benchmark from NetApp
+potrace	1.12	Convert bitmaps to vector graphics
+pound	2.7	Reverse proxy, load balancer and HTTPS front-end for web servers
+povray	v3.7.0.0	Persistence Of Vision RAYtracer (POVRAY)
+pow	0.5.0	Zero-config Rack server for local apps on OS X
+powerman	2.3.20	Control (remotely and in parallel) switched power distribution units
+ppl	1.1	Parma Polyhedra Library: numerical abstractions for analysis, verification
+ppl011	0.11
+ppss	2.97	Shell script to execute commands in parallel
+pre-commit	v0.5.3	Framework for managing multi-language pre-commit hooks
+predictionio	0.9.2	Source machine learning server
+premake	4.3	Premake is a build script generator
+prettyping	v1.0.0	Wrapper to colorize and simplify ping's output
+primesieve	5.4.2	Optimized sieve of Eratosthenes implementation
+prips	0.9.9	Print the IP addresses in a given range
+privoxy	3.0.23	Advanced filtering web proxy
+probatron4j	0.7.4	Schematron validator (use with Java 1.5 or later)
+proctools	0.4pre1	pgrep, pkill, and pfind for OpenBSD and Darwin (OS X)
+procyon-decompiler	0.5.30	Modern decompiler for Java 5 and beyond.
+profanity	0.4.6	Console based XMPP client
+proftpd	1.3.4d	Highly configurable GPL-licensed FTP server software
+progress	v0.9	Progress: Coreutils Progress Viewer
+proguard	5.2.1	Java class file shrinker, optimizer, and obfuscator
+proj	4.9.2	PROJ.4, a Cartographic Projections Library
+proof-general	4.2	Emacs-based generic interface for theorem provers
+protobuf	2.6.1	Protocol buffers (Google's data interchange format)
+protobuf-c	1.1.1	Protocol buffers library
+protobuf-swift	2.2	Implementation of Protocol Buffers in Swift.
+proxychains-ng	4.10	Hook preloader
+proxytunnel	1.9.0	Create TCP tunnels through HTTPS proxies
+ps2eps	1.68	Convert PostScript to EPS files
+psftools	1.0.7	Tools for fixed-width bitmap fonts
+psgrep	1.0.6	Shortcut for the 'ps aux | grep' idiom
+psqlodbc	09.03.0400	Official PostgreSQL ODBC driver
+pssh	2.3.1	Parallel versions of OpenSSH and related tools
+pstoedit	3.70	Convert PostScript and PDF files to editable vector graphics
+pstree	2.39	Show ps output as a tree
+psutils	p17	Collection of PostScript document handling utilities
+ptex	v2.0.42	Texture mapping system
+pth	2.0.7	GNU Portable THreads
+ptunnel	0.72	Tunnel over ICMP
+puddletag	v1.0.5	Powerful, simple, audio tag editor.
+puf	1.0.0	Parallel URL fetcher
+pugixml	1.6	Pugixml is a light-weight C++ XML processing library
+pulledpork	0.7.0	Snort rule management
+pulseaudio	6.0	Sound system for POSIX OSes
+pup	v0.3.9	Parse HTML at the command-line
+pure-ftpd	1.0.41	Secure and efficient FTP server
+purescript	v0.7.0	Strongly typed programming language that compiles to JavaScript
+pushpin	1.5.0	Reverse proxy for realtime web services
+putmail	1.4	MTA or SMTP client designed to replace the sendmail command
+putmail-queue	0.2	Putmail queue package
+putty	0.65	Implementation of Telnet and SSH
+pv	1.6.0	Monitor data's progress through a pipe
+pwgen	2.07	Password generator
+pwnat	0.3	Proxy server that works behind a NAT
+pwntools	2.2.0	CTF framework used by Gallopsled in every CTF
+pwsafe	0.2.0	Generate passwords and manage encrypted password databases
+pxz	4.999.9	Compression utility
+py2cairo	1.10.0	Python 2 bindings for the Cairo graphics library
+py3cairo	1.10.0	Python 3 bindings for the Cairo graphics library
+pyenv	v20150913	Python version management
+pyenv-ccache	v0.0.2	Make Python build faster, using the leverage of `ccache`
+pyenv-pip-migrate	v20130527	Migrate pip packages from one Python version to another
+pyenv-virtualenv	v20150719	Pyenv plugin to manage virtualenv
+pyenv-virtualenvwrapper	v20140609	Alternative to pyenv for managing virtualenvs
+pyenv-which-ext	v0.0.2	Integrate pyenv and system commands
+pyexiv2	0.3.2	Python binding to exiv2 for manipulation of image metadata
+pygobject	2.28.6	GLib/GObject/GIO Python bindings for Python 2
+pygobject3	3.16.2	GLib/GObject/GIO Python bindings for Python 3
+pygtk	2.24.0	GTK+ bindings for Python
+pygtkglext	1.1.0	Python bindings to OpenGL GTK+ extension
+pygtksourceview	2.10.1	Python wrapper for the GtkSourceView widget library
+pylucene	4.10.1-1	Python extension for accessing Java Lucene
+pypy	2.6.1	Implementation of Python 2 in Python
+pypy3	2.4.0	Implementation of Python 3 in Python
+pyqt	4.11.3	Python bindings for Qt
+pyqt5	5.5	Python bindings for v5 of Qt
+pyqwt	5.2.0	Python bindings for Qwt, widgets for science and engineering
+pyside	qt4.8+1.2.2	Python bindings for Qt
+pyside-tools	0.2.15	PySide development tools (pyuic and pyrcc)
+python	2.7.15	Interpreted, interactive, object-oriented programming language
+python3	3.7.0	Interpreted, interactive, object-oriented programming language
+q	1.5.0	Treat text as a database
+qbs	1.4.2	Qt Build Suite
+qca	2.1.0	Qt Cryptographic Architecture (QCA)
+qcachegrind	0.7.4	Visualize data generated by Cachegrind and Calltree
+qd	2.3.15	C++/Fortran-90 double-double and quad-double package
+qdbm	1.8.78	QDBM is a library of routines for managing a database
+qemu	2.2.1	x86 and PowerPC Emulator
+qjson	0.8.1	Map JSON to QVariant objects
+qpdf	5.1.3	Tools for and transforming and inspecting PDF files
+qprint	1.1	Encoder and decoder for quoted-printable encoding
+qrencode	3.4.4	QR Code generation
+qscintilla2	2.8.4	Port to Qt of the Scintilla editing component
+qstat	2.11	Query Quake servers from the command-line
+qt	4.8.7	Cross-platform application and UI framework
+qt5	5.5.0	Version 5 of the Qt framework
+qtfaststart	11.2	Utility for Quicktime files
+qtplay	1.3.1	Play audio CDs, MP3s, and other music files
+quantlib	1.6.1	Library for quantitative finance
+quassel	0.11.0	Distributed IRC client (Qt-based)
+quazip	0.7.1	C++ wrapper over Gilles Vollant's ZIP/UNZIP package
+queequeg	0.91	English grammar checker for non-native speakers
+quex	0.65.4	Generate lexical analyzers
+quilt	0.64	Work with series of patches
+quotatool	1.6.2	Edit disk quotas from the command-line
+quvi	0.4.2	Parse video download URLs
+qwt	6.1.2	Qt Widgets for Technical Applications (v5.1)
+qwtpolar	1.1.0	Library for displaying values on a polar coordinate system
+qxmpp	v0.8.0	Cross-platform C++ XMPP client and server library
+r3	1.3.3	High-performance URL router library
+rabbitmq	3.5.4	Messaging broker
+rabbitmq-c	v0.7.0	RabbitMQ C client
+racket	6.2.1	Modern programming language in the Lisp/Scheme family
+radamsa	0.3	Test case generator for robustness testing (a.k.a. a fuzzer)
+radare2	0.9.9	Reverse engineering framework
+ragel	6.9	State machine compiler
+rainbarf	v1.2	CPU/RAM/battery stats chart bar for tmux (and GNU screen)
+rakudo-star	2015.07	Perl 6 compiler
+rancher-compose	v0.4.0	Docker compose compatible client to deploy to Rancher
+rancid	3.2	Really Awesome New Cisco confIg Differ
+randomize-lines	0.2.7	Reads and randomize lines from a file (or STDIN)
+ranger	1.7.1	File browser
+rapidjson	v1.0.2	JSON parser/generator for C++ with SAX and DOM style APIs
+raptor	2-2.0.15	RDF parser toolkit
+rarian	0.8.1	Documentation metadata library
+rasqal	0.9.33	RDF query library
+rats	2.4	Rough auditing tool for security
+rbenv	v0.4.0	Ruby environment tool
+rbenv-aliases	v1.0.1	Make aliases for Ruby versions
+rbenv-binstubs	v1.4	Make rbenv aware of bundler binstubs
+rbenv-bundle-exec	v1.0.0	Integrate rbenv and bundler
+rbenv-bundler	0.99	Makes shims aware of bundle install paths
+rbenv-bundler-ruby-version	v0.2	Pick a ruby version from bundler's Gemfile
+rbenv-communal-gems	v1.0.1	Share gems across multiple rbenv Ruby installs
+rbenv-ctags	v1.0.1	Automatically generate ctags for rbenv Ruby stdlibs
+rbenv-default-gems	v1.0.0	Auto-installs gems for Ruby installs
+rbenv-gem-rehash	v1.0.0	Automatically runs `rbenv rehash`
+rbenv-gemset	v0.5.8	Adds basic gemset support to rbenv
+rbenv-readline	v1.0.0	Automatically link Ruby installs to readline
+rbenv-use	v1.0.0	Switch between rubies without reference to patch levels
+rbenv-vars	v1.2.0	Safely sets global and per-project environment variables
+rbenv-whatis	v1.0.0	Resolves abbreviations and aliases to Ruby versions
+rc	1.7.2	Implementation of the AT&T Plan 9 shell
+rcs	5.9.4	GNU revision control system
+rcssserver	15.2.2	Server for RoboCup Soccer Simulator
+rdate	1.5	Set the system's date from a remote host
+rdfind	1.3.4	Find duplicate files based on content (NOT file names)
+rdiff-backup	1.2.8	Backs up one directory to another--also works over networks
+rds-command-line-tools	1.19.004	Amazon RDS command-line toolkit
+rdup	1.1.14	Utility to create a file list suitable for making backups
+re2	2015-08-01	Alternative to backtracking PCRE-style regular expression engines
+re2c	2 : 	Generate C-based recognizers from regular expressions
+readline	7.0	Library for command-line editing
+readosm	1.0.0	Extract valid data from an Open Street Map input file
+reattach-to-user-namespace	v2.4	Reattach process (e.g., tmux) to background
+reaver	1.4	Implements brute force attack to recover WPA/WPA2 passkeys
+rebar	2.6.0	Erlang build tool
+reclass	1.4.1	Recursive external node classification
+recode	v3.7	Convert character set (charsets)
+recoverjpeg	2.3	Tool to recover JPEG images from a file system image
+recutils	1.7	Tools to work with human-editable, plain text data files
+redir	2.2.1-9	Port redirector
+redis	3.0.4	Persistent key-value database, with built-in net interface
+redis-leveldb	v1.4	Redis-protocol compatible frontend to leveldb
+redland	1.0.17	RDF Library
+redo	0.11	Implements djb's redo: an alternative to make(1)
+redpen	1.3.0	Proofreading tool to help writers of technical documentation
+redshift	1.10	Adjusts color temperature of your screen according to your surroundings
+redsocks	0.4	Transparent socks redirector
+redstore	0.5.4	Lightweight RDF triplestore powered by Redland
+regex-opt	1.2.3	Perl-compatible regular expression optimizer
+regina-rexx	3.9.1	Regina REXX interpreter
+regldg	1.0.0	Regular expression grammar language dictionary generator
+rem	20150618	Command-line tool to access OSX Reminders.app database
+remake	4.1	GNU Make with improved error handling, tracing, and a debugger
+remarshal	v0.3.0	Convert between TOML, YAML and JSON
+remctl	3.9	Client/server application for remote execution of tasks
+remind	03.01.15	Sophisticated calendar and alarm
+ren	1.0	Rename multiple files in a directory
+rename	v1.600	Perl-powered file rename script with many helpful built-ins
+renameutils	0.12.0	Tools for file renaming
+reop	2.1.0	Encrypted keypair management
+repl	v1.0.0	Wrap non-interactive programs with a REPL
+repo	1.12	Repository tool for Android development
+reposurgeon	3.29	Edit version-control repository history
+rest-shell	1.2.1	Shell to work with Spring HATEOAS-compliant REST resources
+restund	0.4.11	Modular STUN/TURN server
+resty	2.2	Command-line REST client that can be used in pipelines
+rethinkdb	2.1.4	The open-source database for the realtime web
+rexster	2.6.0	Graph server exposing Blueprints graph via REST
+rexster-console	2.6.0	Graph server exposing Blueprints graph via REST
+rfcdiff	1.42	Compare RFC Internet Draft versions
+rfcmarkup	1.108	Add HTML markup and links to internet-drafts and RFCs
+rfcstrip	1.03	Strips headers and footers from RFCs and Internet-Drafts
+rgbds	0.2.3	Rednex GameBoy development system
+rgxg	0.1	C library and command-line tool to generate (extended) regular expressions
+rhash	1.3.3	Utility for computing and verifying hash sums of files
+rhino	1.7.6	JavaScript engine
+riak	2.1.1	Distributed database
+riemann	0.2.10	Event stream processor
+riemann-client	1.3.0	C client library for the Riemann monitoring system
+rig	1.11	Provides fake name and address data
+rinetd	0.62	Internet TCP redirection server
+ringojs	0.11	CommonJS-based JavaScript runtime
+ripmime	1.4.0.10	Extract attachments out of MIME encoded email packages
+rkflashtool	5.1	Tools for flashing Rockchip devices
+rkhunter	1.4.2	Rootkit hunter
+rlog	1.4	Flexible message logging facility for C++
+rlwrap	0.42	Readline wrapper: adds readline support to tools that lack it
+rmate	v1.5.7	Edit files from an SSH session in TextMate
+rmcast	2.0.0	IP Multicast library
+rmtrash	0.3.3	Move files to OS X's Trash
+rnv	1.7.11	Implementation of Relax NG Compact Syntax validator
+robodoc	4.99.43	Source code documentation tool
+rock	v0.9.10	ooc compiler written in ooc
+rocksdb	3.13	Persistent key-value store for fast storage environments
+rolldice	v1.14	Rolls an amount of virtual dice
+roundup	v0.0.5	Issue-tracking system
+rp	1.0	Tool to find ROP sequences in PE/Elf/Mach-O x86/x64 binaries
+rpg	0.3.0	Ruby package management for UNIX
+rpl	1.4.1	Text replacement utility
+rpm	5.4.15	RPM package manager
+rpm2cpio	1.3	Tool to convert RPM package to CPIO archive
+rrdtool	1.5.4	Round Robin Database
+rsense	0.3	Ruby development tools for Emacs and Vim
+rsnapshot	1.4.1	File system snapshot utility (based on rsync)
+rssh	2.3.4	Restricted shell for use with OpenSSH
+rsstail	2.0	Monitors an RSS feed and emits new entries when detected
+rsyslog	7.4.5	Enhanced, multi-threaded syslogd
+rt-audio	4.1.1	API for realtime audio input/output
+rtags	v2.0	ctags-like source code cross-referencer with a clang frontend
+rtf2latex2e	2.2.2	RTF-to-LaTeX translation
+rtmidi	2.1.0	C++ classes that provide a common API for realtime MIDI input/output
+rtmpdump	2.4+20150115	Tool for downloading RTMP streaming media
+rtorrent	0.9.6	Console-based BitTorrent client
+rtpbreak	1.3	Detect, reconstruct and analyze any RTP session
+rubber	1.2	Automated building of LaTeX documents
+ruby	2.4.1	Powerful, clean, object-oriented scripting language
+ruby-build	v20150928	Install various Ruby versions and implementations
+ruby-install	v0.5.0	Install Ruby, JRuby, Rubinius, or MagLev
+runcocoa	20120108	Tools to run Cocoa/Objective-C and C code from the command-line
+runit	2.1.1	Collection of tools for managing UNIX services
+rush	1.7	GNU's Restricted User SHell
+rust	1.3.0	Safe, concurrent, practical language
+ry	v0.5.2	Ruby virtual env tool
+rzip	2.1	File compression tool (like gzip or bzip2)
+s-lang	2.3.0	Library for creating multi-platform software
+s3cmd	1.5.2	Command-line tool for the Amazon S3 service
+s3sync	1.2.6	Interfaces to Amazon S3
+safe-rm	0.12	Wraps rm to prevent dangerous deletion of files
+saltstack	2015.8.0	Dynamic infrastructure communication bus
+sam2p	0.49.2	Convert raster images to EPS, PDF, and other formats
+samba	3.6.25	SMB/CIFS file, print, and login server for UNIX
+sane-backends	1.0.24	Backends for scanner access
+sary	1.2.0	Suffix array library
+sassc	3.2.4	Wrapper around libsass that helps to create command-line apps
+savana	1.2	Transactional workspaces for SVN
+saxon	9.6.0.7	XSLT and XQuery processor
+saxon-b	9.1.0.8	XSLT and XQuery processor
+sbcl	1.2.15	Steel Bank Common Lisp system
+sblim-sfcc	2.2.8	Project to enhance the manageability of GNU/Linux system
+sbt	0.13.9	Build tool for Scala projects
+sbtenv	0.0.9	Command-line tool for managing sbt environments
+sbuild	0.7.7	Scala-based build system
+sc68	2.2.1	Play music originally designed for Atari ST and Amiga computers
+scala	2.11.7	Scala programming language
+scalaenv	0.0.8	Command-line tool to manage Scala environments
+scalariform	0.1.6	Scala source code formatter
+scalastyle	0.7.0	Run scalastyle from the command-line
+scale2x	2.4	Real-time graphics effect
+scamper	20141211a	Advanced traceroute and network measurement utility
+scheme48	1.9.2	Scheme byte-code interpreter
+schroedinger	1.0.11	High-speed implementation of the Dirac codec
+scm-manager	1.46	Manage Git, Mercurial, and Subversion repos over HTTP
+scmpuff	v0.1.1	Adds numbered shortcuts for common git commands
+scons	2.3.6	Substitute for classic 'make' tool with autoconf/automake functionality
+screenbrightness	1.2	Change OS X display brightness from the command-line
+screenfetch	v3.7.0	Generate ASCII art with terminal, shell, and OS info
+screenresolution	v1.6	Get, set, and list display resolution
+scriptcs	v0.15.0	Tools to write and execute C#
+scrollkeeper	0.3.14	Transitional package for scrollkeeper
+scrub	2.6.1	Writes patterns on magnetic media to thwart data recovery
+scrypt	1.2.0	Encrypt and decrypt files using memory-hard password function
+scsh	0.6.7	Scheme shell
+scw	v1.5.0	Manage BareMetal Servers from Command Line (as easily as with Docker)
+sdcc	3.5.0	ANSI C compiler for Intel 8051, Maxim 80DS390, and Zilog Z80
+sdcv	0.5-2013-09-10	StarDict Console Version
+sdf	2.6.3	Syntax Definition Formalism: high-level description of grammars
+sdhash	3.1	Tool for correlating binary blobs of data
+sdl	1.2.15	Low-level access to audio, keyboard, mouse, joystick and graphics
+sdl2	2.0.3	Low-level access to audio, keyboard, mouse, joystick, and graphics
+sdl2_gfx	1.0.0	SDL2 graphics drawing primitives and other support functions
+sdl2_image	2.0.0	Library for loading images as SDL surfaces and textures
+sdl2_mixer	2.0.0	Sample multi-channel audio mixer library
+sdl2_net	2.0.0	Small sample cross-platform networking library
+sdl2_ttf	2.0.12	Library for using TrueType fonts in SDL applications
+sdl_gfx	2.0.24	Graphics drawing primitives and other support functions
+sdl_image	1.2.12	Image file loading library
+sdl_mixer	1.2.12	Sample multi-channel audio mixer library
+sdl_net	1.2.8	Sample cross-platform networking library
+sdl_rtf	0.1.0	Sample library to display Rich Text Format (RTF) documents
+sdl_sound	1.0.3	Library to decode several popular sound file formats
+sdl_ttf	2.0.11	Library for using TrueType fonts in SDL applications
+sec	2.7.6	Event correlation tool for event processing of various kinds
+sedna	3.5.161	XML database
+seexpr	1.0.1	Embeddable expression evaluation engine
+selecta	v0.0.6	Fuzzy text selector for files and anything else you need to select
+selenium-server-standalone	2.47.1	Browser automation for testing purposes
+sendemail	v1.56	Email program for sending SMTP mail
+ser2net	2.9.1	Allow network connections to serial ports
+serd	0.20.0	C library for RDF syntax
+serialosc	1.2	Opensound control server for monome devices
+sersniff	0.0.5	Program to tunnel/sniff between 2 serial ports
+serveit	v0.0.1	synchronous server and rebuilder of static content
+setweblocthumb	v1.0.0	Assigns custom icons to webloc files
+sf-pwgen	1.3	Generate passwords using SecurityFoundation framework
+sfcgal	v1.0.5	C++ wrapper library around CGAL
+sfk	1.7.5	Command Line Tools Collection
+sflowtool	3.35	Utilities and scripts for analyzing sFlow data
+sfml	2.3	Multi-media library with bindings for multiple languages
+sgrep	1.94a	Search SGML, XML, and HTML
+sha2	1.0.1	Implementation of SHA-256, SHA-384, and SHA-512 hash algorithms
+shadowsocks-libev	v2.4.0	Libev port of shadowsocks
+shakespeare	1.2.1	Write programs in Shakespearean English
+shapelib	1.3.0	Library for reading and writing ArcView Shapefiles
+shared-mime-info	1.5	Database of common MIME types
+shell_cmds	170
+shellcheck	v0.4.1	Static analysis and lint tool, for (ba)sh scripts
+shellinabox	2.14	Export command-line tools to web based terminal emulator
+shiboken	1.2.2	GeneratorRunner plugin that outputs C++ code for CPython extensions
+shivavg	0.2.1	OpenGL based ANSI C implementation of the OpenVG standard
+shmcat	1.7	Tool that dumps shared memory segments (System V and POSIX)
+shmux	1.0.2	Execute the same command on many hosts in parallel
+shntool	3.0.10	Multi-purpose tool for manipulating and analyzing WAV files
+shocco	1.0	Literate documentation tool for shell scripts (a la Docco)
+shorten	3.6.1	Waveform compression
+shpotify	1.0.0	Command-line interface for Spotify on a Mac
+shrewsoft-vpn-client	2.2.1	Linux/BSD version of Shrew Soft VPN client
+shtool	2.0.8	GNU's portable shell tool
+shunit2	2.1.6	xUnit unit testing framework for Bourne-based shell scripts
+sic	1.2	Minimal multiplexing IRC client
+sickbeard	507	PVR application to search and manage TV shows
+siege	3.1.0	HTTP regression testing and benchmarking utility
+signify-osx	1.2	Cryptographically sign and verify files
+signing-party	2.1	Various OpenPGP related tools
+silc-client	1.1.11	SILC conferencing client
+sile	0.9.2	Modern typesetting system inspired by TeX
+silk	3.10.2	Collection of traffic analysis tools
+simgrid	3.11.1	Studies behavior of large-scale distributed systems
+simh	3.9-0	Portable, multi-system simulator
+simple-amqp-client	v2.4.0	C++ interface to rabbitmq-c
+simple-tiles	v0.6.0	Image generation library for spatial data
+since	1.1	Stateful tail: show changes to files since last check
+sip	4.16.9	Tool to create Python bindings for C and C++ libraries
+sipcalc	1.1.6	Advanced console-based IP subnet calculator
+sipp	v3.4.1	Traffic generator for the SIP protocol
+sipsak	0.9.6	SIP Swiss army knife
+sisc-scheme	1.16.6	Extensive Java based Scheme interpreter
+sispmctl	3.1	Control Gembird SIS-PM programmable power outlet strips
+sjk	0.3.6	Swiss Java Knife
+skinny	1.3.20	Full-stack web app framework built on Scalatra
+skipfish	2.10	Web application security scanner
+skktools	1.3.3	SKK dictionary maintenance tools
+skytools	3.2	Database management tools from Skype to PostgreSQL
+sl	5.02	Prints a steam locomotive if you type sl instead of ls
+sleepwatcher	2.2	Monitors sleep, wakeup, and idleness of a Mac
+sleuthkit	4.1.3	Forensic toolkit
+slimerjs	0.9.6	Scriptable browser for Web developers
+sloccount	2.26	Count lines of code in many languages
+slony	1-2.2.4	Master to multiple slaves replication system for PostgreSQL
+slowhttptest	1.6	Simulates application layer denial of service attacks
+slrn	1.0.2	Powerful console-based newsreader
+slurm	0.4.2	Yet another network load monitor
+smake	1.2.5	Portable make program with automake features
+smali	2.0.6	Assembler/disassembler for Android's Java VM implementation
+smartmontools	6.5	SMART hard drive monitoring
+smartypants	1.5.1	Typography prettifier
+smlnj	110.78	Standard ML of New Jersey
+smpeg	0_4_5	SDL MPEG Player Library
+smpeg2	2_0_0	SDL MPEG Player Library
+snag	v1.0.0	Automatic build tool for all your needs
+snap7	1.4.0	Ethernet communication suite that works natively with Siemens S7 PLCs
+snappy	1.1.3	Compression/decompression library aiming for high speed
+snappystream	0.2.1	C++ snappy stream realization (compatible with snappy)
+snapraid	8.1	Backup program for disk arrays
+sngrep	v0.2.2	Command-line tool for displaying SIP calls message flows
+snobol4	1.5	SNOBOL4 programming language
+snort	2.9.7.3	Flexible Network Intrusion Detection System
+snow	20130616	Whitespace steganography: coded messages using whitespace
+snownews	1.5.12	Text mode RSS newsreader
+sntop	1.4.3	Curses-based utility that polls hosts to determine connectivity
+snzip	1.0.2	Compression/decompression tool based on snappy
+socat	1.7.3.0	netcat on steroids
+soccerwindow2	5.1.0	Tools for RoboCup Soccer Simulator
+soci	3.2.2	Database access library for C++
+sofia-sip	1.12.11	SIP User-Agent library
+softhsm	2.0.0	Cryptographic store accessible through a PKCS#11 interface
+solid	3.5.6	Collision detection library for geometric objects in 3D space
+solr	5.3.0	Enterprise search platform from the Apache Lucene project
+somagic	1.1	Linux capture program for the Somagic variants of EasyCAP
+somagic-tools	1.1	Tools to extract firmware from EasyCAP
+sonar	5.1.2	Manage code quality
+sonar-runner	2.4	Launcher to analyze a project with SonarQube
+sord	0.12.2	C library for storing RDF data in memory
+sound-touch	1.9.1	Audio processing library
+source-highlight	3.1.8	Source-code syntax highlighter
+sourcekitten	0.5.0	Framework and command-line tool for interacting with SourceKit
+sox	14.4.2	SOund eXchange: universal sound sample translator
+spark	v1.0.1	Sparklines for the shell
+sparkey	0.2.0	Constant key-value store, best for frequent read/infrequent write uses
+sparse	0.5.0	Static C code analysis tool
+spatialindex	1.8.5	General framework for developing spatial indices
+spatialite-gui	1.7.1	GUI tool supporting SpatiaLite
+spatialite-tools	4.3.0	CLI tools supporting SpatiaLite
+spawn-fcgi	1.6.4	Spawn fast-CGI processes
+spdylay	v1.3.2	Experimental implementation of SPDY protocol versions 2, 3, and 3.1
+speech-tools	2.4	C++ general speech software library from the University of Edinburgh
+speedtest_cli	v0.3.2	Command-line interface for http://speedtest.net bandwidth tests
+speex	1.2	Audio codec designed for speech
+sphinx	2.2.9	Sphinx is a full-text search engine
+spidermonkey	1.8.5	JavaScript-C Engine
+spim	9.1.13	MIPS32 simulator
+spin	6.4.2	Spin model checker
+spiped	1.5.0	Secure pipe daemon
+splint	3.1.2	Secure Programming Lint
+spoof-mac	2.0.5	Spoof your MAC address in OS X
+spring-loaded	1.2.3	Java agent to enable class reloading in a running JVM
+spring-roo	1.3.1	Rapid application development tool for Java developers
+sproxy	1.02	HTTP proxy server collecting URLs in a 'siege-friendly' manner
+sqlcipher	v3.3.0	SQLite extension providing 256-bit AES encryption
+sqlite	3.15.0	Command-line interface for SQLite
+sqlite-analyzer	3.8.8.3	Analyze how space is allocated inside an SQLite file
+sqlitebrowser	v3.7.0	Visual tool to create, design, and edit SQLite databases
+sqliteman	1.2.2	GUI tool for Sqlite3
+sqlmap	0.9	Penetration testing for SQL injection and database servers
+sqoop	1.4.6	Transfer bulk data between Hadoop and structured datastores
+sqsh	2.5.16.1	Sybase Shell
+sqtop	v2015-02-08	Display information about active connections for a Squid proxy
+squashfs	4.3	Compressed read-only file system for Linux
+squid	3.5.7	Advanced proxy caching server for HTTP, HTTPS, FTP, and Gopher
+squirrel	3.0.7	High level, imperative, object-oriented programming language
+sratom	0.4.6	Library for serializing LV2 atoms to/from RDF
+src	0.19	Simple revision control: RCS reloaded with a modern UI
+srclib	v0.0.42	Polyglot code analysis library, build for hackability
+srecord	1.64	Tools for manipulating EPROM load files
+srmio	0.1.1	C library to access the PowerControl of a SRM bike power meter
+srtp	v1.5.2	Implementation of the Secure Real-time Transport Protocol (SRTP)
+ssdb	1.8.2	NoSQL database supporting many data structures: Redis alternative
+ssdeep	2.13	Recursive piecewise hashing tool
+ssed	3.62	Super sed stream editor
+ssh-copy-id	6.8p1	Add a public key to a remote machine's authorized_keys file
+sshguard	1.6.1	Protect from brute force attacks against SSH
+sshrc	0.5	Bring your .bashrc, .vimrc, etc. with you when you SSH
+sshtrix	0.0.2	SSH login cracker
+sshuttle	0.71	Proxy server that works as a poor man's VPN
+ssldump	0.9b3	SSLv3/TLS network protocol analyzer
+sslh	v1.17	Forward connections based on first data packet sent by client
+sslmate	1.5.0	Buy SSL certs from the command-line
+sslyze	0.12.0	SSL scanner
+ssreflect	1.5	Virtual package provided by libssreflect-coq
+ssss	0.5	Shamir's secret sharing scheme implementation
+sstp-client	1.0.9	SSTP (Microsofts Remote Access Solution for PPP over SSL) client
+st	v1.1.2	Statistics from the command-line
+stanford-parser	2015-04-20	Statistical NLP parser
+star	1.5.3	Standard tap archiver
+stash-cli	4.3.0	Command-line interface clients for Atlassian products
+stdman	v0.2	Formatted C++11/14 stdlib man pages from cppreference.com
+stgit	0.17.1	Push/pop utility built on top of Git
+stk	4.5.0	Sound Synthesis Toolkit
+stklos	1.10	Scheme system compliant with the features defined in R5RS
+stlink	1.1.0	stm32 discovery line Linux programmer
+stlviewer	0.1	View stl files
+stoken	0.90	Tokencode generator compatible with RSA SecurID 128-bit (AES)
+stone	2.3e	TCP/IP packet repeater in the application layer
+storm	0.9.5	Distributed realtime computation system to process data streams
+stormssh	0.6.5	Command-line tool to manage your ssh connections
+stow	2.2.0	Organize software neatly under a single directory tree (e.g. /usr/local)
+streamripper	1.64.6	Separate tracks via Shoutcasts title-streaming
+stress	1.0.4	Tool to impose load on and stress test a computer system
+strongswan	5.3.3	VPN based on IPsec
+stunnel	5.23	SSL tunneling program
+stuntman	1.2.7	Implementation of the STUN protocol
+style-check	0.14	Parses latex-formatted text in search of forbidden phrases
+sub2srt	0.5.5	Convert subtitles from .sub to subviewer .srt format
+subliminal	1.0.1	Library to search and download subtitles
+submarine	0.1.4	Search and download subtitles
+subnetcalc	2.4.2	IPv4/IPv6 subnet calculator
+subversion	1.8.13	Version control system designed to be a better CVS
+suomi-malaga-voikko	1.18	Linguistic software and data for Finnish
+supersonic	0.9.4	C++ library providing a column oriented query engine
+surfraw	2.2.9	Shell Users' Revolutionary Front Rage Against the Web
+suricata	2.0.8	Network IDS, IPS, and security monitoring engine
+svdlibc	1.4	C library to perform singular value decomposition
+svg2pdf	0.1.3	Renders SVG images to a PDF file (using Cairo)
+svg2png	0.1.3	SVG to PNG converter
+svtplay-dl	0.10.2015.08.24	Download videos from http://svtplay.se
+swaks	20130209.0	SMTP command-line test tool
+swatchbooker	0.7.3	Reads color swatches from various file formats
+swfmill	0.3.3	xml2swf and swf2xml processor
+swftools	0.9.2	SWF manipulation and generation tools
+swiftgen	0.4.4	Collection of Swift tools to generate Swift code
+swiftlint	0.2.0	Experimental tool to enforce Swift style and conventions
+swig	3.0.7	Generate scripting interfaces to C/C++ code
+swish-e	2.4.7	System for indexing collections of web pages
+switchaudio-osx	1.0.0	Change OS X audio source from the command-line
+sword	1.7.4	Cross-platform tools to write Bible software
+syck	0.70	Extension for reading and writing YAML
+sync_gateway	1.0.4	Make Couchbase Server a replication endpoint for Couchbase Lite
+syncthing	v0.11.25	Open source continuous file synchronization application
+syncthing-inotify	v0.6.5	File watcher intended for use with Syncthing
+synfig	1.0	Command-line renderer
+synfigstudio	1.0	Vector-based 2D animation package
+synscan	5.02	Asynchronous half-open TCP portscanner
+syntaxerl	0.8.0	Syntax checker for Erlang code and config files
+sysbench	0.4.12	System performance benchmark tool
+sysdig	0.1.102	System-level exploration and troubleshooting tool
+szip	2.1	Implementation of extended-Rice lossless compression algorithm
+szl	1.0	Compiler and runtime for the Sawzall language
+t1lib	5.1.2	C library to generate/rasterize bitmaps from Type 1 fonts
+t1utils	1.39	Command-line tools for dealing with Type 1 fonts
+ta-lib	0.4.0	Tools for market analysis
+tachyon	0.6.4	Distributed storage system to enable data sharing across cluster frameworks
+tag	v0.8.1	Manipulate and query tags on Mavericks files
+taglib	v1.9.1	Audio metadata library
+takt	0.309	text-based music programming language
+taktuk	3.7.5	Deploy commands to (a potentially large set of) remote nodes
+tal	1.9	Align line endings if they match
+talk-filters	2.3.8	Convert English text to stereotyped or humorous dialects
+talloc	2.1.2	Hierarchical, reference-counted memory pool with destructors
+tarsnap	1.0.36.1	Online backups for the truly paranoid
+task	2.4.4	Feature-rich console based todo list manager
+task-spooler	0.7.5	Batch system to run tasks one after another
+taskd	1.1.0	Client-server synchronization for todo lists
+tasksh	1.0.0	Shell wrapper for Taskwarrior commands
+tbb	4.3-20150611	Rich and complete approach to parallelism in C++
+tcc	0.9.26	Tiny C compiler
+tcl-tk	8.6.6	Tool Command Language
+tclap	1.2.1	Templatized C++ command-line parser library
+tcpflow	1.4.4	TCP flow recorder
+tcping	1.3.5	TCP connect to the given IP/port combo
+tcpreplay	4.1.0	Replay saved tcpdump files at arbitrary speeds
+tcpsplit	0.2	Break a packet trace into some number of sub-traces
+tcptrace	6.6.7	Analyze tcpdump output
+tcptraceroute	1.5beta7	Traceroute implementation using TCP packets
+tcptrack	1.4.2	Monitor status of TCP connections on a network interface
+tcptunnel	v0.8	TCP port forwarder
+tcsh	6.20.00	Enhanced, fully compatible version of the Berkeley C shell
+td	1.3.0	Your todo list in your terminal
+teapot	2.3.0	Table editor and planner
+tee-clc	14.0.1	Eclipse client for Visual Studio 2010 Team Foundation Server
+teem	1.11.0	Libraries for scientific raster data
+teensy_loader_cli	2.1	Command-line integration for Teensy USB development boards
+tegh	0.3.1	Command-line client for Prontserve
+telegraf	v0.1.9	Server-level metric gathering agent for InfluxDB
+telepathy-gabble	0.18.3	Telepathy Jabber/XMPP connection manager
+telepathy-glib	0.24.0	Telepathy GLib library for clients and connection managers
+telepathy-idle	0.2.0	Telepathy IRC connection manager
+telepathy-mission-control	5.16.2	Telepathy account manager and channel dispatcher
+tenfourfox	31.0.0
+tenyr	v0.6.0	32-bit computing environment
+term	2.1	Open terminal in specified directory (and optionally run command)
+terminal-notifier	1.6.3	Send OS X User Notifications from the command-line
+termrec	0.17	Record videos of terminal output
+termshare	v0.2.0	Interactive or view-only terminal sharing via client or web
+terraform	v0.6.3	Tool to build, change, and version infrastructure
+tesseract	3.04.00	OCR (Optical Character Recognition) engine
+testdisk	7.0	TestDisk is a powerful free data recovery utility
+tevent	0.9.21	Event system based on the talloc memory management library
+texapp	0.6.10	App.net client based on TTYtter
+texi2html	1.82	Convert TeXinfo files to HTML
+texinfo	6.0	Official documentation format of the GNU project
+texmath	0.8.0.2	Haskell library for converting LaTeX math to MathML
+thc-pptp-bruter	0.1.4	Brute force program against PPTP VPN endpoints (TCP port 1723)
+the_platinum_searcher	v1.7.8	Multi-platform code-search similar to ack and ag
+the_silver_searcher	0.31.0	Code-search similar to ack
+thefuck	3.0	Programatically correct mistyped console commands
+theharvester	2.2	Gather materials from public sources (for pen testers)
+theora	1.1.1	Open video compression format
+thrift	0.9.2	Framework for scalable cross-language services development
+thrulay	0.9	Measure performance of a network
+tidy-html5	5.0.0	Granddaddy of HTML tools, with support for modern standards
+tidyp	1.04	Validate and modify HTML
+tiff2png	v0.92	TIFF to PNG converter
+tig	2.1.1	Text interface for Git repositories
+tika	1.10	Content analysis toolkit
+timedog	v1.4	Lists files that were saved by a backup of the OS X Time Machine
+timelimit	1.8	Limit a process's absolute execution time
+timidity	2.14.0	Software synthesizer
+tin	2.2.1	Threaded, NNTP-, and spool-based UseNet newsreader
+tinc	1.0.25	Virtual Private Network (VPN) tool
+tintin	2.01.0	MUD client
+tiny-fugue	5.0b8	Programmable MUD client
+tinycdb	0.78	Create and read constant databases
+tinyproxy	1.8.3	HTTP/HTTPS proxy for POSIX systems
+tinyscheme	1.40	Very small Scheme implementation
+tinysvm	0.09	Support vector machine library for pattern recognition
+tinyxml	2_6_2	XML parser
+tinyxml2	3.0.0	Improved tinyxml (in memory efficiency and size)
+tippecanoe	v1.2.0	Build vector tilesets from collections of GeoJSON features
+titan-server	0.4.4	Distributed graph database
+tivodecode	0.2per4	Convert .tivo to .mpeg
+tkdiff	4.2	Graphical side by side diff utility
+tlassemble	v1.0	Create time lapse movies from image sequences
+tlsdate	0.0.8	Secure rdate replacement
+tmpreaper	1.6.13	Clean up files in directories based on their age
+tmpwatch	2.11	Find and remove files not accessed in a specified time
+tmux	2.0	Terminal multiplexer
+tmux-cssh	1.0.6-0	TMUX with a ClusterSSH-like behavior
+tmux-mem-cpu-load	v3.2.2	CPU, RAM memory, and load monitor for use with tmux
+tn5250	0.17.4	5250 terminal and printer emulator
+tnef	1.4.12	Microsoft MS-TNEF attachment unpacker
+tnote	0.2.1	Small note-taking program for the terminal
+todo-txt	2.10	Minimal, todo.txt-focused editor
+tofrodos	1.7.13	Converts DOS <-> UNIX text files, alias tofromdos
+toilet	0.3	Color-based alternative to figlet (uses libcaca)
+tokyo-cabinet	1.4.48	Lightweight database library
+tokyo-dystopia	0.9.15	Lightweight full-text search system
+tokyo-tyrant	1.1.41	Lightweight database server
+tomcat	8.0.26	Implementation of Java Servlet and JavaServer Pages
+tomcat-native	1.1.33	Lets Tomcat use some native resources for performance
+tomee-jax-rs	1.7.2	TomeEE Web Profile plus JAX-RS
+tomee-plume	1.7.2	Apache TomEE Plume
+tomee-plus	1.7.2	Everything in TomEE Web Profile and JAX-RS, plus more
+tomee-webprofile	1.7.2	All-Apache Java EE 6 Web Profile stack
+topgit	0.9	Git patch queue manager
+tor	0.2.6.10	Anonymizing overlay network for TCP
+torrentcheck	1.00	Command-line torrent viewer and hash checker
+torsocks	v2.1.0	Use SOCKS-friendly applications with Tor
+tpl	v1.6.1	Store and retrieve binary data in C
+tpp	1.3.1	Ncurses-based presentation tool
+trace2html	2015-06-23	Utility from Google Trace Viewer to convert JSON traces to HTML
+tracebox	v0.3.1	Middlebox detection tool
+tractorgen	0.31.7	Generates ASCII tractor art
+trafficserver	5.3.1	HTTP/1.1 compliant caching proxy server
+trafshow	5.2.3	Continuous network traffic display
+trang	20091111	XML schema converter
+transcrypt	v0.9.7	Configure transparent encryption of files in a Git repo
+translate-toolkit	1.12.0	Toolkit for localization engineers
+transmission	2.84	Lightweight BitTorrent client
+trash	v0.8.5	CLI tool that moves files or folder to the trash
+tre	0.8.0	Lightweight, POSIX-compliant regular expression (regex) library
+tree	1.7.0	Display directories as trees (with optional color/HTML output)
+treecc	0.3.10	Aspect-oriented approach to writing compilers
+treeline	2.0.0	Advanced outliner and personal information manager
+trr	22.0.99.5	Type training program for emacs users
+truecrack	v35	Brute-force password cracker for TrueCrypt
+tsung	1.6.0	Load testing for HTTP, PostgreSQL, Jabber, and others
+tta	2.2	TTA lossless audio codec
+ttf2eot	0.0.2-2	Convert TTF files to EOT
+ttf2pt1	3.4.4	True Type Font to Postscript Type 1 converter
+ttfautohint	1.3	Automated hinting process for web fonts
+tth	4.06	TeX/LaTeX to HTML converter
+tty-clock	v0.1	Analog clock in ncurses
+ttylog	0.25	Serial port logger: print everything from a serial device
+ttyrec	1.0.8	Terminal interaction recorder and player
+ttytter	2.1.00	Twitter command-line client
+tuntap	20111101	Virtual network interfaces for OS X
+tutum	0.16.21	Docker platform for dev and ops
+tvnamer	2.3	Automatic TV episode file renamer that uses data from thetvdb.com
+twemcache	v2.6.0	Twitter fork of memcached
+two-lame	0.3.13	Optimized MPEG Audio Layer 2 (MP2) encoder
+txt2man	1.5.6	Convert flat ASCII text to man page format
+txt2tags	2.6	Conversion tool to generating several file formats
+typesafe-activator	1.3.6	Tools for working with Typesafe Reactive Platform
+typespeed	0.6.5	Zap words flying across the screen by typing them correctly
+u-boot-tools	2015.01	Universal boot loader
+uade	2.13	Play Amiga tunes through UAE emulation
+uberftp	2_7	Interactive GridFTP client
+uchardet	0.0.1	Encoding detector library
+ucl	1.03	Data compression library with small memory footprint
+ucommon	6.2.2	GNU C++ runtime library for threads, sockets, and parsing
+ucspi-tcp	0.88	Tools for building TCP client-server applications
+ucspi-tools	v1.2	Various tools to handle UCSPI connections
+udis86	1.7.2	Minimalistic disassembler library for x86
+udns	0.4	DNS resolver library
+udptunnel	1.1	Tunnel UDP packets over a TCP connection
+udpxy	1.0.23-9	UDP-to-HTTP multicast traffic relay daemon
+udunits	2.2.19	Unidata unit conversion library
+ufraw	0.22	Unidentified Flying RAW: RAW image processing utility
+uhd	003_009_001	Hardware driver for all USRP devices.
+uim	1.6.0	Multilingual input method library
+unac	1.8.0	C library and command that removes accents from a string
+unar	1.8.1	RAR archive command-line tools
+unarj	2.65	ARJ file archiver
+unbound	1.5.4	Validating, recursive, caching DNS resolver
+uncrustify	0.61	Source code beautifier
+unfs3	0.9.22	User-space NFSv3 server
+uni2ascii	4.18	Bi-directional conversion between UTF-8 and various ASCII flavors
+unibilium	v1.2.0	Very basic terminfo library.
+unifdef	2.10	Selectively process conditional C preprocessor directives
+unison	2.48.3	Unison file synchronizer
+unittest	0.50-62	C++ Unit Test Framework
+unittest-cpp	v1.4	Unit testing framework for C++
+unixodbc	2.3.2	ODBC 3 connectivity for UNIX
+unoconv	0.7	Convert between any document format supported by OpenOffice
+unp	2.0-pre4	Unpack everything with one command
+unpaper	6.1	Post-processing for scanned/photocopied books
+unrar	5.2.7	Extract, view, and test RAR archives
+unrtf	0.21.9	RTF to other formats converter
+unshield	1.0	Extract files from InstallShield cabinet files
+unyaffs	0.9.6	Extract files from a YAFFS2 filesystem image
+uptimed	v0.4.0	Utility to track your highest uptimes
+upx	3.91	Compress/expand executable files
+uriparser	0.8.2	URI parsing library (strictly RFC 3986 compliant)
+urlview	0.9	URL extractor/launcher
+uru	v0.8.0	Use multiple rubies on multiple platforms
+usbmuxd	1.0.10	USB multiplexor daemon for iPhone and iPod Touch devices
+userspace-rcu	0.8.7	Library for userspace RCU (read-copy-update)
+utimer	0.4	Multifunction timer tool
+uudeview	0.5.20	Smart multi-file multi-part decoder
+uwsgi	2.0.11.1	Full stack for building hosting services
+v	v1.0	Node version management
+v8	4.5.103.35	Google's JavaScript engine
+vala	0.34.2	Compiler for the GObject type system
+valabind	0.9.2	Vala bindings for radare, reverse engineering framework
+valgrind	3.11.0	Dynamic analysis tools (memory, debug, profiling)
+validns	0.8	DNS/DNSSEC zone validator
+valkyrie	2.0.0	GUI for Memcheck and Helgrind tools in Valgrind 3.6.X
+varnish	4.0.3	High-performance HTTP accelerator
+vassh	0.2	Vagrant Host-Guest SSH Command Wrapper/Proxy/Forwarder
+vault	v0.3.0	secures, stores, and tightly controls access to secrets
+vault-cli	3.1.6	Subversion-like utility to work with Jackrabbit FileVault
+vavrdiasm	3.1	8-bit Atmel AVR disassembler
+vbindiff	3.0_beta4	Visual Binary Diff
+vc4asm	v0.1.8	Macro assembler for Broadcom VideoCore IV aka Raspberry Pi GPU
+vcdimager	0.7.24	(Super) video CD authoring solution
+vcodex	2013-05-31	Standalone vczip command and vcodex library
+vcprompt	1.2.1	Provide version control info in shell prompts
+vcsh	v1.20150502-1	Config manager based on git
+vde	2-2.3.2	Ethernet compliant virtual network
+vdirsyncer	0.6.0	Synchronize calendars and contacts
+vegeta	v5.8.0	HTTP load testing tool and library
+vera++	1.3.0	Programmable tool for C++ source code
+verilator	3.874	Verilog simulator
+vert.x	3.0.0	Application platform for the JVM
+vf	0.0.1	Enhanced version of `cd` command
+vgmstream	r1040	Library for playing streamed audio formats from video games
+vice	2.4	Versatile Commodore Emulator
+viennacl	1.7.0	ViennaCL is a linear algebra library leveraging parallel computation.
+vifm	0.8	Ncurses based file manager with vi like keybindings
+vilistextum	2.6.9	HTML to text converter
+vim	v7.4.884	Vi workalike with many additional features
+vimpager	2.06	Use ViM as PAGER
+vimpc	0.09.1	Ncurses based mpd client with vi like key bindings
+vip	19971113	Program that provides for interactive editing in a pipeline
+virtualhost.sh	1.35	Script for OS X to create Apache virtual hosts
+virtualpg	1.0.1	Loadable dynamic extension for SQLite and SpatiaLite
+virtuoso	7.2.0-1	High-performance object-relational SQL database
+visionmedia-watch	0.3.1	Periodically executes the given command
+visitors	0.7	eb server log analyzer
+visualnetkit	1.4	Graphical environment to configure and manage Netkit lab
+vit	1.2	Front-end for Task Warrior
+vmalloc	2013-05-31	Standalone aso+cdt+vmalloc library
+vncsnapshot	1.2a	Command-line utility for taking VNC snapshots
+vnstat	1.14	Console-based network traffic monitor
+vnu	20150412	Nu Markup Checker: command-line and server HTML validator
+volatility	2.4	Advanced memory forensics framework
+voldemort	1.9.5	Distributed key-value storage system
+voltdb	3.7	Horizontally-scalable, in-memory SQL RDBMS
+voms	2_0_11	Virtual organization membership service
+vorbis-tools	1.4.0	Ogg Vorbis CODEC tools
+vorbisgain	0.37	Add Replay Gain volume tags to Ogg Vorbis files
+vowpal-wabbit	8.0	Online learning algorithm
+vpcs	0.6	Virtual PC simulator for testing IP routing
+vpnc	0.5.3r550	Cisco VPN concentrator client
+vramsteg	1.0.1	Add progress bars to command-line applications
+vrpn	07_33	Virtual reality peripheral network
+vsftpd	3.0.3	Secure FTP server for UNIX
+vstr	1.0.15	C string library
+vtclock	2005-02-20	Text-mode fullscreen digital clock
+vte	0.28.2	Terminal emulator widget used by GNOME terminal
+vte3	0.40.2	Terminal emulator widget used by GNOME terminal
+vttest	20140305	Test compatibility of VT100-compatible terminals
+w-calc	2.5	Very capable calculator
+w3m	0.5.3	Pager/text based browser
+wait_on	1.1	Provides shell scripts with access to kqueue(3)
+wakatime-cli	4.0.14	Command-line interface to the WakaTime api
+wakeonlan	0.41	Sends magic packets to wake up network-devices
+waon	v0.11	Wave-to-notes transcriber
+wartremover	0.13	Flexible Scala code linting tool
+watch	3.3.10	Executes a program periodically, showing output fullscreen
+watch-sim	1.0.0	Command-line WatchKit application launcher
+watchman	v3.8.0	Watch files and take action when they change
+wavpack	4.75.0	Hybrid lossless audio compression
+wbox	5	HTTP testing tool and configuration-less HTTP server
+wdiff	1.2.2	Display word differences between text files
+web100clt	3.7.0.2	Command-line version of NDT diagnostic client
+webalizer	2.23-08	Web server log file analysis
+webarchiver	0.9	allows you to create Safari .webarchive files
+webfs	1.21	HTTP server for purely static content
+webkit2png	v0.7	Create screenshots of webpages from the terminal
+webp	0.4.3	Image format providing lossless and lossy compression for web images
+weechat	1.3	Extensible IRC client
+weighttp	0.3	Webserver benchmarking tool that supports multithreading
+wellington	v0.9.3	Adds file awareness to SASS
+wemux	v3.2.0	Enhances tmux's to provide multiuser terminal multiplexing
+wget	1.16.3	Internet file retriever
+wgetpaste	2.26	Automate pasting to a number of pastebin services
+whatmask	1.2	Network settings helper
+when	1.1.34	Tiny personal calendar
+whereami	v1.0	Provides user's current location from the command-line
+whirr	0.8.2	Set of libraries for running cloud services
+whitedb	0.7.3	Lightweight in-memory NoSQL database library
+whohas	0.29	Query multiple distributions' package archives
+why3	0.86.1	Platform for deductive program verification
+wifi-password	0.1.0	Show the current WiFi network password
+wiggle	1.0	Program for applying patches with conflicting changes
+wildfly-as	9.0.1	Managed application runtime for building applications
+wimlib	1.8.2	Library to create, extract, and modify Windows Imaging files
+wine	1.6.2	Wine Is Not an Emulator
+winetricks	20150810	Download and install various runtime libraries
+winexe	1.00	Remote Windows-command executor
+wireshark	1.12.7	Graphical network analyzer and capture tool
+wirouter_keyrec	1.1.2	Recover the default WPA passphrases from supported routers
+with-readline	0.1.1	Allow GNU Readline to be used with arbitrary programs
+wla-dx	v9.6	Yet another crossassembler package
+wordnet	3.0	Lexical database for the English language
+wordplay	7.22	Anagram generator
+wput	0.6.2	Tiny, wget-like FTP client for uploading files
+wrangler	1.1.01	Refactoring tool for Erlang with emacs and Eclipse integration
+writerperfect	0.9.4	Library for importing WordPerfect documents
+wrk	4.0.1	HTTP benchmarking tool
+wrk-trello	1.0.1	Command-line interface to Trello
+wry	v1.8.2	Command-line App.net tool
+wslay	1.0.0	C websocket library
+wsmancli	2.3.1	Openwsman command-line client
+wtf	20141212	Translate common Internet acronyms
+wv	1.2.9	Programs for accessing Microsoft Word documents
+wv2	0.4.2	Programs for accessing Microsoft Word documents
+wwwoffle	2.9	Better browsing for computers with intermittent connections
+wxmac	3.0.2	wxWidgets, a cross-platform C++ GUI toolkit (for OS X)
+wxpython	3.0.2.0	Python bindings for wxWidgets
+wy60	2.0.9	Wyse 60 compatible terminal emulator
+wyrd	1.4.6	Ncurses-based front-end for remind
+x11vnc	0.9.13	VNC server for real X displays
+x264	r2555	H.264/AVC encoder
+x265	x265_1.7	H.265/HEVC encoder
+xa	2.3.7	6502 cross assembler
+xapian	1.2.19	C++ search engine library with many bindings
+xar-mackyle	1.6.1	eXtensible ARchiver
+xaric	0.13.6	IRC client
+xbee-comm	v1.5	XBee communication libraries and utilities
+xcproj	0.1.2	Manipulate Xcode project files
+xctool	v0.2.6	Drop-in replacement for xcodebuild with a few extra features
+xdelta	3-3.0.10	Binary diff, differential compression tools
+xdot	0.6	Interactive viewer for graphs written in Graphviz's dot language.
+xerces-c	3.1.2	Validating XML parser
+xhyve	v0.2.0	xhyve, lightweight OS X virtualization solution based on FreeBSD's bhyve
+xlslib	2.4.0	C++/C library to construct Excel .xls files in code
+xml-coreutils	0.8.1	Powerful interactive system for text processing
+xml-security-c	1.7.3	Implementation of primary security standards for XML
+xml-tooling-c	1.5.3	Provides a higher level interface to XML processing
+xml2	0.5	Makes XML and HTML more amenable to classic UNIX text tools
+xmlcatmgr	2.2	Manipulate SGML and XML catalogs
+xmlformat	1.04	Format XML documents
+xmlrpc-c	1.33.17	Lightweight RPC library (based on XML and HTTP)
+xmlsh	1_2_5	XML shell
+xmlstarlet	1.6.1	XML command-line utilities
+xmlto	0.0.26	Convert XML to another format (based on XSL or other tools)
+xmltoman	0.4	XML to manpage converter
+xmp	4.0.10	Command-line player for module music formats (MOD, S3M, IT, etc)
+xonsh	0.1.5	Python-ish, BASHwards-compatible shell language and command prompt
+xorriso	1.4.0	ISO9660+RR manipulation tool
+xplanet	1.3.0	Create HQ wallpapers of planet Earth
+xplanetfx	2.6.6	Configure, run or daemonize xplanet for HQ Earth wallpapers
+xqilla	2.3.1	XQuery and XPath 2 command-line interpreter
+xrootd	4.1.1	High performance, scalable, fault-tolerant access to data
+xsane	0.999	Graphical scanning frontend
+xsd	4.0.0	XML Data Binding for C++
+xsp	3.0.11	Mono's ASP.NET hosting server
+xspin	5.2.5	Software verification tool (developed at Bell Labs)
+xstow	1.0.2	Extended replacement for GNU Stow
+xsw	0.3.5	Slide show presentation tool
+xtail	2.1	Watch growth of multiple files or directories (like `tail -f`)
+xtitle	1.0.4	Set window title and icon for your X terminal
+xulrunner	33.0	Mozilla runtime package to bootstrap XUL+XPCOM applications
+xvid	1.3.4	High-performance, high-quality MPEG-4 video library
+xz	5.2.1	General-purpose data compression with high compression ratio
+yacas	1.3.4	General purpose computer algebra system
+yaf	2.7.1	Yet another flowmeter: processes packet data from pcap(3)
+yafc	1.3.6	Command-line FTP client
+yajl	2.1.0	Yet Another JSON Library
+yamcha	0.33	NLP text chunker using Support Vector Machines
+yamdi	1.9	Add metadata to Flash video
+yaml-cpp	0.5.2	C++ YAML parser and emitter for YAML 1.2 spec
+yap	6.2.2	Prolog compiler designed for performance and extensibility
+yara	v3.4.0	Malware identification and classification tool
+yash	2.37	Yet another shell: a POSIX-compliant command-line shell
+yasm	1.3.0	Modular BSD reimplementation of NASM
+yaws	2.0	Webserver for dynamic content (written in Erlang)
+yaz	5.14.4	Toolkit for Z39.50/SRW/SRU clients/servers
+yaze-ag	2.30.1	Yet Another Z80 Emulator (by AG)
+yazpp	1.6.2	C++ API for the Yaz toolkit
+yconalyzer	1.0.4	TCP traffic analyzer
+yelp-tools	3.18.0	Tools that help create and edit Mallard or DocBook documentation.
+yelp-xsl	3.18.0	Yelp's universal stylesheets for Mallard and DocBook
+yeti	v0.9.9	ML-style functional programming language that runs on the JVM
+ykclient	2.14	Library to validate YubiKey OTPs against YubiCloud
+ykpers	1.17.1	YubiKey personalization library and tool
+yle-dl	2.7.2	Download Yle videos from the command-line
+youtube-dl	2016.10.26	Download YouTube videos from the command-line
+yubico-piv-tool	1.0.0	Command-line tool for the YubiKey NEO PIV applet
+yuicompressor	2.4.8	Yahoo! JavaScript and CSS compressor
+yydecode	0.2.10	Decode yEnc archives
+z	v1.8	Tracks most-used directories to make cd smarter
+z80asm	1.8	Assembler for the Zilog Z80 microprcessor and compatibles
+z80dasm	1.1.3	Disassembler for the Zilog Z80 microprocessor and compatibles
+zabbix	2.4.6	Availability and monitoring solution
+zbackup	1.4.4	Globally-deduplicating backup tool (based on ideas in rsync)
+zbar	0.10	Suite of barcodes-reading tools
+zdelta	2.1	Lossless delta compression library
+zebra	2.0.60	Information management system
+zeromq	4.1.3	High-performance, asynchronous messaging library
+zile	2.4.11	Zile Is Lossy Emacs (ZILE)
+zinc	0.3.7	Stand-alone version of sbt's Scala incremental compiler
+zint	2.4.3	Barcode encoding library supporting over 50 symbologies
+zlib	1.2.11	General-purpose lossless data-compression library
+zmap	v2.1.1	Network scanner for Internet-wide network studies
+zmqpp	4.1.2	High-level C++ binding for zeromq
+znc	1.6.1	Advanced IRC bouncer
+zookeeper	3.4.6	Centralized server for distributed coordination of services
+zopfli	1.0.0	New zlib (gzip, deflate) compatible compressor
+zorba	3.0	NoSQL query processor
+zpaq	7.0.5	Incremental, journaling command-line archiver
+zpython	5.0.5	Embeds a Python interpreter into zsh
+zsh	5.2	UNIX shell (command interpreter)
+zsh-completions	0.12.0	Additional completion definitions for zsh
+zsh-history-substring-search	v1.0.0	Zsh port of Fish shell's history search
+zsh-lovers	0.9.0	Tips, tricks, and examples for zsh
+zsh-syntax-highlighting	0.2.1	Fish shell like syntax highlighting for zsh
+zshdb	0.09	Debugger for zsh
+zssh	1.5	Interactive file transfers over SSH
+zsync	0.6.2	File transfer program
+zurl	1.4.9	HTTP and WebSocket client worker with ZeroMQ interface
+zxcc	0.5.7	CP/M 2/3 emulator for cross-compiling and CP/M tools under UNIX
+zzuf	0.13	Transparent application input fuzzer
