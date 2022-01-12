@@ -25,11 +25,12 @@ MAIN:{
  exit unless -d $re->{'CEL'};
  # $CPU = `uname -m` =~ /x86_64/ ? 'intel' : 'ppc'; # Power Macintosh
   $OS_Version = `sw_vers -productVersion`;
-   $OS_Version =~ s/^(10\.1\d)\.?\d*\n/$1/;
-    $OS_Version =~ s/^(10\.)([4-9])\.?\d*\n/${1}0$2/;
- %MAC_OS = ('el_capitan'=>'10.11','yosemite'=>'10.10','mavericks'=>'10.09',
-            'mountain_lion'=>'10.08','lion'=>'10.07','snow_leopard'=>'10.06',
-            'leopard'=>'10.05','tiger'=>'10.04');
+   $OS_Version =~ s/^(10\.1[01]).*\n/$1/;
+    $OS_Version =~ s/^(10\.)([4-9]).*\n/${1}0$2/;
+  exit if $OS_Version =~ /^1[12]|^10\.1[2-5]|^10\.[0-3]($|\.)/;
+  %MAC_OS = ('el_capitan'=>'10.11','yosemite'=>'10.10','mavericks'=>'10.09',
+             'mountain_lion'=>'10.08','lion'=>'10.07','snow_leopard'=>'10.06',
+             'leopard'=>'10.05','tiger'=>'10.04');
 
  if( $AR[1] and $AR[1] =~ m!/.*(\\Q|\\E).*/!i ){
   $AR[1] !~ /.*\\Q.+\\E.*/ ? die" nothing in regex\n" :
