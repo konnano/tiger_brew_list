@@ -87,7 +87,7 @@ my $re = shift;
 
 sub DB_2{
 my( $re,%NA ) = @_;
- tie my %tap,"NDBM_File","$re->{'HOME'}/DBM",O_RDONLY,0;
+ tie my %tap,"NDBM_File","$re->{'HOME'}/TDB",O_RDONLY,0;
    %NA = %tap;
   untie %tap;
  $re->{'OS'} = %NA ? \%NA : die " Not read DBM\n";
