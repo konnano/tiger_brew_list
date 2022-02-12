@@ -6,6 +6,8 @@ tiger brew list コマンド
 
 アンインストールはtiger_brew_list-mainフォルダー内で ./init.sh unlink
 
+./init.sh JA オプションで日本語表示にできます、英語表示に戻すにはデフォルトで再インストールして下さい
+
 : オプション
 
 '-l' オプションでFormulaリストが表示されます、//で正規表現が使えます
