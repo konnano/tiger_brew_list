@@ -339,7 +339,7 @@ chadwick	0.6.4	RetrosheetMLBの実況ファイルを解析するためのChadwic
 chapel	1.11.0	並列コンピューティング用に設計された新しいプログラミング言語
 charm-tools	1.7.0	ジュジュチャームを作成および維持するためのツール
 chcase	2.0	Perlファイルの名前変更スクリプト
-cheat	2.1.14	* nixコマンドのインタラクティブチートシートを作成して表示する
+cheat	2.1.14	*nixコマンドのインタラクティブチートシートを作成して表示する
 check	0.10.0	Cユニットテストフレームワーク
 check_postgres	2.22.0	Postgresデータベースを監視する
 checkbashisms	2.15.8	シェルスクリプトのバシズムをチェックします
@@ -358,7 +358,7 @@ chromaprint	1.2	AcoustIDプロジェクトのコアコンポーネント（オ�
 chrome-cli	1.5.0	コマンドラインからGoogleChromeを制御する
 chromedriver	2.19	多くのブラウザでWebアプリを自動テストするためのツール
 chruby	v0.3.9	Ruby環境ツール
-chruby-fish	v0.6.0	魚の殻で動作するようにchrubyの周りの薄いラッパー
+chruby-fish	v0.6.0	Fish shellで動作するようにchrubyの周りの薄いラッパー
 chuck	1.3.5.1	並行したオンザフライのオーディオプログラミング言語
 cidrmerge	1.5.3	ホワイトリストとマージするCIDR（ネットワーク除外）
 cifer	1.2.0	Cでの古典的な暗号クラッキングの自動化に取り組む
@@ -414,7 +414,7 @@ cmus	v2.7.1	ncursesベースのインターフェースを備えた音楽プレ�
 cntlm	0.92.3	トンネリングを使用したNTLM認証プロキシ
 coccinelle	1.0.0-rc21	Cコード用のプログラムマッチングおよび変換エンジン
 cocot	1.1-20120313	ttyのコードコンバーター
-coda-cli	v1.0.5	パニックのコーダのためのシェル統合
+coda-cli	v1.0.5	Panic's Codaのためのシェル統合
 codequery	v0.16.0	C、C++、Java、Python、Ruby、またはGoコードのインデックス作成、クエリ、または検索
 cogl	1.22.0	Clutter用に開発された低レベルのOpenGL抽象化ライブラリ
 coin	3.1.3	3Dグラフィックス開発用の保持モードツールキット
@@ -576,7 +576,7 @@ direnv	v2.7.0	$ PWDに基づく環境変数のロード/アンロード
 dirmngr	1.1.1	証明書失効リストを管理するためのサーバー
 dirt	1.0	実験サンプルの再生
 disco	0.5.4	MapReduceパラダイムに基づく分散コンピューティングフレームワーク
-discodex	2012-01-10	ディスコの分散インデックス
+discodex	2012-01-10	discoの分散インデックス
 discount	2.1.8a	MarkdownのC実装
 disktype	9	ディスクまたはディスクイメージのコンテンツ形式を検出する
 distcc	3.2rc1	分散コンパイラクライアントおよびサーバー
@@ -771,7 +771,7 @@ findutils	4.4.2	GNU find、xargs、およびlocateのコレクション
 fio	2.2.9	I/Oベンチマークとストレステスト
 fish	2.7.1	UNIXライクなオペレーティングシステム用のユーザーフレンドリーなコマンドラインシェル
 fits	0.8.6-1	ファイル情報ツールセット
-fizsh	1.0.8	ZSH用の魚のようなフロントエンド
+fizsh	1.0.8	ZSH用のFishのようなフロントエンド
 flac	1.3.1	無料のロスレスオーディオコーデック
 flac123	123-0.0.12	FLACオーディオファイルを再生するためのコマンドラインプログラム
 flactag	2.0.4	シングルアルバムのFLACファイルにMusicBrainzCUEシートのタグを付ける
