@@ -45,15 +45,15 @@ tie my %tap,"NDBM_File","$ENV{'HOME'}/.BREW_LIST/TDB",O_RDWR|O_CREAT,0644 or die
      }elsif( $data =~ /^\s*end/ and $IN == 1){ $IN = 0; next;
      }
      if( $data =~ s/^\s*depends_on\s+:macos.+:([^\s]+).*\n/$1/ ){
-      $tap{"${name}un_xcode"} = 1 if eval "$OS_Version < $MAC_OS{$data}";
+      $tap{"${name}un_xcode"} = 1 if "$OS_Version < $MAC_OS{$data}";
      }elsif( $data =~ /^\s*depends_on\s+:xcode[^"]+:build/ ){
       $tap{"${name}un_xcode"} = 1 unless $Xcode;
       $tap{"${name}un_xcode"} = 0 if $tap{"$name$OS_Version"};
      }elsif( $data =~ s/^\s*depends_on\s+:xcode.+\["([^"]+)",\s+:build].*\n/$1/ ){
-      $tap{"${name}un_xcode"} = 1 if eval "$Xcode lt $data";
+      $tap{"${name}un_xcode"} = 1 if "$Xcode lt $data";
       $tap{"${name}un_xcode"} = 0 if $tap{"$name$OS_Version"};
      }elsif( $data =~ s/^\s*depends_on\s+:xcode.+"([^"]+)".*\n/$1/ ){
-      $tap{"${name}un_xcode"} = 1 if eval "$Xcode lt $data";
+      $tap{"${name}un_xcode"} = 1 if "$Xcode lt $data";
      }elsif( $data =~ /^\s*keg_only/ ){
       $tap{"${name}keg"} = 1;
      }
