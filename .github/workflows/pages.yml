@@ -49,7 +49,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v1
 
-    theme: jekyll-theme-hacker
+theme: jekyll-theme-hacker
 
-    plugins:
-      - jekyll-sitemap
+plugins:
+  - jekyll-sitemap
