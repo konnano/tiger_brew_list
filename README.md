@@ -2,7 +2,7 @@ tiger brew list コマンド
 
 : 使用方法
 
-ダウンロード後、tiger_brew_list-mainフォルダー内で ./init.sh を実行して下さい、コマンド名は t_brew
+ダウンロード後、tiger_brew_list-mainフォルダー内で ./init.sh を実行して下さい、コマンド名は `t_brew`
 
 アンインストールはtiger_brew_list-mainフォルダー内で ./init.sh unlink
 
