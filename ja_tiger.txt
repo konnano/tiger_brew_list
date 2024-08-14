@@ -2,7 +2,7 @@ a2ps	4.14	Any-to-PostScriptフィルター
 a52dec	0.7.4	ATSC A/52ストリームをデコードするためのライブラリ（別名「AC-3」）
 aacgain	1.8	AAC対応バージョンのmp3gain
 aalib	1.4rc5.	ポータブルASCIIアートグラフィックライブラリ
-aamath	0.3	数式をASCIIアートとしてレンダリングします
+aamath	0.3	数式をASCIIアートとしてレンダリングします 
 aap	1.094	Aapは、ソフトウェアをダウンロード、ビルド、およびインストールするための作りのようなツールです。
 aardvark_shell_utils	1.0	シェルスクリプトまたはコマンドラインユーザーを支援するユーティリティ
 abcde	2.7	より良いCDエンコーダー
